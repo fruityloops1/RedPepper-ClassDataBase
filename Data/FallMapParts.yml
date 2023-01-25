@@ -1,0 +1,13 @@
+Args:
+  Arg0:
+    Default: 60
+    Description: Amount of frames the object will fall for
+    Name: FallFrames
+    Required: false
+ClassName: FallMapParts
+ClassNameFull: al::FallMapParts
+Description: Object that falls after being stepped on
+DescriptionAdditional: Plays Appear, Wait, End, FallStart, Fall actions
+Name: Fall Map Parts
+Switches:
+  SwitchAppear: null

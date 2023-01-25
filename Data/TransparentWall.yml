@@ -1,0 +1,9 @@
+Args: null
+ClassName: TransparentWall
+ClassNameFull: TransparentWall
+Description: Invisible wall
+DescriptionAdditional: null
+Name: Transparent Wall
+Switches:
+  SwitchAppear: null
+  SwitchKill: null

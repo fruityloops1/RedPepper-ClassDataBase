@@ -1,0 +1,9 @@
+Args:
+  MarioNo:
+    Required: false
+ClassName: PlayerActor
+ClassNameFull: PlayerActor
+Description: The Player
+DescriptionAdditional: Put in StartInfo
+Name: Player
+Switches: null

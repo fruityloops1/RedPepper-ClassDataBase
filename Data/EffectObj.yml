@@ -1,0 +1,8 @@
+Args: null
+ClassName: EffectObj
+ClassNameFull: al::EffectObj
+Description: Plays the "Wait" effect from the object's name in the effect database
+DescriptionAdditional: null
+Name: Effect Object
+Switches:
+  SwitchAppear: null
