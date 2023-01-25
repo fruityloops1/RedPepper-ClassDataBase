@@ -31,12 +31,12 @@ if data['Args'] is not None:
         
         curArg = data['Args'][arg]
 
-        if 'Name' in data['Args']:
+        if 'Name' in curArg:
             print(f"\t\tName: {curArg['Name']}")
-        if 'Description' in data['Args']:
+        if 'Description' in curArg:
             print(f"\t\tDescription: {curArg['Description']}")
-        if 'Default' in data['Args']:
+        if 'Default' in curArg:
             print(f"\t\tDefault Value: {curArg['Default']}")
-        if 'Required' in data['Args']:
+        if 'Required' in curArg:
             print(f"\t\tIs required: {curArg['Required']}")
         i += 1
