@@ -24,7 +24,7 @@ Name: Grinder
 RailRequired: true
 Switches:
   SwitchA:
-    Description: When triggered, the saw starts cutting
+    Description: When triggered, the grinder starts cutting
     Type: Read
   SwitchB:
     Description: Triggers when Grinder has reached the end of its rail

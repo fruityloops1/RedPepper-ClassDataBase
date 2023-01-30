@@ -1,0 +1,22 @@
+Args:
+  Arg3:
+    Default: 0
+    Description: Move type (0 = Loop, 1 = Turn, 2 = Stop, 3 = Restart)
+    Name: MoveType
+    Required: false
+  Arg7:
+    Default: false
+    Description: Hides shadow if false
+    Name: ShowShadow
+    Required: false
+ClassName: KeyMoveMapParts
+ClassNameFull: al::KeyMoveMapParts
+Description: Object that moves between keyframes (linked objects)
+DescriptionAdditional: null
+Name: Keyframe Map Parts
+RailRequired: false
+Switches:
+  SwitchA:
+    Description: When triggered, start moving
+    Type: Read
+  SwitchAppear: null
