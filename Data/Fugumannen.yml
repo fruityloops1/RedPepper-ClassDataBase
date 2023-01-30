@@ -9,4 +9,5 @@ ClassNameFull: Fugumannen
 Description: Underwater enemy that moves on a rail
 DescriptionAdditional: null
 Name: Porcupuffer
+RailRequired: true
 Switches: null

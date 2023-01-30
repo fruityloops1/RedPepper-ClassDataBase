@@ -6,4 +6,5 @@ ClassNameFull: PlayerActor
 Description: The Player
 DescriptionAdditional: Put in StartInfo
 Name: Player
+RailRequired: false
 Switches: null

@@ -5,4 +5,5 @@ Description: Object that starts spinning when ground pounded on or hit from belo
   (like the rotating blocks from Super Mario World)
 DescriptionAdditional: Unused
 Name: AttackRevolvingPanel
+RailRequired: false
 Switches: null

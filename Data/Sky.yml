@@ -4,5 +4,6 @@ ClassNameFull: al::Sky
 Description: Object that is tethered to the camera
 DescriptionAdditional: Plays action with same name as the object
 Name: Sky
+RailRequired: false
 Switches:
   SwitchAppear: null

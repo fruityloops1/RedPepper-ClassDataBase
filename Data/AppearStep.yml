@@ -4,5 +4,6 @@ ClassNameFull: AppearStep
 Description: Object that appears when SwitchAppear is activated
 DescriptionAdditional: Plays "Appear" and "Disappear" actions
 Name: Appear Step
+RailRequired: false
 Switches:
   SwitchAppear: null

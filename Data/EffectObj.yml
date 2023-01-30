@@ -4,5 +4,6 @@ ClassNameFull: al::EffectObj
 Description: Plays the "Wait" effect from the object's name in the effect database
 DescriptionAdditional: null
 Name: Effect Object
+RailRequired: false
 Switches:
   SwitchAppear: null

@@ -4,6 +4,7 @@ ClassNameFull: TransparentWall
 Description: Invisible wall
 DescriptionAdditional: null
 Name: Transparent Wall
+RailRequired: false
 Switches:
   SwitchAppear: null
   SwitchKill: null

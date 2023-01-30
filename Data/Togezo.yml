@@ -4,4 +4,5 @@ ClassNameFull: Togezo
 Description: Enemy with a spiky shell that walks around and chases the player
 DescriptionAdditional: null
 Name: Spiny
+RailRequired: false
 Switches: null

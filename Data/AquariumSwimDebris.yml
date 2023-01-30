@@ -4,5 +4,6 @@ ClassNameFull: AquariumSwimDebris
 Description: Object that uses ObjectData/AquariumSwimDebris.szs
 DescriptionAdditional: null
 Name: AquariumSwimDebris
+RailRequired: false
 Switches:
   SwitchAppear: null

@@ -7,5 +7,5 @@ if len(sys.argv) != 2:
 
 newClassName = sys.argv[1]
 
-new = {'ClassName': newClassName, 'ClassNameFull': newClassName, 'Name': " ", 'Description': None, 'DescriptionAdditional': None, 'Args': None, 'Switches': None}
+new = {'ClassName': newClassName, 'ClassNameFull': newClassName, 'Name': " ", 'Description': None, 'DescriptionAdditional': None, 'Args': None, 'Switches': None, 'RailRequired': False}
 write(new, f"Data/{newClassName}.yml")
