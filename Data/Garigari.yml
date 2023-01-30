@@ -27,4 +27,5 @@ Switches:
     Description: When triggered, the saw starts cutting
     Type: Read
   SwitchB:
+    Description: Triggers when Grinder has reached the end of its rail
     Type: Write
