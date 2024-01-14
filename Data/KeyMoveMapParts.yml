@@ -5,7 +5,7 @@ Args:
     Name: MoveType
     Required: false
   Arg7:
-    Default: false
+    Default: 0
     Description: Hides shadow if false
     Name: ShowShadow
     Required: false

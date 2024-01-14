@@ -5,7 +5,7 @@ Args:
     Name: MoveType
     Required: false
   Arg7:
-    Default: false
+    Default: 0
     Description: Unused
     Required: false
 ClassName: KeyMoveAndFallParts
