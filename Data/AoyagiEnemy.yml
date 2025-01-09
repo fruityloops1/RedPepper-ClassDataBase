@@ -3,6 +3,6 @@ ClassName: AoyagiEnemy
 ClassNameFull: AoyagiEnemy
 Description: Norihiro Aoyagi's test enemy
 DescriptionAdditional: Plays 'Walk' animation in place, and plays 'SwimStand' animation on actors that enter the linked Area.
-Name: ' '
+Name: null
 RailRequired: false
 Switches: null
