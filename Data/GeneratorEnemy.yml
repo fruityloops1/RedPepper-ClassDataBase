@@ -1,8 +1,13 @@
-Args: null
+Args:
+  Arg1:
+    Default: 0
+    Description: -1 = Goomba, 1 = Dry Bones
+    Name: EnemyType
+    Required: true
 ClassName: GeneratorEnemy
 ClassNameFull: GeneratorEnemy
 Description: null
 DescriptionAdditional: null
-Name: ' '
+Name: 'Bowser Box'
 RailRequired: false
 Switches: null

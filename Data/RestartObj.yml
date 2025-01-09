@@ -1,8 +1,8 @@
 Args: null
 ClassName: RestartObj
 ClassNameFull: RestartObj
-Description: null
+Description: Checkpoint flag that automatically spawns player near it when he dies.
 DescriptionAdditional: null
-Name: ' '
+Name: 'Checkpoint Flag'
 RailRequired: false
 Switches: null

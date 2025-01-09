@@ -1,8 +1,8 @@
 Args: null
 ClassName: Grass
 ClassNameFull: Grass
-Description: null
+Description: Map Part that reacts to movement and can be burned
 DescriptionAdditional: null
-Name: ' '
+Name: 'Foliage'
 RailRequired: false
 Switches: null

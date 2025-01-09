@@ -1,8 +1,8 @@
 Args: null
 ClassName: Hoppun
 ClassNameFull: Hoppun
-Description: null
+Description: Blick Brock that tries to attack player
 DescriptionAdditional: null
-Name: ' '
+Name: 'Fake Brick Block'
 RailRequired: false
 Switches: null

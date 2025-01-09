@@ -3,6 +3,9 @@ ClassName: Teresa
 ClassNameFull: Teresa
 Description: null
 DescriptionAdditional: null
-Name: ' '
+Name: 'Boo'
 RailRequired: false
-Switches: null
+Switches:
+  SwitchA:
+    Description: When triggered, appears.
+    Type: Read

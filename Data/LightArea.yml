@@ -1,8 +1,8 @@
 Args: null
 ClassName: LightArea
 ClassNameFull: LightArea
-Description: null
+Description: Area that applies specific light preset to actors which enter
 DescriptionAdditional: null
-Name: ' '
+Name: 'Light Area'
 RailRequired: false
 Switches: null

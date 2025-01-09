@@ -1,8 +1,23 @@
-Args: null
+Args:
+  Arg0:
+    Default: 90.0
+    Description: How many degrees to rotate
+    Name: RotateDegree
+    Required: false
+  Arg1:
+    Default: 30
+    Description: How many frames to play RotateSign animation before rotating
+    Name: RotateSignFrames
+    Required: false
+  Arg2:
+    Default: 30
+    Description: how many frames to rotate
+    Name: RotateFrames
+    Required: false
 ClassName: ClockMapParts
 ClassNameFull: ClockMapParts
 Description: null
 DescriptionAdditional: null
-Name: ' '
+Name: 'Clock Map Parts'
 RailRequired: false
 Switches: null

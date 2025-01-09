@@ -1,8 +1,13 @@
-Args: null
+Args:
+  Arg0:
+    Default: 40
+    Description: Initial bounce velocity applied to Player
+    Name: BounceHeight
+    Required: false
 ClassName: Trampoline
 ClassNameFull: Trampoline
 Description: null
 DescriptionAdditional: null
-Name: ' '
+Name: 'Trampoline'
 RailRequired: false
 Switches: null

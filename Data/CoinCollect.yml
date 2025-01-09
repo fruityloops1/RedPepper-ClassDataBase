@@ -1,8 +1,13 @@
-Args: null
+Args:
+  Arg0:
+    Default: 1
+    Description: Star medal number 
+    Name: ID
+    Required: true
 ClassName: CoinCollect
 ClassNameFull: CoinCollect
 Description: null
 DescriptionAdditional: null
-Name: ' '
+Name: 'Star Medal'
 RailRequired: false
 Switches: null

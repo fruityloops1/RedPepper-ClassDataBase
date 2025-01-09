@@ -1,8 +1,8 @@
 Args: null
 ClassName: BalanceTruck
 ClassNameFull: BalanceTruck
-Description: null
+Description: A green platform that moves forwards/backwards, depending on which side is stood on.
 DescriptionAdditional: null
-Name: ' '
+Name: 'Switchboard'
 RailRequired: false
 Switches: null

@@ -1,8 +1,8 @@
 Args: null
 ClassName: JumpFlipBoard
 ClassNameFull: JumpFlipBoard
-Description: null
+Description: Map part that flips when player jumps
 DescriptionAdditional: null
-Name: ' '
+Name: 'Jump-Flip Panel'
 RailRequired: false
 Switches: null

@@ -1,8 +1,8 @@
 Args: null
 ClassName: WaterArea
 ClassNameFull: WaterArea
-Description: null
+Description: Swimmable area
 DescriptionAdditional: null
-Name: ' '
+Name: 'Water Area'
 RailRequired: false
 Switches: null

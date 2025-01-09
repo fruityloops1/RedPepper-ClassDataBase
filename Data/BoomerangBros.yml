@@ -1,8 +1,13 @@
-Args: null
+Args:
+  Arg7:
+    Default: 0
+    Description: If true, drops +10s clock when killed.
+    Name: HasClock
+    Required: false
 ClassName: BoomerangBros
 ClassNameFull: BoomerangBros
 Description: null
 DescriptionAdditional: null
-Name: ' '
+Name: 'Boomerang Bro'
 RailRequired: false
 Switches: null

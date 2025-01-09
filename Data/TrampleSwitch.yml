@@ -3,6 +3,9 @@ ClassName: TrampleSwitch
 ClassNameFull: TrampleSwitch
 Description: null
 DescriptionAdditional: null
-Name: ' '
+Name: 'P-Switch'
 RailRequired: false
-Switches: null
+Switches:
+  SwitchA:
+    Description: Triggered when switch is pressed
+    Type: Write

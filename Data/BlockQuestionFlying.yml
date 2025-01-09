@@ -1,8 +1,8 @@
 Args: null
 ClassName: BlockQuestionFlying
 ClassNameFull: BlockQuestionFlying
-Description: null
-DescriptionAdditional: null
-Name: ' '
+Description: Flying question block.
+DescriptionAdditional: 'Contained item depends on object name. Possible suffixes: Coin, Coin10, CoinRandom10, CoinInfinity, PopCoin, PopCoin3, PopCoin5, PopCoin5High, PopCoin10, PopCoinRandom5, OneUp, OneUpFast, KinokoSuper, KinokoSuperFast, FireFlower, FireFlowerForce, SuperLeaf, SuperLeafForce, SuperLeafNormal, SuperLeafSpecial, BoomerangFlower, BoomerangFlowerForce, SuperStar, Poison, PoisonFast, PatapataWing, AssistItem, Propeller, KickKoura'
+Name: 'Flying Question Block'
 RailRequired: false
 Switches: null

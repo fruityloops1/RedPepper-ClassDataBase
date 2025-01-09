@@ -1,8 +1,8 @@
 Args: null
 ClassName: KuriboTailSearch
 ClassNameFull: KuriboTailSearch
-Description: null
+Description: Free tail goomba that chases the player
 DescriptionAdditional: null
-Name: ' '
+Name: 'Tail Goomba'
 RailRequired: false
 Switches: null

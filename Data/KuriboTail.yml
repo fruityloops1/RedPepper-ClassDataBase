@@ -1,8 +1,8 @@
 Args: null
 ClassName: KuriboTail
 ClassNameFull: KuriboTail
-Description: null
+Description: Tail goomba fixed to a rail.
 DescriptionAdditional: null
-Name: ' '
-RailRequired: false
+Name: 'Tail Goomba'
+RailRequired: true
 Switches: null

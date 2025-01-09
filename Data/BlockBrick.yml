@@ -1,8 +1,18 @@
-Args: null
+Args:
+  Arg3:
+    Default: 0
+    Description: Whether or not the block is covered in snow
+    Name: IsSnowy
+    Required: false
+  Arg4:
+    Default: 0
+    Description: Whether to disable the shadow
+    Name: DisableShadow
+    Required: false
 ClassName: BlockBrick
 ClassNameFull: BlockBrick
-Description: null
+Description: Empty brick block.
 DescriptionAdditional: null
-Name: ' '
+Name: 'Brick Block'
 RailRequired: false
 Switches: null
