@@ -6,3 +6,4 @@ DescriptionAdditional: null
 Name: 'Water Area'
 RailRequired: false
 Switches: null
+Type: AreaObj

@@ -1,0 +1,9 @@
+Args: null
+ClassName: StartEventTeresa
+ClassNameFull: StartEventTeresa
+Description: null
+DescriptionAdditional: null
+Name: Ghost House Start Event
+RailRequired: false
+Switches: null
+Type: StartEventObj

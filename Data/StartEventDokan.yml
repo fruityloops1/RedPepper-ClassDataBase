@@ -1,0 +1,9 @@
+Args: null
+ClassName: StartEventDokan
+ClassNameFull: StartEventDokan
+Description: null
+DescriptionAdditional: null
+Name: Warp Pipe Start Event
+RailRequired: false
+Switches: null
+Type: StartEventObj

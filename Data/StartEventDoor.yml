@@ -1,0 +1,9 @@
+Args: null
+ClassName: StartEventDoor
+ClassNameFull: StartEventDoor
+Description: null
+DescriptionAdditional: null
+Name: Door Start Event
+RailRequired: false
+Switches: null
+Type: StartEventObj

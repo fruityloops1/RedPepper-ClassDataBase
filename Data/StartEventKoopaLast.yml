@@ -1,0 +1,9 @@
+Args: null
+ClassName: StartEventKoopaLast
+ClassNameFull: StartEventKoopaLast
+Description: null
+DescriptionAdditional: null
+Name: Final Bowser Castle Start Event
+RailRequired: false
+Switches: null
+Type: StartEventObj

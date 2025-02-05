@@ -1,0 +1,9 @@
+Args: null
+ClassName: StartEventCastle
+ClassNameFull: StartEventCastle
+Description: null
+DescriptionAdditional: null
+Name: Castle Start Event
+RailRequired: false
+Switches: null
+Type: StartEventObj

@@ -1,0 +1,9 @@
+Args: null
+ClassName: StartEventFirstStage
+ClassNameFull: StartEventFirstStage
+Description: null
+DescriptionAdditional: null
+Name: First Stage Start Event
+RailRequired: false
+Switches: null
+Type: StartEventObj

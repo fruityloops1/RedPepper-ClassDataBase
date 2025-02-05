@@ -1,9 +1,9 @@
 Args: null
-ClassName: WarpAreaPoint
-ClassNameFull: WarpAreaPoint
+ClassName: PoleGoal
+ClassNameFull: PoleGoal
 Description: null
 DescriptionAdditional: null
-Name: null
+Name: Goal Pole
 RailRequired: false
 Switches: null
-Type: AreaObj
+Type: GoalObj

@@ -1,0 +1,9 @@
+Args: null
+ClassName: StartEventHurryUp
+ClassNameFull: StartEventHurryUp
+Description: null
+DescriptionAdditional: null
+Name: Low Time Start Event
+RailRequired: false
+Switches: null
+Type: StartEventObj

@@ -1,0 +1,9 @@
+Args: null
+ClassName: StartEventBattleShip
+ClassNameFull: StartEventBattleShip
+Description: null
+DescriptionAdditional: null
+Name: Battleship Start Event
+RailRequired: false
+Switches: null
+Type: StartEventObj

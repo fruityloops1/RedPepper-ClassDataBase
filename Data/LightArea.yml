@@ -6,3 +6,4 @@ DescriptionAdditional: null
 Name: 'Light Area'
 RailRequired: false
 Switches: null
+Type: AreaObj

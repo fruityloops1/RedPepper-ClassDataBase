@@ -1,0 +1,9 @@
+Args: null
+ClassName: StartEventLuigiPrison
+ClassNameFull: StartEventLuigiPrison
+Description: null
+DescriptionAdditional: null
+Name: Luigi Prison Start Event
+RailRequired: false
+Switches: null
+Type: StartEventObj

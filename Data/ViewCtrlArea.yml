@@ -11,3 +11,4 @@ DescriptionAdditional: null
 Name: 'View Control Area'
 RailRequired: false
 Switches: null
+Type: AreaObj

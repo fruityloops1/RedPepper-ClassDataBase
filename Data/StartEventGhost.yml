@@ -1,0 +1,9 @@
+Args: null
+ClassName: StartEventGhost
+ClassNameFull: StartEventGhost
+Description: null
+DescriptionAdditional: null
+Name: Cosmic Clone Start Event
+RailRequired: false
+Switches: null
+Type: StartEventObj

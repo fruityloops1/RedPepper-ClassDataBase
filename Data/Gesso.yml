@@ -6,3 +6,4 @@ DescriptionAdditional: null
 Name: 'Blooper'
 RailRequired: false
 Switches: null
+Type: AreaObj

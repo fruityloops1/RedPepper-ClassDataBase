@@ -8,3 +8,4 @@ DescriptionAdditional: Put in StartInfo
 Name: Player
 RailRequired: false
 Switches: null
+Type: StartInfo

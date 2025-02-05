@@ -1,9 +1,9 @@
 Args: null
-ClassName: WarpAreaPoint
-ClassNameFull: WarpAreaPoint
+ClassName: DemoPhoto
+ClassNameFull: DemoPhoto
 Description: null
 DescriptionAdditional: null
 Name: null
 RailRequired: false
 Switches: null
-Type: AreaObj
+Type: Demo
