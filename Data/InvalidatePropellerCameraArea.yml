@@ -1,0 +1,9 @@
+Args: null
+ClassName: InvalidatePropellerCameraArea
+ClassNameFull: InvalidatePropellerCameraArea
+Description: null
+DescriptionAdditional: null
+Name: 'InvalidatePropellerCameraArea'
+RailRequired: false
+Switches: null
+Type: CameraAreaObj

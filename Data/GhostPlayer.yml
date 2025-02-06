@@ -1,0 +1,8 @@
+Args: null
+ClassName: GhostPlayer
+ClassNameFull: GhostPlayer
+Description: 'Clone of the player that follows every move. Only works within GhostPlayerArea'
+DescriptionAdditional: null
+Name: 'Cosmic Clone'
+RailRequired: false
+Switches: null

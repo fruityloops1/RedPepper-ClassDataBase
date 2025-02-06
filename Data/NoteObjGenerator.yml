@@ -1,8 +1,21 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 'Changes FOV'
+    Name: ZoomRange
+    Required: false
+  Arg1:
+    Default: 80
+    Description: 'Changes max horizontal angle'
+    Name: HorizontalRange
+    Required: false
 ClassName: NoteObjGenerator
 ClassNameFull: NoteObjGenerator
-Description: null
+Description: 'Starts a melody while spawning a trail of notes. Needs SwitchA to start.'
 DescriptionAdditional: null
-Name: null
-RailRequired: false
-Switches: null
+Name: 'Music Note Generator'
+RailRequired: true
+Switches:
+  SwitchA: 
+    Description: 'When the switch is on the notes start'
+    Type: Read

@@ -1,8 +1,21 @@
-Args: null
+Args:
+  Arg0:
+    Default: 1
+    Description: 'Delay between actions'
+    Name: Delay
+    Required: true
+  Arg2:
+    Default: 1
+    Description: '0 = blocks progressively appear on beat and when all of them are showing they progressively disappear on beat
+1 = 1 block type per beat
+2 = blocks progressively appear each beat and on the last beat they disappear
+'
+    Name: 'Beat type'
+    Required: true
 ClassName: BeatBlock
 ClassNameFull: BeatBlock
-Description: null
+Description: 'Block that plays a tune then appears and disappears on tune. Child of BeatBlockHolder'
 DescriptionAdditional: null
-Name: null
+Name: 'Beat Block child'
 RailRequired: false
 Switches: null

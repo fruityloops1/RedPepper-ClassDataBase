@@ -1,0 +1,9 @@
+Args: null
+ClassName: FootPrintFollowPosArea
+ClassNameFull: FootPrintFollowPosArea
+Description: null
+DescriptionAdditional: null
+Name: 'FootPrintFollowPosArea'
+RailRequired: false
+Switches: null
+Type: AreaObj

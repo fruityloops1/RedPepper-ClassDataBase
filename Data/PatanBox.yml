@@ -2,7 +2,7 @@ Args: null
 ClassName: PatanBox
 ClassNameFull: PatanBox
 Description: null
-DescriptionAdditional: null
+DescriptionAdditional: Unused
 Name: null
 RailRequired: false
 Switches: null

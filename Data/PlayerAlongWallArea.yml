@@ -1,0 +1,9 @@
+Args: null
+ClassName: PlayerAlongWallArea
+ClassNameFull: PlayerAlongWallArea
+Description: null
+DescriptionAdditional: null
+Name: 'PlayerAlongWallArea'
+RailRequired: false
+Switches: null
+Type: AreaObj

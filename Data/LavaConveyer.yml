@@ -1,8 +1,8 @@
 Args: null
 ClassName: LavaConveyer
 ClassNameFull: LavaConveyer
-Description: null
+Description: 'Lava platform that follows a given rail'
 DescriptionAdditional: null
-Name: null
-RailRequired: false
+Name: 'Lava Platform'
+RailRequired: true
 Switches: null

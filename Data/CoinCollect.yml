@@ -1,8 +1,18 @@
 Args:
   Arg0:
     Default: 1
-    Description: Star medal number 
+    Description: 'Star medal number'
     Name: ID
+    Required: true
+  Arg1:
+    Default: -1
+    Description: '1 Follow plaform'
+    Name: FollowPlaform
+    Required: true
+  Arg4:
+    Default: -1
+    Description: 'Rail speed'
+    Name: RailSpeed
     Required: true
 ClassName: CoinCollect
 ClassNameFull: CoinCollect

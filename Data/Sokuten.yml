@@ -1,8 +1,13 @@
-Args: null
+Args:
+  Arg1:
+    Default: 100
+    Description: 'Distance to walk before turning back'
+    Name: Distance
+    Required: true
 ClassName: Sokuten
 ClassNameFull: Sokuten
 Description: null
 DescriptionAdditional: null
-Name: null
+Name: 'FlopHopper'
 RailRequired: false
 Switches: null

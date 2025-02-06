@@ -1,8 +1,8 @@
 Args: null
 ClassName: Candlestand
 ClassNameFull: Candlestand
-Description: null
+Description: 'Torchlight that can be lit'
 DescriptionAdditional: null
-Name: null
+Name: 'Candlestand'
 RailRequired: false
 Switches: null

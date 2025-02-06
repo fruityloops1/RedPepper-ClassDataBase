@@ -1,0 +1,9 @@
+Args: null
+ClassName: PlayerInclinedControlArea
+ClassNameFull: PlayerInclinedControlArea
+Description: null
+DescriptionAdditional: null
+Name: 'PlayerInclinedControlArea'
+RailRequired: false
+Switches: null
+Type: AreaObj

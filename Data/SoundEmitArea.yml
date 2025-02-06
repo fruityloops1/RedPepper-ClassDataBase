@@ -1,0 +1,9 @@
+Args: null
+ClassName: SoundEmitArea
+ClassNameFull: SoundEmitArea
+Description: null
+DescriptionAdditional: null
+Name: 'SoundEmitArea'
+RailRequired: false
+Switches: null
+Type: AreaObj

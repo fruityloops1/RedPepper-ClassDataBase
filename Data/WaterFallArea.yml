@@ -1,0 +1,9 @@
+Args: null
+ClassName: WaterFallArea
+ClassNameFull: WaterFallArea
+Description: null
+DescriptionAdditional: null
+Name: 'WaterFallArea'
+RailRequired: false
+Switches: null
+Type: AreaObj

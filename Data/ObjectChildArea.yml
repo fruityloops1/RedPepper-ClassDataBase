@@ -1,9 +1,9 @@
 Args: null
 ClassName: ObjectChildArea
 ClassNameFull: ObjectChildArea
-Description: null
+Description: 'Area that limits the position of its parent actor (Mostly used with Teresa)'
 DescriptionAdditional: null
-Name: null
+Name: 'Movement Limiter'
 RailRequired: false
 Switches: null
 Type: AreaObj

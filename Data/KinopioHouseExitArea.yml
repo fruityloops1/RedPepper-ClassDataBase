@@ -1,0 +1,9 @@
+Args: null
+ClassName: KinopioHouseExitArea
+ClassNameFull: KinopioHouseExitArea
+Description: null
+DescriptionAdditional: null
+Name: 'KinopioHouseExitArea'
+RailRequired: false
+Switches: null
+Type: AreaObj

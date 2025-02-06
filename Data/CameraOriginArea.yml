@@ -1,0 +1,9 @@
+Args: null
+ClassName: CameraOriginArea
+ClassNameFull: CameraOriginArea
+Description: null
+DescriptionAdditional: null
+Name: 'CameraOriginArea'
+RailRequired: false
+Switches: null
+Type: AreaObj

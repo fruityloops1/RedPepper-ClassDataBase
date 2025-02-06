@@ -1,0 +1,9 @@
+Args: null
+ClassName: MessageArea
+ClassNameFull: MessageArea
+Description: null
+DescriptionAdditional: null
+Name: 'MessageArea'
+RailRequired: false
+Switches: null
+Type: AreaObj

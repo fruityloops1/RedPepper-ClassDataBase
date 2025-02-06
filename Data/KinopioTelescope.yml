@@ -1,0 +1,33 @@
+Args:
+  Arg0:
+    Default: -1
+    Description: '-1 = red, 2 = blue, 3 = yellow, 4 = green, 5 = purple'
+    Name: Color
+    Required: true
+  Arg1:
+    Default: -1
+    Description: '-1 = no, 1 = yes'
+    Name: IsJumping
+    Required: false
+  Arg5:
+    Default: -1
+    Description: '-1 = no, 1 = yes'
+    Name: Propeller
+    Required: false
+  Arg7:
+    Default: -1
+    Description: '1 = 1-UP, 2 = star coin, 0 = scares toad, 3 = kills toad?, 4 = Super Mushroom'
+    Name: ObjectToSpawn
+    Required: false
+  Arg3:
+    Default: -1
+    Description: 'Only used if toad spawns a starcoin?'
+    Name: MedalID
+    Required: false
+ClassName: KinopioTelescope
+ClassNameFull: KinopioTelescope
+Description: 'Toad can be used as a child of a telescope, on their own and on a rail. They can also spawn multiple objects and change color / bandana color (Raccoon variation)'
+DescriptionAdditional: null
+Name: 'Binoculars Toad'
+RailRequired: false
+Switches: null

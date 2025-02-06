@@ -1,8 +1,14 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 0 Plays the zelda puzzle solved jingle after all enemies are defeated 
+    Name: Play Zelda sfx
+    Required: true
 ClassName: CandlestandObserver
 ClassNameFull: CandlestandObserver
-Description: null
+Description: 'This object works as a parent of CandlesStand objects, and turns SwitchA ON'
 DescriptionAdditional: null
-Name: null
+Name: 'CandlestandObserver'
 RailRequired: false
-Switches: null
+Switches:
+  SwitchA: null

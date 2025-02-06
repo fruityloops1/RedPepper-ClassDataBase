@@ -1,8 +1,13 @@
-Args: null
+Args:
+  Arg0:
+    Default: 100
+    Description: 'Max height'
+    Name: MaxHeight
+    Required: false
 ClassName: Dossun
 ClassNameFull: Dossun
 Description: null
 DescriptionAdditional: null
-Name: null
+Name: 'Thwomp'
 RailRequired: false
 Switches: null

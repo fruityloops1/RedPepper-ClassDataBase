@@ -1,0 +1,14 @@
+Args:
+  Arg0:
+    Default: 10
+    Description: 'Number of coins to spawn'
+    Name: 'No'
+    Required: true
+ClassName: CoinGenerator
+ClassNameFull: CoinGenerator
+Description: null
+DescriptionAdditional: null
+Name: 'Coin Spawner'
+RailRequired: false
+Switches:
+  SwitchAppear: null

@@ -3,6 +3,6 @@ ClassName: KuriboTail
 ClassNameFull: KuriboTail
 Description: Tail goomba fixed to a rail.
 DescriptionAdditional: null
-Name: 'Tail Goomba'
+Name: 'Tail Goomba (Rail)'
 RailRequired: true
 Switches: null

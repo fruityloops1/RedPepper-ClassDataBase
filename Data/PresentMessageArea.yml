@@ -1,0 +1,9 @@
+Args: null
+ClassName: PresentMessageArea
+ClassNameFull: PresentMessageArea
+Description: null
+DescriptionAdditional: null
+Name: 'PresentMessageArea'
+RailRequired: false
+Switches: null
+Type: AreaObj

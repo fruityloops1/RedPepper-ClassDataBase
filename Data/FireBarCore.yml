@@ -1,8 +1,23 @@
-Args: null
+Args:
+  Arg0:
+    Default: 2
+    Description: Number of bars to spawn
+    Name: Amount
+    Required: true
+  Arg1:
+    Default: 1
+    Description: -1 Counterclockwise, 1 Clockwise
+    Name: Rotation direction
+    Required: true
+  Arg2:
+    Default: -1
+    Description: 1 Fire has shadows
+    Name: Enable shadows
+    Required: true
 ClassName: FireBarCore
 ClassNameFull: FireBarCore
 Description: null
 DescriptionAdditional: null
-Name: null
+Name: 'Fire Bar'
 RailRequired: false
 Switches: null

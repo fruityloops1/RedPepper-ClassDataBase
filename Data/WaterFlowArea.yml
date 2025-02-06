@@ -3,7 +3,7 @@ ClassName: WaterFlowArea
 ClassNameFull: WaterFlowArea
 Description: null
 DescriptionAdditional: null
-Name: null
+Name: 'WaterFlowArea'
 RailRequired: false
 Switches: null
 Type: AreaObj

@@ -1,8 +1,8 @@
 Args: null
 ClassName: LiftGeyser
 ClassNameFull: LiftGeyser
-Description: null
+Description: 'Geyser capable of lifting seesaw platforms on rails'
 DescriptionAdditional: null
-Name: null
+Name: 'Geyser'
 RailRequired: false
 Switches: null

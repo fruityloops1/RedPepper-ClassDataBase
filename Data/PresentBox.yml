@@ -1,0 +1,8 @@
+Args: null
+ClassName: PresentBox
+ClassNameFull: PresentBox
+Description: 'Found in Toad houses.'
+DescriptionAdditional: null
+Name: 'Present'
+RailRequired: false
+Switches: null
