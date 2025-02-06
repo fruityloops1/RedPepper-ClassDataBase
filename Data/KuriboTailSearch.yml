@@ -3,6 +3,6 @@ ClassName: KuriboTailSearch
 ClassNameFull: KuriboTailSearch
 Description: Free tail goomba that chases the player
 DescriptionAdditional: null
-Name: 'Tail Goomba'
+Name: 'Tail Goomba (Search)'
 RailRequired: false
 Switches: null

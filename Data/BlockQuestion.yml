@@ -1,4 +1,9 @@
-Args: null
+Args:
+  Arg7:
+    Default: 1
+    Description: '-1 Pop on top, 0, 1, 2, 3 -> Front, Left, Back, Right'
+    Name: 'Spawn Direction'
+    Required: false
 ClassName: BlockQuestion
 ClassNameFull: BlockQuestion
 Description: Question block.

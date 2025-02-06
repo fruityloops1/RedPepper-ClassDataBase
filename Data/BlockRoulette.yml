@@ -1,8 +1,13 @@
-Args: null
+Args:
+  Arg7:
+    Default: 1
+    Description: '-1 Pop on top, 0, 1, 2, 3 -> Front, Left, Back, Right'
+    Name: 'Spawn Direction'
+    Required: false
 ClassName: BlockRoulette
 ClassNameFull: BlockRoulette
 Description: null
 DescriptionAdditional: null
-Name: null
+Name: 'Roulette Block'
 RailRequired: false
 Switches: null

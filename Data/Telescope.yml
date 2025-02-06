@@ -1,8 +1,18 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 'Changes FOV'
+    Name: ZoomRange
+    Required: false
+  Arg1:
+    Default: 80
+    Description: 'Changes max horizontal angle'
+    Name: HorizontalRange
+    Required: false
 ClassName: Telescope
 ClassNameFull: Telescope
-Description: null
+Description: 'Object that lets the player zoom in and out in first person.'
 DescriptionAdditional: null
-Name: null
+Name: 'Binoculars / Telescope'
 RailRequired: false
 Switches: null

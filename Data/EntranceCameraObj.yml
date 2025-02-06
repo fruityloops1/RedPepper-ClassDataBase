@@ -1,8 +1,8 @@
 Args: null
 ClassName: EntranceCameraObj
 ClassNameFull: EntranceCameraObj
-Description: null
+Description: 'Determines what camera to use when starting the level, until the player moves, then it will use whatever camera was assigned in the cameraarea the player is in'
 DescriptionAdditional: null
-Name: null
+Name: 'Initial Level Camera'
 RailRequired: false
 Switches: null

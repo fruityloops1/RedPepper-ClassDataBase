@@ -1,7 +1,27 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: '-1 = red, 2 = blue, 3 = yellow, 4 = green, 5 = purple'
+    Name: Color
+    Required: true
+  Arg1:
+    Default: -1
+    Description: '-1 = no, 1 = yes'
+    Name: IsJumping
+    Required: false
+  Arg5:
+    Default: -1
+    Description: '-1 = no, 1 = yes'
+    Name: Propeller
+    Required: false
+  Arg7:
+    Default: -1
+    Description: '1 = 1-UP'
+    Name: ObjectToSpawn
+    Required: false
 ClassName: Kinopio
 ClassNameFull: Kinopio
-Description: null
+Description: 'Toad that can change color / bandana color (Raccoon variation)'
 DescriptionAdditional: null
 Name: 'Toad'
 RailRequired: false

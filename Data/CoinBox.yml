@@ -1,0 +1,8 @@
+Args: null
+ClassName: CoinBox
+ClassNameFull: CoinBox
+Description: 'Object with the appearance of a normal question block that the player can wear. Gives the player coins for the duration of the effect.'
+DescriptionAdditional: null
+Name: 'Coin Box'
+RailRequired: false
+Switches: null

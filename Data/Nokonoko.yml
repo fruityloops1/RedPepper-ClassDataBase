@@ -4,5 +4,5 @@ ClassNameFull: Nokonoko
 Description: null
 DescriptionAdditional: null
 Name: 'Koopa Troopa'
-RailRequired: false
+RailRequired: true
 Switches: null

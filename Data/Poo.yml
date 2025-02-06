@@ -1,8 +1,9 @@
-Args: null
+Args:
+
 ClassName: Poo
 ClassNameFull: Poo
-Description: null
+Description: 'Enemy that throws different objects at the player'
 DescriptionAdditional: null
-Name: null
+Name: Rocky Wrench
 RailRequired: false
 Switches: null

@@ -1,0 +1,14 @@
+Args:
+  Arg0:
+    Default: 3
+    Description: 'Enemies to defeat'
+    Name: EnemyCount
+    Required: false
+ClassName: EnemyCounter
+ClassNameFull: EnemyCounter
+Description: 'Checks if the enemies set as children of itself have been defeated, if so, turns SwitchA ON.'
+DescriptionAdditional: null
+Name: 'Enemy Group'
+RailRequired: false
+Switches:
+  SwitchA: null

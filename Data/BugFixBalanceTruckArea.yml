@@ -1,0 +1,9 @@
+Args: null
+ClassName: BugFixBalanceTruckArea
+ClassNameFull: BugFixBalanceTruckArea
+Description: null
+DescriptionAdditional: null
+Name: 'BugFixBalanceTruckArea'
+RailRequired: false
+Switches: null
+Type: AreaObj

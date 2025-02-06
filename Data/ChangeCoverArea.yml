@@ -1,0 +1,9 @@
+Args: null
+ClassName: ChangeCoverArea
+ClassNameFull: ChangeCoverArea
+Description: null
+DescriptionAdditional: null
+Name: 'ChangeCoverArea'
+RailRequired: false
+Switches: null
+Type: AreaObj

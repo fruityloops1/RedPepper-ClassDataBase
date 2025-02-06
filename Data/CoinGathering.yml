@@ -1,0 +1,8 @@
+Args: null
+ClassName: CoinGathering
+ClassNameFull: CoinGathering
+Description: 'This object will play a fanfare if you collect all the coins you set as children.'
+DescriptionAdditional: null
+Name: 'Coin Group'
+RailRequired: false
+Switches: null

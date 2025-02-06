@@ -3,6 +3,6 @@ ClassName: Choropu
 ClassNameFull: Choropu
 Description: null
 DescriptionAdditional: null
-Name: null
-RailRequired: false
+Name: 'Monty Mole'
+RailRequired: true
 Switches: null

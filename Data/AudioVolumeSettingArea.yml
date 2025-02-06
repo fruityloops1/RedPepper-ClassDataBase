@@ -1,0 +1,9 @@
+Args: null
+ClassName: AudioVolumeSettingArea
+ClassNameFull: AudioVolumeSettingArea
+Description: null
+DescriptionAdditional: null
+Name: 'AudioVolumeSettingArea'
+RailRequired: false
+Switches: null
+Type: AreaObj

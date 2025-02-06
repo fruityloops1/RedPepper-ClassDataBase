@@ -3,7 +3,7 @@ ClassName: FogArea
 ClassNameFull: FogArea
 Description: null
 DescriptionAdditional: null
-Name: null
+Name: 'Fog Area'
 RailRequired: false
 Switches: null
 Type: AreaObj

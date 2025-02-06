@@ -1,8 +1,8 @@
 Args: null
 ClassName: TelescopeTarget
 ClassNameFull: TelescopeTarget
-Description: null
+Description: 'Object that displays messages while looking through the telescope. Needs to be child of a Telescope object to work.'
 DescriptionAdditional: null
-Name: null
+Name: 'Telescope Sign'
 RailRequired: false
 Switches: null

@@ -1,0 +1,9 @@
+Args: null
+ClassName: GhostPlayerArea
+ClassNameFull: GhostPlayerArea
+Description: null
+DescriptionAdditional: null
+Name: 'GhostPlayerArea'
+RailRequired: false
+Switches: null
+Type: AreaObj

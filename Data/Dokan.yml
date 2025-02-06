@@ -1,7 +1,12 @@
-Args: null
+Args:
+  Arg7:
+    Default: -1
+    Description: '1 = Shows a button guide when standing on top'
+    Name: 'Show L'
+    Required: false
 ClassName: Dokan
 ClassNameFull: Dokan
-Description: null
+Description: Object used to move the player between different zones of the level, requires a child of the same class to work as intended
 DescriptionAdditional: null
 Name: 'Pipe'
 RailRequired: false

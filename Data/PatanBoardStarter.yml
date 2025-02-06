@@ -3,6 +3,9 @@ ClassName: PatanBoardStarter
 ClassNameFull: PatanBoardStarter
 Description: null
 DescriptionAdditional: null
-Name: null
+Name: 'Green Panel Button'
 RailRequired: false
-Switches: null
+Switches:
+  SwitchA:
+    Description: 'Turns the switch ON after being pressed'
+    Type: Write
