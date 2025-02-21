@@ -1,28 +1,47 @@
+ArchiveName: Kinopio
 Args:
   Arg0:
     Default: -1
-    Description: '-1 = red, 2 = blue, 3 = yellow, 4 = green, 5 = purple'
-    Name: Color
-    Required: true
+    Type: enum
+    Values:
+        -1 : 'Red with blue vest'
+        1 : 'Red with red vest'
+        2 : 'Blue'
+        3 : 'Yellow'
+        4 : 'Green'
+        5 : 'Purple'
+    Name: 'Color'
+    Required: false
   Arg1:
     Default: -1
-    Description: '-1 = no, 1 = yes'
-    Name: IsJumping
+    Type: bool
+    Name: 'Is Jumping'
     Required: false
   Arg5:
     Default: -1
-    Description: '-1 = no, 1 = yes'
-    Name: Propeller
+    Type: bool
+    Name: 'Use Propeller'
     Required: false
   Arg7:
     Default: -1
     Description: '1 = 1-UP, 2 = star coin, 0 = scares toad, 3 = kills toad?, 4 = Super Mushroom'
+    Type: enum
+    Values:
+        -1: 'Scares Toad'
+        0 : 'Scares Toad'
+        1 : '1-UP'
+        2 : 'Star Coin'
+        3 : 'Makes Toad Disappear'
+        4 : 'Super Mushroom'
     Name: ObjectToSpawn
     Required: false
   Arg3:
     Default: -1
     Description: 'Only used if toad spawns a starcoin?'
     Name: MedalID
+    Type: int
+    Min: -1
+    Max: 3
     Required: false
 ClassName: KinopioTelescope
 ClassNameFull: KinopioTelescope

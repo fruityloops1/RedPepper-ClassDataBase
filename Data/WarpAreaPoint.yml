@@ -1,9 +1,8 @@
 Args: null
 ClassName: WarpAreaPoint
 ClassNameFull: WarpAreaPoint
-Description: null
+Description: Object that teleports the player to it from its children ObjectChildArea
 DescriptionAdditional: null
-Name: null
+Name: Special Area Warp
 RailRequired: false
 Switches: null
-Type: AreaObj

@@ -1,8 +1,9 @@
+ArchiveName: KoopaFire
 Args: null
 ClassName: KoopaFireGenerator
 ClassNameFull: KoopaFireGenerator
 Description: null
 DescriptionAdditional: null
-Name: 'KoopaFireGenerator'
+Name: 'Bowser Stage Fire'
 RailRequired: false
 Switches: null

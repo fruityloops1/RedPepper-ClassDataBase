@@ -1,4 +1,10 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 'Plays the SMB level finish fanfare'
+    Name: Play SMB Fanfare
+    Type: bool
+    Required: true
 ClassName: PoleGoal
 ClassNameFull: PoleGoal
 Description: null

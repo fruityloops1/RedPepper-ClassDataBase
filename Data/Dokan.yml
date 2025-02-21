@@ -3,6 +3,7 @@ Args:
     Default: -1
     Description: '1 = Shows a button guide when standing on top'
     Name: 'Show L'
+    Type: bool
     Required: false
 ClassName: Dokan
 ClassNameFull: Dokan
@@ -10,4 +11,7 @@ Description: Object used to move the player between different zones of the level
 DescriptionAdditional: null
 Name: 'Pipe'
 RailRequired: false
-Switches: null
+Switches:
+  SwitchA:
+    Description: The pipe is not usable (cant go into it) unless the switch is active
+    Type: Read

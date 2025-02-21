@@ -1,9 +1,21 @@
-Args: null
+Args:
+  Arg0:
+    Default: 10
+    Description: 'Reverb Strength'
+    Name: Reverb Strength
+    Type: int
+    Required: true
+  Arg1:
+    Default: -1
+    Description: 'If enabled, affects music too'
+    Name: Affect Music
+    Type: bool
+    Required: true
 ClassName: AudioEffectChangeArea
 ClassNameFull: AudioEffectChangeArea
 Description: null
 DescriptionAdditional: null
-Name: null
+Name: 'Reverb Area'
 RailRequired: false
 Switches: null
 Type: AreaObj

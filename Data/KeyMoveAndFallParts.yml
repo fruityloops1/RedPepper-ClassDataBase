@@ -2,11 +2,19 @@ Args:
   Arg3:
     Default: 0
     Description: Move type (0 = Loop, 1 = Turn, 2 = Stop, 3 = Restart)
-    Name: MoveType
+    Type: enum
+    Values:
+      0: Loop
+      1: Turn
+      2: Stop
+      4: Restart
+    Name: Move Type
     Required: false
   Arg7:
-    Default: 0
-    Description: Unused
+    Default: -1
+    Description: Hides shadow if false
+    Type: bool
+    Name: ShowShadow
     Required: false
 ClassName: KeyMoveAndFallParts
 ClassNameFull: KeyMoveAndFallParts

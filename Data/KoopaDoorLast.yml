@@ -1,8 +1,9 @@
 Args: null
 ClassName: KoopaDoorLast
 ClassNameFull: KoopaDoorLast
-Description: null
+Description: Object that transports the player to the second section of 8-Final (Bowser fight)
 DescriptionAdditional: null
-Name: 'KoopaDoorLast'
+Name: '8-Final Door'
 RailRequired: false
 Switches: null
+Type: GoalObj

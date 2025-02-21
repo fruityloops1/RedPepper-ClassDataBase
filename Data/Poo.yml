@@ -1,5 +1,14 @@
 Args:
-
+  Arg0:
+    Default: -1
+    Name: Throws
+    Type: enum
+    Values:
+      -1: 'Wrench'
+      1: 'Coin'
+      2: 'Coin'
+      3: 'Bob-Omb'
+    Required: true
 ClassName: Poo
 ClassNameFull: Poo
 Description: 'Enemy that throws different objects at the player'
