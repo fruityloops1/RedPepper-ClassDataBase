@@ -1,4 +1,10 @@
-Args: null
+Args:
+  Arg0:
+    Default: 1000
+    Description: 'Distance of the shadow cast by the object'
+    Name: Shadow Distance
+    Type: int
+    Required: false
 ClassName: BalanceTruck
 ClassNameFull: BalanceTruck
 Description: A green platform that moves forwards/backwards, depending on which side is stood on.

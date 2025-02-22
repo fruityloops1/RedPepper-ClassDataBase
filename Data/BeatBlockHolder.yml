@@ -1,16 +1,19 @@
 Args:
   Arg0:
-    Default: 1
+    Default: 100
     Description: 'Delay between actions'
+    Type: int
     Name: Delay
     Required: true
   Arg2:
     Default: 1
-    Description: '0 = blocks progressively appear on beat and when all of them are showing they progressively disappear on beat
-1 = 1 block type per beat
-2 = blocks progressively appear each beat and on the last beat they disappear
-'
-    Name: 'Beat type'
+    Description: ''
+    Type: enum
+    Values:
+      0 : 'Blocks progressively appear on beat and when all of them are showing they progressively disappear on beat'
+      1 : 'One block type per beat'
+      2 : 'Blocks progressively appear each beat and on the last beat they disappear'
+    Name: 'Beat Type'
     Required: true
 ClassName: BeatBlockHolder
 ClassNameFull: BeatBlockHolder

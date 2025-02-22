@@ -1,0 +1,9 @@
+Args: null
+ClassName: DokanWorldWarp
+ClassNameFull: DokanWorldWarp
+Description: Object that beats a level and teleports mario to the next world, skipping the current one.
+DescriptionAdditional: null
+Name: 'World Skip Pipe'
+RailRequired: false
+Switches: null
+Type: GoalObj

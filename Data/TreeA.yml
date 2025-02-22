@@ -1,12 +1,22 @@
 Args:
   Arg0:
     Default: 0
-    Description: '0 = None, 1 = 1-Up, 2 = Fire Flower, 3 = Super Leaf, 4 = Star, 5 = Poison Mushroom, 6 = Boomerang Flower'
+    Description:
+    Type: enum
+    Values:
+        0 : None
+        1 : 1-Up
+        2 : Fire Flower
+        3 : Super Leaf
+        4 : Star
+        5 : Poison Mushroom
+        6 : Boomerang Flower
     Name: Item
     Required: false
   Arg2:
-    Default: 0
-    Description: Drop coins if rolled into
+    Default: -1
+    Description: Drop coins if rolled onto
+    Type: bool
     Name: DropCoins
     Required: false
 ClassName: TreeA

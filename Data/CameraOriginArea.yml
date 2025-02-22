@@ -6,4 +6,4 @@ DescriptionAdditional: null
 Name: 'CameraOriginArea'
 RailRequired: false
 Switches: null
-Type: AreaObj
+Type: CameraAreaObj

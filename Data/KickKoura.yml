@@ -1,8 +1,9 @@
+ArchiveName: Koura
 Args: null
 ClassName: KickKoura
 ClassNameFull: KickKoura
 Description: null
 DescriptionAdditional: null
-Name: null
+Name: 'Koopa Troopa Shell'
 RailRequired: false
 Switches: null

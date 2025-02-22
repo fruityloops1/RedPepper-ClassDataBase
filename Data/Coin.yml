@@ -3,17 +3,20 @@ Args:
     Default: -1
     Description: '1 Follow plaform'
     Name: FollowPlaform
-    Required: true
+    Type: bool
+    Required: false
   Arg1:
     Default: -1
     Description: 'Coin timer'
     Name: CoinTimer
-    Required: true
+    Type: int
+    Required: false
   Arg2:
     Default: -1
-    Description: '1 Has shadow'
-    Name: Enable shadow?
-    Required: true
+    Description: 'Sets the max distance to cast a shadow on'
+    Name: Shadow Distance
+    Type: int
+    Required: false
 ClassName: Coin
 ClassNameFull: Coin
 Description: null

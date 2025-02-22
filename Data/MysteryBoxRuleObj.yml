@@ -1,0 +1,9 @@
+Args: null
+ClassName: MysteryBoxRuleObj
+ClassNameFull: MysteryBoxRuleObj
+Description: Object found in Mystery Boxes that kicks the player out of the stage after 10 seconds
+DescriptionAdditional: null
+Name: 'Mystery Box Timer'
+RailRequired: false
+Switches: null
+Type: GoalObj
