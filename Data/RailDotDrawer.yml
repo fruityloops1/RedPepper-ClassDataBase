@@ -1,8 +1,11 @@
-Args: null
+Args:
+  Arg0:
+    Default: 1
+    Description: 
+    Name: Space between Dots
+    Required: false
+    Type: int
 ClassName: RailDotDrawer
 ClassNameFull: RailDotDrawer
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Rail Track Drawer
 RailRequired: false
-Switches: null

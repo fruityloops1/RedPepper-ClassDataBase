@@ -1,8 +1,19 @@
-Args: null
+Args:
+  Arg0:
+    Default: 0
+    Description: 
+    Name: Color
+    Required: false
+    Type: enum
+    Values: {}
+  Arg1:
+    Default: -1
+    Description: 
+    Name: Add Ring
+    Required: false
+    Type: bool
 ClassName: Plant
 ClassNameFull: Plant
-Description: null
-DescriptionAdditional: null
-Name: 'Plant'
+Description: A plant like object that can be destroyed with a ground pound or rolling.
+Name: Plant
 RailRequired: false
-Switches: null

@@ -1,27 +1,23 @@
 Args:
   Arg0:
     Default: -1
-    Description: '1 Follow plaform'
-    Name: FollowPlaform
-    Type: bool
+    Description: 1 Follow plaform
+    Name: Follow Plaform
     Required: false
+    Type: bool
   Arg1:
     Default: -1
-    Description: 'Coin timer'
-    Name: CoinTimer
-    Type: int
+    Description: Coin timer
+    Name: Coin Timer
     Required: false
+    Type: int
   Arg2:
     Default: -1
-    Description: 'Sets the max distance to cast a shadow on'
+    Description: Sets the max distance to cast a shadow on
     Name: Shadow Distance
-    Type: int
     Required: false
+    Type: int
 ClassName: Coin
 ClassNameFull: Coin
-Description: null
-DescriptionAdditional: null
-Name: 'Coin'
+Name: Coin
 RailRequired: false
-Switches:
-  SwitchAppear: null

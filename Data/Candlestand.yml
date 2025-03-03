@@ -1,8 +1,12 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: Adds fire on the stand
+    Name: Add Fire
+    Required: false
+    Type: bool
 ClassName: Candlestand
 ClassNameFull: Candlestand
-Description: 'Torchlight that can be lit'
-DescriptionAdditional: null
-Name: 'Candlestand'
+Description: Torchlight that can be lit
+Name: Candlestand
 RailRequired: false
-Switches: null

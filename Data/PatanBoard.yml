@@ -1,22 +1,21 @@
 Args:
   Arg0:
     Default: -1
-    Description: 'How long the panel will stay active for'
+    Description: How long the panel will stay active for
     Name: Timer
     Required: true
   Arg1:
     Default: 80
-    Description: 'How long the panel will need to get to its next position'
-    Name: TimeToComplete
-    Required: true
+    Description: How long the panel will need to get to its next position
+    Name: Time To Complete
+    Required: false
+    Type: int
 ClassName: PatanBoard
 ClassNameFull: PatanBoard
-Description: 'Panel that appears on SwitchA ON. Use as a child of itself to determine the path.'
-DescriptionAdditional: null
-Name: 'Green Panel'
+Description: Panel that appears on SwitchA ON. Use as a child of itself to determine the path.
+Name: Green Panel
 RailRequired: false
 Switches:
   SwitchA:
-    Description: 'When the switch is on the panels start following the child-parent chain'
+    Description: When the switch is on the panels start following the child-parent chain
     Type: Read
-  SwitchB: null

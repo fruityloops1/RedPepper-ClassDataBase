@@ -1,8 +1,24 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: Negative number means swings in other direction
+    Name: Distance
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: Swing Time
+    Required: false
+    Type: int
+  Arg2:
+    Default: -1
+    Description: 
+    Name: Delay
+    Required: false
+    Type: int
 ClassName: SwingNeedleRoller
 ClassNameFull: SwingNeedleRoller
-Description: null
-DescriptionAdditional: null
-Name: null
+Description: Spike bar that that spins around the air.
+Name: Swinging Spike Bar
 RailRequired: false
-Switches: null

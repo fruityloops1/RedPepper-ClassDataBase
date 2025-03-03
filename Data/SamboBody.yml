@@ -1,8 +1,4 @@
-Args: null
 ClassName: SamboBody
 ClassNameFull: SamboBody
-Description: null
-DescriptionAdditional: null
-Name: 'Pokey body part'
+Name: Pokey Body Part
 RailRequired: false
-Switches: null

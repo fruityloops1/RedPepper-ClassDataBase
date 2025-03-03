@@ -2,12 +2,27 @@ Args:
   Arg0:
     Default: 40
     Description: Initial bounce velocity applied to Player
-    Name: BounceHeight
+    Name: Bounce Height
     Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: Rail Speed
+    Required: false
+    Type: int
+  Arg2:
+    Default: 0
+    Description: 
+    Name: Behaviour
+    Required: false
+    Type: enum
+    Values:
+      0: Do Nothing
+      1: Moves Automatically
+      2: Moves when Mario is on it
 ClassName: Trampoline
 ClassNameFull: Trampoline
-Description: null
-DescriptionAdditional: null
-Name: 'Trampoline'
+Description: Object used to bounce Mario
+Name: Trampoline
 RailRequired: false
-Switches: null

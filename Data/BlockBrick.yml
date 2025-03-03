@@ -2,17 +2,23 @@ Args:
   Arg3:
     Default: 0
     Description: Whether or not the block is covered in snow
-    Name: IsSnowy
+    Name: Is Snowy
     Required: false
+    Type: bool
   Arg4:
     Default: 0
-    Description: Whether to disable the shadow
-    Name: DisableShadow
+    Description: How long the shadow should extend down
+    Name: Cast Shadow Distance
     Required: false
+    Type: int
+  Arg5:
+    Default: -1
+    Description: How wide the shadow should be
+    Name: Shadow Size Width
+    Required: false
+    Type: int
 ClassName: BlockBrick
 ClassNameFull: BlockBrick
 Description: Empty brick block.
-DescriptionAdditional: null
-Name: 'Brick Block'
+Name: Brick Block
 RailRequired: false
-Switches: null

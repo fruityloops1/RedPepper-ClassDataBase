@@ -1,8 +1,17 @@
-Args: null
+Args:
+  Arg1:
+    Default: -1
+    Description: 
+    Name: Item to Spawn
+    Required: false
+    Type: enum
+    Values:
+      -1: 1-Up Mushroom
+      0: 1-Up Mushroom
+      1: Fire Flower
+      2: Boomerang Flower
+      3: Super Leaf
 ClassName: CoinRedStarter
 ClassNameFull: CoinRedStarter
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Red Coin Ring
 RailRequired: false
-Switches: null

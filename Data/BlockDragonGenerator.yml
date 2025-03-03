@@ -1,9 +1,5 @@
-Args: null
+ArchiveName: BlockDragonHead
 ClassName: BlockDragonGenerator
 ClassNameFull: BlockDragonGenerator
-Description: null
-DescriptionAdditional: null
-Name: 'BlockDragonGenerator'
+Name: Blokkablok
 RailRequired: false
-Switches: null
-ArchiveName: BlockDragonHead

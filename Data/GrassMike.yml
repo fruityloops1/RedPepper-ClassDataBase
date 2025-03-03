@@ -1,8 +1,37 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: Color
+    Required: false
+    Type: enum
+    Values:
+      -1: Nothing
+      1: 1-Up
+      2: Fire Flower
+      3: Super Leaf
+      4: Star
+      5: Poison Mushroom
+      6: Boomerang Flower
+      7: Stone Leaf
+      8: Mushroom
+  Arg1:
+    Default: -1
+    Description: Object to spawn when the dandelion is blown away
+    Name: Object to Spawn
+    Required: false
+    Type: enum
+    Values:
+      -1: Nothing
+      1: 1-Up
+      2: Fire Flower
+      3: Super Leaf
+      4: Star
+      5: Poison Mushroom
+      6: Boomerang Flower
+      7: Stone Leaf
+      8: Mushroom
 ClassName: GrassMike
 ClassNameFull: GrassMike
-Description: null
-DescriptionAdditional: null
-Name: 'GrassMike'
+Name: GrassMike
 RailRequired: false
-Switches: null

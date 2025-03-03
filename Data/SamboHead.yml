@@ -2,25 +2,23 @@ Args:
   Arg0:
     Default: 2
     Description: Body parts to start with
+    Name: Body Count
+    Required: false
     Type: int
-    Name: Body parts
-    Required: true
   Arg1:
     Default: 10
     Description: Movement speed
-    Type: int
     Name: Speed
     Required: false
+    Type: int
   Arg2:
     Default: 7
     Description: Offset from the ground that makes pokey levitate
-    Type: int
-    Name: Y offset
+    Name: Y Offset
     Required: false
+    Type: int
 ClassName: SamboHead
 ClassNameFull: SamboHead
-Description: 'Cactus-like enemy that spawns multiple pieces of its body to increase height'
-DescriptionAdditional: null
-Name: 'Pokey'
+Description: Cactus-like enemy that spawns multiple pieces of its body to increase height
+Name: Pokey
 RailRequired: false
-Switches: null

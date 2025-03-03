@@ -1,8 +1,24 @@
-Args: null
+Args:
+  Arg0:
+    Default: 1
+    Description: Amount of Spike Balls
+    Name: Amount
+    Required: false
+    Type: int
+  Arg1:
+    Default: 1
+    Description: 
+    Name: Chain Amount
+    Required: false
+    Type: int
+  Arg2:
+    Default: 1
+    Description: 
+    Name: Speed
+    Required: false
+    Type: int
 ClassName: NeedleBarCore
 ClassNameFull: NeedleBarCore
-Description: null
-DescriptionAdditional: null
-Name: null
+Description: Block that has spike balls rotating around it.
+Name: Spike Bars
 RailRequired: false
-Switches: null

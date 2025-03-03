@@ -1,8 +1,17 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: Unknown
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: Follow Platform
+    Required: false
+    Type: bool
 ClassName: PackunFlower
 ClassNameFull: PackunFlower
-Description: null
-DescriptionAdditional: null
-Name: 'Piranha Plant'
+Name: Piranha Plant
 RailRequired: false
-Switches: null

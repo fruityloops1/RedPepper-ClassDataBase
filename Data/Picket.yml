@@ -1,8 +1,13 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Max: 2
+    Min: -2
+    Name: Height
+    Required: false
+    Type: int
 ClassName: Picket
 ClassNameFull: Picket
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Ground Poundable Log
 RailRequired: false
-Switches: null

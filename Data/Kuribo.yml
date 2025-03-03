@@ -1,8 +1,17 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: Move when outside the camera's view
+    Name: Move Off Camera
+    Required: false
+    Type: bool
+  Arg7:
+    Default: -1
+    Description: Add 10 seconds instead of dropping a coin
+    Name: Drop +10s
+    Required: false
+    Type: bool
 ClassName: Kuribo
 ClassNameFull: Kuribo
-Description: null
-DescriptionAdditional: null
-Name: 'Goomba'
+Name: Goomba
 RailRequired: false
-Switches: null
