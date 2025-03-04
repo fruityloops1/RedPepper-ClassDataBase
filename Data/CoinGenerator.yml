@@ -2,7 +2,7 @@ Args:
   Arg0:
     Default: 10
     Description: Number of coins to spawn
-    Name: No.
+    Name: No. of Coins
     Required: false
     Type: int
 ClassName: CoinGenerator

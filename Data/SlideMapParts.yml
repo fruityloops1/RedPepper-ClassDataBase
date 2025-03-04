@@ -1,8 +1,29 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: Direction
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: Distance Travelled
+    Required: false
+    Type: int
+  Arg2:
+    Default: -1
+    Description: 
+    Name: Speed
+    Required: false
+    Type: int
+  Arg3:
+    Default: -1
+    Description: 
+    Name: Wait Timer
+    Required: false
+    Type: int
 ClassName: SlideMapParts
 ClassNameFull: SlideMapParts
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Moving Object
 RailRequired: false
-Switches: null

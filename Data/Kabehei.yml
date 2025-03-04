@@ -1,20 +1,17 @@
 Args:
   Arg0:
     Default: 300
-    Description: 'Max distance to block on'
-    Name: MaxDistance
+    Description: Max distance to block on
+    Name: Max Distance
+    Required: false
     Type: int
-    Required: true
   Arg7:
     Default: -1
-    Description: 'Makes the feet not cast a shadow'
+    Description: Makes the feet not cast a shadow
     Name: Hide Feet Shadow
+    Required: false
     Type: bool
-    Required: true
 ClassName: Kabehei
 ClassNameFull: Kabehei
-Description: null
-DescriptionAdditional: null
-Name: 'Wallop'
+Name: Wallop
 RailRequired: false
-Switches: null

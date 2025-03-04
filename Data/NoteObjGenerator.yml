@@ -1,21 +1,34 @@
 Args:
   Arg0:
     Default: -1
-    Description: 'Changes FOV'
-    Name: ZoomRange
+    Description: 
+    Name: Speed
     Required: false
-  Arg1:
-    Default: 80
-    Description: 'Changes max horizontal angle'
-    Name: HorizontalRange
+    Type: int
+  Arg2:
+    Default: -1
+    Description: 
+    Name: Note Lifetime
     Required: false
+    Type: int
+  Arg3:
+    Default: -1
+    Description: 
+    Name: Time Between Notes
+    Required: false
+    Type: int
+  Arg4:
+    Default: -1
+    Description: 
+    Name: Song
+    Required: false
+    Type: int
 ClassName: NoteObjGenerator
 ClassNameFull: NoteObjGenerator
-Description: 'Starts a melody while spawning a trail of notes. Needs SwitchA to start.'
-DescriptionAdditional: null
-Name: 'Music Note Generator'
+Description: Starts a melody while spawning a trail of notes. Needs SwitchA to start.
+Name: Music Note Generator
 RailRequired: true
 Switches:
-  SwitchA: 
-    Description: 'When the switch is on the notes start'
+  SwitchA:
+    Description: When the switch is on the notes start
     Type: Read

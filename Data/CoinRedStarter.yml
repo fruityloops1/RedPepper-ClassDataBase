@@ -7,7 +7,6 @@ Args:
     Type: enum
     Values:
       -1: 1-Up Mushroom
-      0: 1-Up Mushroom
       1: Fire Flower
       2: Boomerang Flower
       3: Super Leaf

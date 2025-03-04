@@ -1,5 +1,123 @@
 ArchiveName: BlockDragonHead
+Args:
+  Arg0:
+    Default: 1
+    Description: 
+    Name: Speed
+    Required: false
+    Type: int
+  Arg1:
+    Default: 0
+    Description: 
+    Name: Block 1
+    Required: false
+    Type: enum
+    Values:
+      0: No Block
+      1: Brick Block
+      2: '? Block'
+      3: '? Block with Super Mushroom'
+      4: '? Block with Fire Flower'
+      5: '? Block with Super Leaf'
+      6: '? Block with 1-Up Mushroom'
+      7: '? Block with Poison Mushroom'
+  Arg2:
+    Default: 0
+    Description: 
+    Name: Block 2
+    Required: false
+    Type: enum
+    Values:
+      0: No Block
+      1: Brick Block
+      2: '? Block'
+      3: '? Block with Super Mushroom'
+      4: '? Block with Fire Flower'
+      5: '? Block with Super Leaf'
+      6: '? Block with 1-Up Mushroom'
+      7: '? Block with Poison Mushroom'
+  Arg3:
+    Default: 0
+    Description: 
+    Name: Block 3
+    Required: false
+    Type: enum
+    Values:
+      0: No Block
+      1: Brick Block
+      2: '? Block'
+      3: '? Block with Super Mushroom'
+      4: '? Block with Fire Flower'
+      5: '? Block with Super Leaf'
+      6: '? Block with 1-Up Mushroom'
+      7: '? Block with Poison Mushroom'
+  Arg4:
+    Default: 0
+    Description: 
+    Name: Block 4
+    Required: false
+    Type: enum
+    Values:
+      0: No Block
+      1: Brick Block
+      2: '? Block'
+      3: '? Block with Super Mushroom'
+      4: '? Block with Fire Flower'
+      5: '? Block with Super Leaf'
+      6: '? Block with 1-Up Mushroom'
+      7: '? Block with Poison Mushroom'
+  Arg5:
+    Default: 0
+    Description: 
+    Name: Block 5
+    Required: false
+    Type: enum
+    Values:
+      0: No Block
+      1: Brick Block
+      2: '? Block'
+      3: '? Block with Super Mushroom'
+      4: '? Block with Fire Flower'
+      5: '? Block with Super Leaf'
+      6: '? Block with 1-Up Mushroom'
+      7: '? Block with Poison Mushroom'
+  Arg6:
+    Default: 0
+    Description: 
+    Name: Block 6
+    Required: false
+    Type: enum
+    Values:
+      0: No Block
+      1: Brick Block
+      2: '? Block'
+      3: '? Block with Super Mushroom'
+      4: '? Block with Fire Flower'
+      5: '? Block with Super Leaf'
+      6: '? Block with 1-Up Mushroom'
+      7: '? Block with Poison Mushroom'
+  Arg7:
+    Default: 0
+    Description: 
+    Name: Block 7
+    Required: false
+    Type: enum
+    Values:
+      0: No Block
+      1: Brick Block
+      2: '? Block'
+      3: '? Block with Super Mushroom'
+      4: '? Block with Fire Flower'
+      5: '? Block with Super Leaf'
+      6: '? Block with 1-Up Mushroom'
+      7: '? Block with Poison Mushroom'
+  Arg8:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: BlockDragonGenerator
 ClassNameFull: BlockDragonGenerator
-Name: Blokkablok
+Name: BlockDragonGenerator
 RailRequired: false

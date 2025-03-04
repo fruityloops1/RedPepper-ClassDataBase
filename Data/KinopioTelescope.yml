@@ -43,7 +43,12 @@ Args:
     Name: Object To Spawn
     Required: false
     Type: enum
-    Values: {}
+    Values:
+      0: Scares Toad
+      1: 1-Up
+      2: Star Coin
+      3: Kills Toad?
+      4: Super Mushroom
 ClassName: KinopioTelescope
 ClassNameFull: KinopioTelescope
 Description: Toad can be used as a child of a telescope, on their own and on a rail. They can also spawn multiple objects and change color / bandana color (Raccoon variation)

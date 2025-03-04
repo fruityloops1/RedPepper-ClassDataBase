@@ -14,7 +14,7 @@ Args:
     Description: 1 Follow plaform
     Name: Follow Plaform
     Required: false
-    Type: int
+    Type: bool
   Arg4:
     Default: -1
     Description: Rail speed

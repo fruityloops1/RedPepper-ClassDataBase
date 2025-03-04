@@ -6,15 +6,9 @@ Args:
     Required: false
     Type: enum
     Values:
-      -1: Nothing
-      1: 1-Up
-      2: Fire Flower
-      3: Super Leaf
-      4: Star
-      5: Poison Mushroom
-      6: Boomerang Flower
-      7: Stone Leaf
-      8: Mushroom
+      -1: White
+      1: Yellow
+      2: Red
   Arg1:
     Default: -1
     Description: Object to spawn when the dandelion is blown away
@@ -31,6 +25,18 @@ Args:
       6: Boomerang Flower
       7: Stone Leaf
       8: Mushroom
+  Arg2:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg3:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: GrassMike
 ClassNameFull: GrassMike
 Name: GrassMike

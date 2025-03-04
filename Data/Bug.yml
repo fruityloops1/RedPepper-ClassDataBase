@@ -1,8 +1,11 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: Bug
 ClassNameFull: Bug
-Description: null
-DescriptionAdditional: null
-Name: 'Stingby'
+Name: Stingby
 RailRequired: false
-Switches: null

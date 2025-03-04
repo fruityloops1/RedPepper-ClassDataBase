@@ -18,7 +18,7 @@ Args:
     Required: false
     Type: enum
     Values:
-      0: Do Nothing
+      -1: Do Nothing
       1: Moves Automatically
       2: Moves when Mario is on it
 ClassName: Trampoline

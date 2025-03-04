@@ -9,12 +9,12 @@ Args:
     Default: 1
     Description: 
     Name: Beat Type
-    Required: true
+    Required: false
     Type: enum
     Values:
-      0: Blocks progressively appear on beat and when all of them are showing they progressively disappear on beat
+      0: Blocks appear on beat and then disappear on beat
       1: One block type per beat
-      2: Blocks progressively appear each beat and on the last beat they disappear
+      2: Blocks appear each beat and disappear on the last beat
 ClassName: BeatBlockHolder
 ClassNameFull: BeatBlockHolder
 Name: Beat Block Parent

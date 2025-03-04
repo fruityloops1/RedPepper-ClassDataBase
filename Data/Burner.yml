@@ -1,23 +1,23 @@
 Args:
   Arg0:
     Default: -1
-    Description: '0 = true'
-    Name: 'Permanent flame'
+    Description: 0 = true
+    Name: Permanent Flame
     Required: false
+    Type: int
   Arg1:
     Default: 100
-    Description: null
-    Name: 'Flame length'
+    Description: 
+    Name: Flame Length
     Required: false
+    Type: int
   Arg2:
     Default: -1
-    Description: null
-    Name: 'Flame duration'
+    Description: 
+    Name: Flame Duration
     Required: false
+    Type: int
 ClassName: Burner
 ClassNameFull: Burner
-Description: null
-DescriptionAdditional: null
-Name: 'Flamethrower'
+Name: Flamethrower
 RailRequired: false
-Switches: null

@@ -39,19 +39,19 @@ Args:
   Arg6:
     Default: -1
     Description: 
-    Name: Unknown
+    Name: 
     Required: false
     Type: int
   Arg7:
     Default: -1
     Description: 
-    Name: Unknown 2
+    Name: 
     Required: false
     Type: int
   Arg8:
     Default: -1
     Description: 
-    Name: Unknown 3
+    Name: 
     Required: false
     Type: int
 ClassName: KillerGenerator
