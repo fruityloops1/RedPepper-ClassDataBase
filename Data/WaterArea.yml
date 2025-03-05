@@ -1,9 +1,6 @@
-Args: null
 ClassName: WaterArea
 ClassNameFull: WaterArea
-Description: Swimmable area
-DescriptionAdditional: null
-Name: 'Water Area'
+Description: 'Swimmable area. The ShapeModelNo value allows you to use different shapes. 0 = Cube,  2 = Sphere, 3 = Cylinder. '
+Name: Water Area
 RailRequired: false
-Switches: null
 Type: AreaObj

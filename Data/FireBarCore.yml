@@ -5,19 +5,21 @@ Args:
     Name: Amount
     Required: true
   Arg1:
-    Default: 1
+    Default: -1
     Description: -1 Counterclockwise, 1 Clockwise
-    Name: Rotation direction
-    Required: true
+    Name: Rotation Direction
+    Required: false
+    Type: enum
+    Values:
+      -1: Counter Clockwise
+      1: Clockwise
   Arg2:
     Default: -1
     Description: 1 Fire has shadows
-    Name: Enable shadows
-    Required: true
+    Name: Enable Shadows
+    Required: false
+    Type: int
 ClassName: FireBarCore
 ClassNameFull: FireBarCore
-Description: null
-DescriptionAdditional: null
-Name: 'Fire Bar'
+Name: Fire Bar
 RailRequired: false
-Switches: null

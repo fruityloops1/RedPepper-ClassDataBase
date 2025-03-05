@@ -1,8 +1,12 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: ID used to spawn Mario at a specific position
+    Name: Mario Start ID
+    Required: false
+    Type: int
 ClassName: RestartObj
 ClassNameFull: RestartObj
 Description: Checkpoint flag that automatically spawns player near it when he dies.
-DescriptionAdditional: null
-Name: 'Checkpoint Flag'
+Name: Checkpoint Flag
 RailRequired: false
-Switches: null

@@ -1,29 +1,27 @@
 Args:
-    Arg0:
-        Default: 40
-        Description: Higher values will make the overlay bigger
-        Type: int
-        Name: Radius
-        Required: false
-    Arg1:
-        Default: 50
-        Description: Higher values will make the overlay darker
-        Type: int
-        Name: Opacity
-        Min: 0
-        Max: 100
-        Required: false
-    Arg2:
-        Default: 1
-        Description: Makes it so the overlay appears instantly instead of smoothly
-        Type: bool
-        Name: IsInstant
-        Required: false
+  Arg0:
+    Default: 40
+    Description: Higher values will make the overlay bigger
+    Name: Radius
+    Required: false
+    Type: int
+  Arg1:
+    Default: 50
+    Description: Higher values will make the overlay darker
+    Max: 100
+    Min: 0
+    Name: Opacity
+    Required: false
+    Type: int
+  Arg2:
+    Default: 0
+    Description: Makes it so the overlay appears instantly instead of smoothly
+    Name: Is Instant
+    Required: false
+    Type: bool
 ClassName: SpotLightArea
 ClassNameFull: SpotLightArea
 Description: Overlay for the screen that follows the player
-DescriptionAdditional: null
 Name: Spotlight Overlay
 RailRequired: false
-Switches: null
 Type: AreaObj

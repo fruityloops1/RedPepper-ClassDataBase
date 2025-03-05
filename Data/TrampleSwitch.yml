@@ -1,9 +1,13 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: Disable Shadow
+    Required: false
+    Type: bool
 ClassName: TrampleSwitch
 ClassNameFull: TrampleSwitch
-Description: null
-DescriptionAdditional: null
-Name: 'P-Switch'
+Name: P-Switch
 RailRequired: false
 Switches:
   SwitchA:

@@ -1,18 +1,17 @@
 Args:
   Arg0:
     Default: -1
-    Name: Throws
+    Description: 
+    Name: Throws Object
+    Required: false
     Type: enum
     Values:
-      -1: 'Wrench'
-      1: 'Coin'
-      2: 'Coin'
-      3: 'Bob-Omb'
-    Required: true
+      -1: Wrench
+      1: Coin
+      2: Coin
+      3: Bob-Omb
 ClassName: Poo
 ClassNameFull: Poo
-Description: 'Enemy that throws different objects at the player'
-DescriptionAdditional: null
+Description: Enemy that throws different objects at the player
 Name: Rocky Wrench
 RailRequired: false
-Switches: null

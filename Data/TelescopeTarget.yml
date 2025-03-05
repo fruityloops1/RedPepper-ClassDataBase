@@ -1,8 +1,18 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg7:
+    Default: -1
+    Description: 
+    Name: Show Message
+    Required: false
+    Type: bool
 ClassName: TelescopeTarget
 ClassNameFull: TelescopeTarget
-Description: 'Object that displays messages while looking through the telescope. Needs to be child of a Telescope object to work.'
-DescriptionAdditional: null
-Name: 'Telescope Sign'
+Description: Object that displays messages while looking through the telescope. Needs to be child of a Telescope object to work.
+Name: Telescope Sign
 RailRequired: false
-Switches: null

@@ -1,23 +1,27 @@
 Args:
   Arg0:
     Default: 1
-    Description: 'Star medal number'
+    Description: Star Medal Number
     Name: ID
-    Required: true
+    Required: false
+    Type: enum
+    Values:
+      1: "1"
+      2: "2"
+      3: "3"
   Arg1:
     Default: -1
-    Description: '1 Follow plaform'
-    Name: FollowPlaform
-    Required: true
+    Description: 1 Follow plaform
+    Name: Follow Plaform
+    Required: false
+    Type: bool
   Arg4:
     Default: -1
-    Description: 'Rail speed'
-    Name: RailSpeed
-    Required: true
+    Description: Rail speed
+    Name: Rail Speed
+    Required: false
+    Type: int
 ClassName: CoinCollect
 ClassNameFull: CoinCollect
-Description: null
-DescriptionAdditional: null
-Name: 'Star Medal'
+Name: Star Medal
 RailRequired: false
-Switches: null

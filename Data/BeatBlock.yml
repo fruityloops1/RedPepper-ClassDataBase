@@ -1,24 +1,22 @@
 Args:
   Arg0:
     Default: 100
-    Description: 'Delay between actions'
-    Type: int
+    Description: Delay between actions
     Name: Delay
     Required: true
+    Type: int
   Arg2:
     Default: 1
-    Description: ''
+    Description: 
+    Name: Beat Type
+    Required: false
     Type: enum
-    Values: 
-      0 : 'Blocks progressively appear on beat and when all of them are showing they progressively disappear on beat'
-      1 : 'One block type per beat'
-      2 : 'Blocks progressively appear each beat and on the last beat they disappear'
-    Name: 'Beat Type'
-    Required: true
+    Values:
+      0: Blocks appear on beat and then disappear on beat
+      1: One block type per beat
+      2: Blocks appear each beat and disappear on the last beat
 ClassName: BeatBlock
 ClassNameFull: BeatBlock
-Description: 'Block that plays a tune then appears and disappears on tune. Child of BeatBlockHolder'
-DescriptionAdditional: null
-Name: 'Beat Block child'
+Description: Block that plays a tune then appears and disappears on tune. Child of BeatBlockHolder
+Name: Beat Block Child
 RailRequired: false
-Switches: null

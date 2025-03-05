@@ -1,9 +1,65 @@
-Args: null
+ArchiveName: Killer
+Args:
+  Arg0:
+    Default: 1
+    Description: Time for the next Bullet Bill to spawn
+    Name: Delay Time
+    Required: false
+    Type: int
+  Arg1:
+    Default: 1
+    Description: How far Bullet Bill will travel
+    Name: Distance Travelled
+    Required: false
+    Type: int
+  Arg2:
+    Default: 1
+    Description: How fast Bullet Bill will travel
+    Name: Speed
+    Required: false
+    Type: int
+  Arg3:
+    Default: -1
+    Description: Used for Bullet Bill to shoot out as level is loaded
+    Name: Shoot Out Instantly
+    Required: false
+    Type: bool
+  Arg4:
+    Default: -1
+    Description: 
+    Name: Tail Bullet Bill?
+    Required: false
+    Type: int
+  Arg5:
+    Default: -1
+    Description: 
+    Name: No. of Bullet Bills before Tail variant?
+    Required: false
+    Type: int
+  Arg6:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg7:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg8:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: KillerGenerator
 ClassNameFull: KillerGenerator
-Description: null
-DescriptionAdditional: null
-Name: 'Bullet Bill Generator'
+Description: Spawner used to spawn Bullet Bills.
+Name: Bullet Bill Generator
 RailRequired: false
-Switches: null
-ArchiveName: Killer
+Switches:
+  SwitchAppear:
+    Description: Used to activate the spawner
+    Type: Read

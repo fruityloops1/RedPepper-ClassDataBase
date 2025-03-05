@@ -2,51 +2,55 @@ ArchiveName: Kinopio
 Args:
   Arg0:
     Default: -1
+    Description: 
+    Name: Color
+    Required: false
     Type: enum
     Values:
-        -1 : 'Red with blue vest'
-        1 : 'Red with red vest'
-        2 : 'Blue'
-        3 : 'Yellow'
-        4 : 'Green'
-        5 : 'Purple'
-    Name: 'Color'
-    Required: false
+      -1: Red with Blue Vest
+      1: Red with Red Vest
+      2: Blue
+      3: Yellow
+      4: Green
+      5: Purple
   Arg1:
     Default: -1
+    Name: Is Jumping
+    Required: false
     Type: bool
-    Name: 'Is Jumping'
-    Required: false
-  Arg5:
-    Default: -1
-    Type: bool
-    Name: 'Use Propeller'
-    Required: false
-  Arg7:
-    Default: -1
-    Description: '1 = 1-UP, 2 = star coin, 0 = scares toad, 3 = kills toad?, 4 = Super Mushroom'
-    Type: enum
-    Values:
-        -1: 'Scares Toad'
-        0 : 'Scares Toad'
-        1 : '1-UP'
-        2 : 'Star Coin'
-        3 : 'Makes Toad Disappear'
-        4 : 'Super Mushroom'
-    Name: ObjectToSpawn
-    Required: false
   Arg3:
     Default: -1
-    Description: 'Only used if toad spawns a starcoin?'
-    Name: MedalID
-    Type: int
-    Min: -1
+    Description: Only used if toad spawns a starcoin?
     Max: 3
+    Min: -1
+    Name: Medal ID
     Required: false
+    Type: int
+  Arg5:
+    Default: -1
+    Name: Use Propeller
+    Required: false
+    Type: bool
+  Arg6:
+    Default: -1
+    Description: Movement speed when using a rail
+    Name: Movement Speed
+    Required: false
+    Type: int
+  Arg7:
+    Default: -1
+    Description: 1 = 1-Up, 2 = star coin, 0 = scares toad, 3 = kills toad?, 4 = Super Mushroom
+    Name: Object To Spawn
+    Required: false
+    Type: enum
+    Values:
+      0: Scares Toad
+      1: 1-Up
+      2: Star Coin
+      3: Kills Toad?
+      4: Super Mushroom
 ClassName: KinopioTelescope
 ClassNameFull: KinopioTelescope
-Description: 'Toad can be used as a child of a telescope, on their own and on a rail. They can also spawn multiple objects and change color / bandana color (Raccoon variation)'
-DescriptionAdditional: null
-Name: 'Binoculars Toad'
+Description: Toad can be used as a child of a telescope, on their own and on a rail. They can also spawn multiple objects and change color / bandana color (Raccoon variation)
+Name: Binoculars Toad
 RailRequired: false
-Switches: null

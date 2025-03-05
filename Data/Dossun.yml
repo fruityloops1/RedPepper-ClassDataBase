@@ -1,13 +1,11 @@
 Args:
   Arg0:
     Default: 100
-    Description: 'Max height'
-    Name: MaxHeight
+    Description: Max height
+    Name: Max Height
     Required: false
+    Type: int
 ClassName: Dossun
 ClassNameFull: Dossun
-Description: null
-DescriptionAdditional: null
-Name: 'Thwomp'
+Name: Thwomp
 RailRequired: false
-Switches: null

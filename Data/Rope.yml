@@ -1,8 +1,32 @@
-Args: null
+Args:
+  Arg0:
+    Default: 0
+    Description: Sets the model used at the start of the rope
+    Name: Start Model
+    Required: false
+    Type: enum
+    Values: {}
+  Arg1:
+    Default: 0
+    Description: Sets the model for the end of the rope
+    Name: End Model
+    Required: false
+    Type: enum
+    Values: {}
+  Arg3:
+    Default: -1
+    Description: Determines how big the shadow will be
+    Name: Shadow Size Height
+    Required: false
+    Type: int
+  Arg4:
+    Default: -1
+    Description: 
+    Name: Shadow Size Width
+    Required: false
+    Type: int
 ClassName: Rope
 ClassNameFull: Rope
-Description: null
-DescriptionAdditional: null
-Name: null
+Description: A tightrope Mario can walk across and jump on.
+Name: Tightrope
 RailRequired: false
-Switches: null

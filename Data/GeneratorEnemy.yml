@@ -1,13 +1,14 @@
 Args:
   Arg1:
-    Default: 0
-    Description: -1 = Goomba, 1 = Dry Bones
-    Name: EnemyType
-    Required: true
+    Default: -1
+    Description: 
+    Name: Enemy Type
+    Required: false
+    Type: enum
+    Values:
+      -1: Goomba
+      1: Dry Bones
 ClassName: GeneratorEnemy
 ClassNameFull: GeneratorEnemy
-Description: null
-DescriptionAdditional: null
-Name: 'Bowser Box'
+Name: Bowser Box
 RailRequired: false
-Switches: null

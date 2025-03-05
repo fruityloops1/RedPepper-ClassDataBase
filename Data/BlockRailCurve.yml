@@ -1,8 +1,16 @@
-Args: null
+Args:
+  Arg0:
+    Default: 0
+    Description: 
+    Name: Color
+    Required: false
+    Type: enum
+    Values:
+      0: Grey
+      1: Blue
+      2: Red
+      3: Yellow
 ClassName: BlockRailCurve
 ClassNameFull: BlockRailCurve
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Curved Seesaw Rail
 RailRequired: false
-Switches: null

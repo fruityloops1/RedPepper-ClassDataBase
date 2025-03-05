@@ -1,9 +1,35 @@
-Args: null
+ArchiveName: Tenten
+Args:
+  Arg0:
+    Default: 1
+    Description: 
+    Name: Amount
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: Delay
+    Required: false
+    Type: int
+  Arg2:
+    Default: 1
+    Description: How fast they walk
+    Name: Speed
+    Required: false
+    Type: int
+  Arg3:
+    Default: 1
+    Description: Starting color of biddybud
+    Name: Color
+    Required: false
+    Type: enum
+    Values:
+      1: Green
+      2: Blue
+      3: Yellow
+      4: Pink
 ClassName: TentenGenerator
 ClassNameFull: TentenGenerator
-Description: null
-DescriptionAdditional: null
-Name: 'TentenGenerator'
+Name: TentenGenerator
 RailRequired: false
-Switches: null
-ArchiveName: Tenten

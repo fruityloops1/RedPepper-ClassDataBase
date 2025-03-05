@@ -1,8 +1,23 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: Gives a coin when destroyed
+    Name: Give Coin
+    Required: false
+    Type: bool
+  Arg1:
+    Default: -1
+    Description: 
+    Name: Mystery Box Related?
+    Required: false
+    Type: bool
+  Arg2:
+    Default: -1
+    Description: 
+    Name: Follow Platform
+    Required: false
+    Type: bool
 ClassName: PeraObj
 ClassNameFull: PeraObj
-Description: null
-DescriptionAdditional: null
-Name: 'Wooden Cutout Object'
+Name: Wooden Cutout Object
 RailRequired: false
-Switches: null

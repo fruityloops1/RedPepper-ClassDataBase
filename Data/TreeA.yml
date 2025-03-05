@@ -1,28 +1,26 @@
 Args:
   Arg0:
     Default: 0
-    Description:
-    Type: enum
-    Values:
-        0 : None
-        1 : 1-Up
-        2 : Fire Flower
-        3 : Super Leaf
-        4 : Star
-        5 : Poison Mushroom
-        6 : Boomerang Flower
+    Description: 
     Name: Item
     Required: false
+    Type: enum
+    Values:
+      -1: None
+      1: 1-Up
+      2: Fire Flower
+      3: Super Leaf
+      4: Star
+      5: Poison Mushroom
+      6: Boomerang Flower
   Arg2:
     Default: -1
     Description: Drop coins if rolled onto
-    Type: bool
-    Name: DropCoins
+    Name: Drop Coins
     Required: false
+    Type: bool
 ClassName: TreeA
 ClassNameFull: TreeA
 Description: Climbable tree
-DescriptionAdditional: null
-Name: 'Tree'
+Name: Tree
 RailRequired: false
-Switches: null
