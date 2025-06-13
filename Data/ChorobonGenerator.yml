@@ -1,9 +1,62 @@
-Args: null
+ArchiveName: Chorobon
+Args:
+  Arg0:
+    Default: 1
+    Description: 
+    Name: No. of Fuzzies
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: Speed
+    Required: false
+    Type: int
+  Arg2:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg3:
+    Default: -1
+    Description: Rail will become visible when checked.
+    Name: Show Rail
+    Required: false
+    Type: bool
+  Arg4:
+    Default: -1
+    Description: 
+    Name: Item to Spawn
+    Required: false
+    Type: enum
+    Values:
+      -1: Nothing
+      0: Super Mushroom
+      1: Fire Flower
+      2: Super Leaf
+      3: Empty Block
+      4: Coin
+      5: Stone Leaf
+  Arg5:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg6:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg7:
+    Default: -1
+    Description: 
+    Name: Shadow Size
+    Required: false
+    Type: int
 ClassName: ChorobonGenerator
 ClassNameFull: ChorobonGenerator
-Description: null
-DescriptionAdditional: null
-Name: 'Fuzzy Generator'
+Name: Fuzzy Generator
 RailRequired: false
-Switches: null
-ArchiveName: Chorobon

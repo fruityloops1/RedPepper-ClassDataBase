@@ -21,6 +21,18 @@ Args:
       -1: Do Nothing
       1: Moves Automatically
       2: Moves when Mario is on it
+  Arg4:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg7:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: Trampoline
 ClassNameFull: Trampoline
 Description: Object used to bounce Mario

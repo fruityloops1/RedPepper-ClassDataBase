@@ -1,9 +1,5 @@
-Args: null
 ClassName: GhostPlayerArea
 ClassNameFull: GhostPlayerArea
-Description: null
-DescriptionAdditional: null
-Name: 'GhostPlayerArea'
+Name: Cosmic Clone Area
 RailRequired: false
-Switches: null
 Type: AreaObj

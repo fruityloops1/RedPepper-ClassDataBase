@@ -1,8 +1,17 @@
-Args: null
+Args:
+  Arg6:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg7:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: Bunbun
 ClassNameFull: Bunbun
-Description: null
-DescriptionAdditional: null
-Name: 'Boom Boom'
+Name: Boom Boom
 RailRequired: false
-Switches: null

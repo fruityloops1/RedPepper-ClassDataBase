@@ -23,6 +23,18 @@ Args:
     Name: Wait Timer
     Required: false
     Type: int
+  Arg4:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg5:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: SlideMapParts
 ClassNameFull: SlideMapParts
 Name: Moving Object

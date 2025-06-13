@@ -5,6 +5,12 @@ Args:
     Name: Max Height
     Required: false
     Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: Dossun
 ClassNameFull: Dossun
 Name: Thwomp

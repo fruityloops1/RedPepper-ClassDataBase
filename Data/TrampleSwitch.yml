@@ -1,6 +1,6 @@
 Args:
   Arg0:
-    Default: -1
+    Default: 0
     Description: 
     Name: Disable Shadow
     Required: false

@@ -1,8 +1,18 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: CoinBox
 ClassNameFull: CoinBox
-Description: 'Object with the appearance of a normal question block that the player can wear. Gives the player coins for the duration of the effect.'
-DescriptionAdditional: null
-Name: 'Coin Box'
+Description: Object with the appearance of a normal question block that the player can wear. Gives the player coins for the duration of the effect.
+Name: Coin Box
 RailRequired: false
-Switches: null

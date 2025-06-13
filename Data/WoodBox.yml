@@ -1,8 +1,11 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: WoodBox
 ClassNameFull: WoodBox
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Wooden Crate
 RailRequired: false
-Switches: null

@@ -2,8 +2,9 @@ Args:
   Arg0:
     Default: 2
     Description: Number of bars to spawn
-    Name: Amount
-    Required: true
+    Name: No. of bars spawning
+    Required: false
+    Type: int
   Arg1:
     Default: -1
     Description: -1 Counterclockwise, 1 Clockwise

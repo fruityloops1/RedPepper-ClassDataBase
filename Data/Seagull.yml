@@ -1,8 +1,17 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: Seagull
 ClassNameFull: Seagull
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Seagull
 RailRequired: false
-Switches: null
