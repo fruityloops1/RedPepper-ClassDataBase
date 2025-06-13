@@ -1,8 +1,11 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: WarpCube
 ClassNameFull: WarpCube
-Description: null
-DescriptionAdditional: null
-Name: 'Warp Box'
+Name: Warp Box
 RailRequired: false
-Switches: null

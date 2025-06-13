@@ -1,8 +1,47 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg2:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg3:
+    Default: -1
+    Description: 
+    Name: Ink Speed
+    Required: false
+    Type: int
+  Arg4:
+    Default: -1
+    Description: 
+    Name: Wait Time
+    Required: false
+    Type: int
+  Arg5:
+    Default: -1
+    Description: 
+    Name: Shot Angle
+    Required: false
+    Type: int
+  Arg6:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: PackunInk
 ClassNameFull: PackunInk
-Description: null
-DescriptionAdditional: null
-Name: 'Inky Piranha Plant'
+Name: Inky Piranha Plant
 RailRequired: false
-Switches: null

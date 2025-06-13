@@ -1,8 +1,24 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: Max Height
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: How long geyser stays up
+    Name: Time Up
+    Required: false
+    Type: int
+  Arg2:
+    Default: -1
+    Description: How long geyser stays down
+    Name: Time Down
+    Required: false
+    Type: int
 ClassName: LiftGeyser
 ClassNameFull: LiftGeyser
-Description: 'Geyser capable of lifting seesaw platforms on rails'
-DescriptionAdditional: null
-Name: 'Geyser'
+Description: Geyser capable of lifting seesaw platforms on rails
+Name: Seasaw Geyser
 RailRequired: false
-Switches: null

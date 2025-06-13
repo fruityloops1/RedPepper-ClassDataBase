@@ -29,7 +29,25 @@ Args:
       2: Blue
       3: Yellow
       4: Pink
+  Arg4:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg5:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg7:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: TentenGenerator
 ClassNameFull: TentenGenerator
-Name: TentenGenerator
+Name: Biddybud Generator
 RailRequired: false

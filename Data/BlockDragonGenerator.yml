@@ -119,5 +119,5 @@ Args:
     Type: int
 ClassName: BlockDragonGenerator
 ClassNameFull: BlockDragonGenerator
-Name: BlockDragonGenerator
+Name: Blokkablok
 RailRequired: false

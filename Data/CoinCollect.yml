@@ -21,6 +21,18 @@ Args:
     Name: Rail Speed
     Required: false
     Type: int
+  Arg5:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg7:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: CoinCollect
 ClassNameFull: CoinCollect
 Name: Star Medal

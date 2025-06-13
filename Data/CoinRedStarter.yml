@@ -1,4 +1,10 @@
 Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: Ring Shape
+    Required: false
+    Type: bool
   Arg1:
     Default: -1
     Description: 
@@ -10,6 +16,12 @@ Args:
       1: Fire Flower
       2: Boomerang Flower
       3: Super Leaf
+  Arg2:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: CoinRedStarter
 ClassNameFull: CoinRedStarter
 Name: Red Coin Ring

@@ -1,8 +1,35 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg2:
+    Default: 1
+    Description: 
+    Name: Max Height
+    Required: false
+    Type: int
+  Arg3:
+    Default: -1
+    Description: 
+    Name: Wait Time
+    Required: false
+    Type: int
+  Arg4:
+    Default: -1
+    Description: 
+    Name: Go Fast
+    Required: false
+    Type: bool
 ClassName: LavaGeyser
 ClassNameFull: LavaGeyser
-Description: null
-DescriptionAdditional: null
-Name: 'Lava Geyser'
+Name: Lava Geyser
 RailRequired: false
-Switches: null

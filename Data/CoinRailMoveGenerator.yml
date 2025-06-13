@@ -1,8 +1,35 @@
-Args: null
+Args:
+  Arg0:
+    Default: 1
+    Description: 
+    Name: No. of Coins
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: Interval Time
+    Required: false
+    Type: int
+  Arg2:
+    Default: 1
+    Description: 
+    Name: Speed
+    Required: false
+    Type: int
+  Arg3:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg4:
+    Default: -1
+    Description: 
+    Name: Time between Coins
+    Required: false
+    Type: int
 ClassName: CoinRailMoveGenerator
 ClassNameFull: CoinRailMoveGenerator
-Description: null
-DescriptionAdditional: null
-Name: 'CoinRailMoveGenerator'
+Name: 'Coin Rail '
 RailRequired: false
-Switches: null

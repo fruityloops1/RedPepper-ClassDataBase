@@ -10,6 +10,24 @@ Args:
       1: Coin
       2: Coin
       3: Bob-Omb
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg2:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg3:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: Poo
 ClassNameFull: Poo
 Description: Enemy that throws different objects at the player

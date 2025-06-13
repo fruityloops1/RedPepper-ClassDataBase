@@ -1,13 +1,23 @@
 Args:
-  Arg7:
-    Default: 1
-    Description: '-1 Pop on top, 0, 1, 2, 3 -> Front, Left, Back, Right'
-    Name: 'Spawn Direction'
+  Arg5:
+    Default: -1
+    Description: 
+    Name: 
     Required: false
+    Type: int
+  Arg7:
+    Default: 0
+    Description: -1 Pop on top, 0, 1, 2, 3 -> Front, Left, Back, Right
+    Name: Spawn Direction
+    Required: false
+    Type: enum
+    Values:
+      -1: Pop on Top
+      0: Front
+      1: Left
+      2: Back
+      3: Right
 ClassName: BlockRoulette
 ClassNameFull: BlockRoulette
-Description: null
-DescriptionAdditional: null
-Name: 'Roulette Block'
+Name: Roulette Item Block
 RailRequired: false
-Switches: null

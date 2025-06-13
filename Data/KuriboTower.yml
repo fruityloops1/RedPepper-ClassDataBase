@@ -1,8 +1,17 @@
-Args: null
+Args:
+  Arg0:
+    Default: 1
+    Description: 
+    Name: No. of Goombas
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: KuriboTower
 ClassNameFull: KuriboTower
-Description: null
-DescriptionAdditional: null
-Name: 'Goomba Tower'
+Name: Goomba Tower
 RailRequired: false
-Switches: null

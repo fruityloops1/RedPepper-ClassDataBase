@@ -1,8 +1,4 @@
-Args: null
 ClassName: BunbunAndPunpunTagObj
 ClassNameFull: BunbunAndPunpunTagObj
-Description: null
-DescriptionAdditional: null
-Name: 'Tag object for Boom Boom and Pom Pom'
+Name: Tag Object for Boom Boom and Pom Pom
 RailRequired: false
-Switches: null

@@ -1,8 +1,4 @@
-Args: null
 ClassName: CoinRing
 ClassNameFull: CoinRing
-Description: null
-DescriptionAdditional: null
-Name: 'Coin Ring'
+Name: Coin Ring
 RailRequired: false
-Switches: null

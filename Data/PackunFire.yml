@@ -1,8 +1,11 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: PackunFire
 ClassNameFull: PackunFire
-Description: null
-DescriptionAdditional: null
-Name: 'Fire Piranha Plant'
+Name: Fire Piranha Plant
 RailRequired: false
-Switches: null
