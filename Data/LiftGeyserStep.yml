@@ -1,8 +1,34 @@
-Args: null
+Args:
+  Arg0:
+    Default: 1
+    Description: 
+    Name: Height
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg2:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg3:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg4:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: LiftGeyserStep
 ClassNameFull: LiftGeyserStep
-Description: null
-DescriptionAdditional: null
-Name: null
 RailRequired: false
-Switches: null

@@ -29,4 +29,4 @@ ClassName: Rope
 ClassNameFull: Rope
 Description: A tightrope Mario can walk across and jump on.
 Name: Tightrope
-RailRequired: false
+RailRequired: true

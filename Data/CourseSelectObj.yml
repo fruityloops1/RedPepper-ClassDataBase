@@ -13,5 +13,5 @@ Args:
     Type: int
 ClassName: CourseSelectObj
 ClassNameFull: CourseSelectObj
-Name: CourseSelectObj
+Name: World Map Object
 RailRequired: false

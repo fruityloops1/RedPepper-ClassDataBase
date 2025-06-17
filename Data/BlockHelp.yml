@@ -1,8 +1,23 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg5:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg7:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: BlockHelp
 ClassNameFull: BlockHelp
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: P-Wing Block
 RailRequired: false
-Switches: null

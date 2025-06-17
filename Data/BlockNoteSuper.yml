@@ -1,8 +1,13 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: BlockNoteSuper
 ClassNameFull: BlockNoteSuper
 Description: Rainbow Note Block which teleports player to another point in the level.
 DescriptionAdditional: BlockNoteSuperWide is the block, while BlockNoteSuper is the entrance point which should be linked as a child to the block.
-Name: 'Rainbow Note Block'
+Name: Rainbow Note Block
 RailRequired: false
-Switches: null

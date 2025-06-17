@@ -1,8 +1,18 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg7:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: GroundRiserAttachment
 ClassNameFull: GroundRiserAttachment
-Description: null
-DescriptionAdditional: null
-Name: 'GroundRiserAttachment'
+Description: Wheel Riser Attacher
+Name: GroundRiserAttachment
 RailRequired: false
-Switches: null

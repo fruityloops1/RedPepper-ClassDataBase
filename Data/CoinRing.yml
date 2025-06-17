@@ -1,3 +1,16 @@
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg3:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: CoinRing
 ClassNameFull: CoinRing
 Name: Coin Ring

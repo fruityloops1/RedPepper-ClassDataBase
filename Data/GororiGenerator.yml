@@ -1,9 +1,30 @@
-Args: null
+ArchiveName: Gorori
+Args:
+  Arg0:
+    Default: 1
+    Description: 
+    Name: Shoot Speed
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg2:
+    Default: -1
+    Description: 
+    Name: Time Between Shots
+    Required: false
+    Type: int
+  Arg3:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: GororiGenerator
 ClassNameFull: GororiGenerator
-Description: null
-DescriptionAdditional: null
-Name: 'Spike Ball Generator'
+Name: Spike Ball Generator
 RailRequired: false
-Switches: null
-ArchiveName: Gorori

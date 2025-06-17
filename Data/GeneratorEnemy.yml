@@ -1,4 +1,10 @@
 Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
   Arg1:
     Default: -1
     Description: 
@@ -8,6 +14,12 @@ Args:
     Values:
       -1: Goomba
       1: Dry Bones
+  Arg2:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: GeneratorEnemy
 ClassNameFull: GeneratorEnemy
 Name: Bowser Box

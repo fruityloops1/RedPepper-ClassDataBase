@@ -1,8 +1,38 @@
-Args: null
+Args:
+  Arg0:
+    Default: 1
+    Description: 
+    Name: Behaviour
+    Required: false
+    Type: enum
+    Values:
+      1: Moves automatically
+      2: Moves when Mario is on it
+  Arg1:
+    Default: -1
+    Description: 
+    Name: Time breaking
+    Required: false
+    Type: int
+  Arg2:
+    Default: -1
+    Description: 
+    Name: Time to break
+    Required: false
+    Type: int
+  Arg3:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg4:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: CollapseBreakMapParts
 ClassNameFull: CollapseBreakMapParts
-Description: null
-DescriptionAdditional: null
-Name: 'CollapseBreakMapParts'
+Name: CollapseBreakMapParts
 RailRequired: false
-Switches: null

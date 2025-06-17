@@ -16,10 +16,15 @@ Args:
     Default: 0
     Description: Unknown
     Required: false
+  Arg4:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: Garigari
 ClassNameFull: Garigari
 Description: Saw that moves along a rail and cuts map parts
-DescriptionAdditional: null
 Name: Grinder
 RailRequired: true
 Switches:

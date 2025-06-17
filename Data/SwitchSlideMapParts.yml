@@ -1,8 +1,28 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: Max Height
+    Required: false
+    Type: int
+  Arg2:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg3:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: SwitchSlideMapParts
 ClassNameFull: SwitchSlideMapParts
-Description: null
-DescriptionAdditional: null
-Name: null
 RailRequired: false
-Switches: null

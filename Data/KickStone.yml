@@ -1,8 +1,11 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: KickStone
 ClassNameFull: KickStone
-Description: null
-DescriptionAdditional: null
-Name: 'KickStone'
+Name: KickStone
 RailRequired: false
-Switches: null

@@ -1,10 +1,10 @@
 Args:
   Arg0:
     Default: -1
-    Description: 
-    Name: 
+    Description: Removes broken wood piece when box is destroyed
+    Name: Remove Broken Wood Pieces
     Required: false
-    Type: int
+    Type: bool
 ClassName: WoodBox
 ClassNameFull: WoodBox
 Name: Wooden Crate

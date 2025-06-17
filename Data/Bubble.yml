@@ -1,8 +1,30 @@
-Args: null
+Args:
+  Arg0:
+    Default: 1
+    Description: 
+    Name: Jump Height
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg2:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg3:
+    Default: -1
+    Description: 
+    Name: Jump Delay
+    Required: false
+    Type: int
 ClassName: Bubble
 ClassNameFull: Bubble
-Description: null
-DescriptionAdditional: null
-Name: 'Lava Bubble'
+Description: A lava bubble that jumps out of the lava.
+Name: Lava Bubble
 RailRequired: false
-Switches: null

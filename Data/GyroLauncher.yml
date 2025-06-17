@@ -1,14 +1,17 @@
 Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
   Arg7:
     Default: -1
-    Description: '1 = Shows a button guide when standing on top'
-    Name: 'Show L'
-    Type: bool
+    Description: 1 = Shows a button guide when standing on top
+    Name: Show L
     Required: false
+    Type: bool
 ClassName: GyroLauncher
 ClassNameFull: GyroLauncher
-Description: null
-DescriptionAdditional: null
-Name: 'Cannon'
+Name: Cannon
 RailRequired: false
-Switches: null

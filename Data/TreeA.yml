@@ -13,6 +13,12 @@ Args:
       4: Star
       5: Poison Mushroom
       6: Boomerang Flower
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
   Arg2:
     Default: -1
     Description: Drop coins if rolled onto

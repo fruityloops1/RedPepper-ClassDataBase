@@ -14,4 +14,4 @@ Args:
 ClassName: Seagull
 ClassNameFull: Seagull
 Name: Seagull
-RailRequired: false
+RailRequired: true

@@ -1,8 +1,12 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: EntranceCameraObj
 ClassNameFull: EntranceCameraObj
-Description: 'Determines what camera to use when starting the level, until the player moves, then it will use whatever camera was assigned in the cameraarea the player is in'
-DescriptionAdditional: null
-Name: 'Initial Level Camera'
+Description: Determines what camera to use when starting the level, until the player moves, then it will use whatever camera was assigned in the cameraarea the player is in
+Name: Initial Level Camera
 RailRequired: false
-Switches: null

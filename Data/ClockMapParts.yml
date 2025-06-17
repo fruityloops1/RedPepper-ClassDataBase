@@ -14,10 +14,13 @@ Args:
     Description: how many frames to rotate
     Name: RotateFrames
     Required: false
+  Arg3:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: ClockMapParts
 ClassNameFull: ClockMapParts
-Description: null
-DescriptionAdditional: null
-Name: 'Clock Map Parts'
+Name: Clock Map Parts
 RailRequired: false
-Switches: null
