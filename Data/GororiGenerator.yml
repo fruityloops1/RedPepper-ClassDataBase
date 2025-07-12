@@ -7,15 +7,15 @@ Args:
     Required: false
     Type: int
   Arg1:
-    Default: -1
-    Description: 
-    Name: 
+    Default: 30
+    Description: in frames
+    Name: Time Between Shots
     Required: false
     Type: int
   Arg2:
     Default: -1
     Description: 
-    Name: Time Between Shots
+    Name: Time between something?
     Required: false
     Type: int
   Arg3:

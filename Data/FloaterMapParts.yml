@@ -31,4 +31,5 @@ Args:
     Type: int
 ClassName: FloaterMapParts
 ClassNameFull: FloaterMapParts
+Name: FloaterMapParts
 RailRequired: false

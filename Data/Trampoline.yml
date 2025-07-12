@@ -19,7 +19,7 @@ Args:
     Type: enum
     Values:
       -1: Do Nothing
-      1: Moves Automatically
+      1: Unknown
       2: Moves when Mario is on it
   Arg4:
     Default: -1
@@ -36,5 +36,5 @@ Args:
 ClassName: Trampoline
 ClassNameFull: Trampoline
 Description: Object used to bounce Mario
-Name: Trampoline
+Name: Mushroom Trampoline
 RailRequired: false

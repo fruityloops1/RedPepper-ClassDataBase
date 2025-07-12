@@ -1,8 +1,23 @@
-Args: null
+Args:
+  Arg3:
+    Default: -1
+    Description: 
+    Name: Add Snow
+    Required: false
+    Type: bool
+  Arg4:
+    Default: -1
+    Description: 
+    Name: Distance
+    Required: false
+    Type: int
+  Arg5:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: UpperBlock
 ClassNameFull: UpperBlock
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Directional Block
 RailRequired: false
-Switches: null

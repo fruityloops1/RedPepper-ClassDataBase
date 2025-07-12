@@ -1,9 +1,13 @@
-Args: null
+Args:
+  Arg0:
+    Default: 0
+    Description: ID that assigns Light Area to AreatoLightNameTable file
+    Name: ID
+    Required: false
+    Type: int
 ClassName: LightArea
 ClassNameFull: LightArea
 Description: Area that applies specific light preset to actors which enter
-DescriptionAdditional: null
-Name: 'Light Area'
+Name: Light Area
 RailRequired: false
-Switches: null
 Type: AreaObj

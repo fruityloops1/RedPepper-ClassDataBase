@@ -20,7 +20,7 @@ ClassName: KeyMoveAndFallParts
 ClassNameFull: KeyMoveAndFallParts
 Description: Object that moves between keyframes (linked objects)
 DescriptionAdditional: Used for platforms cut out by grinders
-Name: Keyframe Map Parts
+Name: Keyframe Fall Map Parts
 RailRequired: false
 Switches:
   SwitchA:

@@ -7,5 +7,5 @@ Args:
     Type: int
 ClassName: KickStone
 ClassNameFull: KickStone
-Name: KickStone
+Name: Kickable Stone
 RailRequired: false

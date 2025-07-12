@@ -1,8 +1,4 @@
-Args: null
 ClassName: RollingShakeMapParts
 ClassNameFull: RollingShakeMapParts
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: RollingShakeMapParts
 RailRequired: false
-Switches: null

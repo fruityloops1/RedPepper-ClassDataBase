@@ -1,8 +1,11 @@
-Args: null
+Args:
+  Arg7:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: SwingMapParts
 ClassNameFull: SwingMapParts
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: SwingMapParts
 RailRequired: false
-Switches: null

@@ -1,9 +1,6 @@
-Args: null
 ClassName: PoleGoalSuper
 ClassNameFull: PoalGoalSuper
-Description: null
-DescriptionAdditional: null
+Description: Goal Pole found in Airship/Castle/Final Level
 Name: Super Goal Pole
 RailRequired: false
-Switches: null
 Type: GoalObj

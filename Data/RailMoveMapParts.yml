@@ -1,8 +1,15 @@
-Args: null
+Args:
+  Arg7:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: RailMoveMapParts
 ClassNameFull: RailMoveMapParts
-Description: null
-DescriptionAdditional: null
-Name: null
-RailRequired: false
-Switches: null
+Name: RailMoveMapParts
+RailRequired: true
+Switches:
+  SwitchA:
+    Description: 
+    Type: Read

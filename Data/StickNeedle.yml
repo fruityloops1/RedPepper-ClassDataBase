@@ -1,8 +1,5 @@
-Args: null
 ClassName: StickNeedle
 ClassNameFull: StickNeedle
-Description: null
-DescriptionAdditional: null
-Name: null
+Description: Unused?
+Name: StickNeedle
 RailRequired: false
-Switches: null

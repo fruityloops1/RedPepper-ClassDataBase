@@ -1,9 +1,22 @@
-Args: null
+ArchiveName: Fugumannen
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: FugumannenGenerator
 ClassNameFull: FugumannenGenerator
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Porcupuffer Generator
 RailRequired: false
-Switches: null
-ArchiveName: Fugumannen
+Switches:
+  SwitchA:
+    Description: 
+    Type: Read

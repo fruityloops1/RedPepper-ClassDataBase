@@ -14,5 +14,5 @@ Args:
 ClassName: GroundRiserAttachment
 ClassNameFull: GroundRiserAttachment
 Description: Wheel Riser Attacher
-Name: GroundRiserAttachment
+Name: Ground Riser Attachment
 RailRequired: false

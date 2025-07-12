@@ -1,8 +1,12 @@
-Args: null
+Args:
+  Arg2:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: TimerClock
 ClassNameFull: TimerClock
-Description: null
-DescriptionAdditional: null
-Name: null
+Description: Clock that adds time to ingame clock.
+Name: Clock
 RailRequired: false
-Switches: null

@@ -1,8 +1,11 @@
-Args: null
+Args:
+  Arg2:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: KoopaCollapseStep
 ClassNameFull: KoopaCollapseStep
-Description: null
-DescriptionAdditional: null
-Name: 'KoopaCollapseStep'
+Name: Bowser Collapse Step
 RailRequired: false
-Switches: null

@@ -2,8 +2,9 @@ Args:
   Arg0:
     Default: -1
     Description: How long the panel will stay active for
-    Name: Timer
-    Required: true
+    Name: Panel Timer
+    Required: false
+    Type: int
   Arg1:
     Default: 80
     Description: How long the panel will need to get to its next position

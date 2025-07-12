@@ -1,8 +1,5 @@
-Args: null
 ClassName: NeedlePlant
 ClassNameFull: NeedlePlant
-Description: null
-DescriptionAdditional: null
-Name: null
+Description: Also known as Thistles, these are prickly flowers that can be destroyed by fireball.
+Name: Thorny Flower
 RailRequired: false
-Switches: null

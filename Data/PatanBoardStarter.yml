@@ -1,11 +1,15 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: PatanBoardStarter
 ClassNameFull: PatanBoardStarter
-Description: null
-DescriptionAdditional: null
-Name: 'Green Panel Button'
+Name: Green Panel Button
 RailRequired: false
 Switches:
   SwitchA:
-    Description: 'Turns the switch ON after being pressed'
+    Description: Turns the switch ON after being pressed
     Type: Write

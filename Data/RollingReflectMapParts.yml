@@ -1,8 +1,4 @@
-Args: null
 ClassName: RollingReflectMapParts
 ClassNameFull: RollingReflectMapParts
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: RollingReflectMapParts
 RailRequired: false
-Switches: null

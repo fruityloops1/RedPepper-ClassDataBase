@@ -19,10 +19,7 @@ Args:
     Description: 1 Fire has shadows
     Name: Enable Shadow
     Required: false
-    Type: enum
-    Values:
-      -1: Disable
-      1: Enable
+    Type: bool
 ClassName: FireBarCore
 ClassNameFull: FireBarCore
 Name: Fire Bar

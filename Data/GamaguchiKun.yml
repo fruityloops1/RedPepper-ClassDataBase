@@ -7,5 +7,6 @@ Args:
     Type: int
 ClassName: GamaguchiKun
 ClassNameFull: GamaguchiKun
+Description: Enemy that runs away from the player and drops coins when hit.
 Name: Coin Coffer
 RailRequired: false

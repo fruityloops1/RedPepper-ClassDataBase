@@ -1,8 +1,11 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: PukupukuLoopRail
 ClassNameFull: PukupukuLoopRail
-Description: null
-DescriptionAdditional: null
-Name: 'PukupukuLoopRail'
+Name: Cheep Cheep Rail
 RailRequired: false
-Switches: null
