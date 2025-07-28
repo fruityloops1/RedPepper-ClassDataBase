@@ -34,5 +34,5 @@ Args:
     Type: int
 ClassName: CollapseBreakMapParts
 ClassNameFull: CollapseBreakMapParts
-Name: CollapseBreakMapParts
+Name: Collapse Break Map Parts
 RailRequired: false

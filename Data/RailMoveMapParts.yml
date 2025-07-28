@@ -7,7 +7,7 @@ Args:
     Type: int
 ClassName: RailMoveMapParts
 ClassNameFull: RailMoveMapParts
-Name: RailMoveMapParts
+Name: Rail Move Map Parts
 RailRequired: true
 Switches:
   SwitchA:

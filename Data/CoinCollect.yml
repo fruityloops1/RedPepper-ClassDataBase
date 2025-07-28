@@ -12,7 +12,7 @@ Args:
   Arg1:
     Default: -1
     Description: 1 Follow plaform
-    Name: Follow Plaform
+    Name: Follow Platform
     Required: false
     Type: bool
   Arg4:

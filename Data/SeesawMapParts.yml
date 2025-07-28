@@ -7,5 +7,5 @@ Args:
     Type: int
 ClassName: SeesawMapParts
 ClassNameFull: SeesawMapParts
-Name: SeesawMapParts
+Name: Seesaw Map Parts
 RailRequired: false

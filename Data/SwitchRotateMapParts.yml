@@ -19,5 +19,5 @@ Args:
     Type: int
 ClassName: SwitchRotateMapParts
 ClassNameFull: SwitchRotateMapParts
-Name: SwitchRotateMapParts
+Name: Switch Rotate Map Parts
 RailRequired: false

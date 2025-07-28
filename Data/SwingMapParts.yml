@@ -7,5 +7,5 @@ Args:
     Type: int
 ClassName: SwingMapParts
 ClassNameFull: SwingMapParts
-Name: SwingMapParts
+Name: Swing Map Parts
 RailRequired: false

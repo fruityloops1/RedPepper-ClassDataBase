@@ -25,4 +25,5 @@ Args:
     Type: int
 ClassName: Trilift
 ClassNameFull: Trilift
+Name: Rotating Lift
 RailRequired: false

@@ -7,6 +7,6 @@ Args:
     Type: int
 ClassName: Hoppun
 ClassNameFull: Hoppun
-Description: Blick Brock that tries to attack player
-Name: Fake Block
+Description: Brick Block that tries to attack player
+Name: Fake Brick Block
 RailRequired: false

@@ -7,5 +7,5 @@ Args:
     Type: int
 ClassName: KoopaCollapseStep
 ClassNameFull: KoopaCollapseStep
-Name: Bowser Collapse Step
+Name: Bowser Collapse Object
 RailRequired: false

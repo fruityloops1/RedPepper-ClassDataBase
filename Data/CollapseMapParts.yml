@@ -31,5 +31,5 @@ Args:
     Type: int
 ClassName: CollapseMapParts
 ClassNameFull: CollapseMapParts
-Name: CollapseMapParts
+Name: Collapse Map Parts
 RailRequired: false

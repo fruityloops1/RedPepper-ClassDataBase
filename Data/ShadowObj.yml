@@ -25,5 +25,6 @@ Args:
     Type: int
 ClassName: ShadowObj
 ClassNameFull: ShadowObj
+Description: Object that can be used to create fake shadow.
 Name: Fake Shadow
 RailRequired: false

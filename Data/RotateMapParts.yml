@@ -13,5 +13,5 @@ Args:
     Type: int
 ClassName: RotateMapParts
 ClassNameFull: RotateMapParts
-Name: RotateMapParts
+Name: Rotate Map Parts
 RailRequired: false
