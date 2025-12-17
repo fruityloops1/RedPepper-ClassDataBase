@@ -1,3 +1,10 @@
+Args:
+  Arg4:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: NeedlePlant
 ClassNameFull: NeedlePlant
 Description: Also known as Thistles, these are prickly flowers that can be destroyed by fireball.

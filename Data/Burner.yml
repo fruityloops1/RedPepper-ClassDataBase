@@ -4,7 +4,10 @@ Args:
     Description: 0 = true
     Name: Permanent Flame
     Required: false
-    Type: int
+    Type: enum
+    Values:
+      -1: Off
+      0: On
   Arg1:
     Default: 100
     Description: 

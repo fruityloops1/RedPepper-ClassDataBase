@@ -1,10 +1,22 @@
 Args:
   Arg0:
     Default: -1
-    Description: Removes broken wood piece when box is destroyed
-    Name: Remove Broken Wood Pieces
+    Description: Hides away the broken wooden pieces when box is destroyed
+    Name: Hide Broken Pieces
     Required: false
     Type: bool
+  Arg4:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg5:
+    Default: -1
+    Description: 
+    Name: Shadow Size?
+    Required: false
+    Type: int
 ClassName: WoodBox
 ClassNameFull: WoodBox
 Name: Wooden Crate

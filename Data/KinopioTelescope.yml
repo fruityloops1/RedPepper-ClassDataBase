@@ -26,6 +26,12 @@ Args:
     Name: Medal ID
     Required: false
     Type: int
+  Arg4:
+    Default: -1
+    Description: 
+    Name: SFX?
+    Required: false
+    Type: int
   Arg5:
     Default: -1
     Name: Use Propeller

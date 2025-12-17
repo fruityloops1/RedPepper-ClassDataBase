@@ -1,9 +1,5 @@
-Args: null
+ArchiveName: BlockBrick
 ClassName: BlockBrickItem
 ClassNameFull: BlockBrickItem
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Brick Block Item
 RailRequired: false
-Switches: null
-ArchiveName: BlockBrick

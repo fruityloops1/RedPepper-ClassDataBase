@@ -1,7 +1,7 @@
 Args:
   Arg3:
     Default: -1
-    Description: 
+    Description: Places snow on top of block.
     Name: Has Snow
     Required: false
     Type: bool
@@ -18,7 +18,7 @@ Args:
     Required: false
     Type: int
   Arg7:
-    Default: 1
+    Default: 0
     Description: -1 Pop on top, 0, 1, 2, 3 -> Front, Left, Back, Right
     Name: Spawn Direction
     Required: false
@@ -33,6 +33,5 @@ ClassName: BlockQuestionLong
 ClassNameFull: BlockQuestionLong
 Description: Long Question Block.
 DescriptionAdditional: 'Contained item depends on object name. Possible suffixes: Coin, Coin10, CoinRandom10, CoinInfinity, PopCoin, PopCoin3, PopCoin5, PopCoin5High, PopCoin10, PopCoinRandom5, OneUp, OneUpFast, KinokoSuper, KinokoSuperFast, FireFlower, FireFlowerForce, SuperLeaf, SuperLeafForce, SuperLeafNormal, SuperLeafSpecial, BoomerangFlower, BoomerangFlowerForce, SuperStar, Poison, PoisonFast, PatapataWing, AssistItem, Propeller, KickKoura'
-Name: 'Long Question Block'
+Name: Long Question Block
 RailRequired: false
-Switches: null

@@ -1,7 +1,7 @@
 Args:
   Arg0:
     Default: -1
-    Description: 
+    Description: Color of the flower
     Name: Color
     Required: false
     Type: enum

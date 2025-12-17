@@ -1,8 +1,18 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: Grass
 ClassNameFull: Grass
 Description: Map Part that reacts to movement and can be burned
-DescriptionAdditional: null
-Name: 'Foliage'
+Name: Foliage
 RailRequired: false
-Switches: null

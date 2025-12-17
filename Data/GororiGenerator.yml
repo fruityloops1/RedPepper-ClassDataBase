@@ -1,7 +1,7 @@
 ArchiveName: Gorori
 Args:
   Arg0:
-    Default: 1
+    Default: -1
     Description: 
     Name: Shoot Speed
     Required: false

@@ -26,13 +26,13 @@ Args:
   Arg4:
     Default: -1
     Description: 
-    Name: 
+    Name: Move Time
     Required: false
     Type: int
   Arg5:
     Default: -1
     Description: 
-    Name: 
+    Name: Delay Timer
     Required: false
     Type: int
 ClassName: SlideMapParts

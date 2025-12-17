@@ -1,25 +1,25 @@
 Args:
   Arg3:
     Default: -1
-    Description: 
+    Description: Places snow on top of block.
     Name: Has Snow
     Required: false
     Type: bool
   Arg4:
     Default: -1
-    Description: Size of the shadow that casts down
-    Name: Cast Shadow Size
+    Description: How long the shadow should extend down.
+    Name: Cast Shadow Distance
     Required: false
     Type: int
   Arg5:
     Default: -1
-    Description: 
+    Description: How wide the shadow should be.
     Name: Shadow Size Width
     Required: false
     Type: int
   Arg7:
-    Default: 1
-    Description: -1 Pop on top, 0, 1, 2, 3 -> Front, Left, Back, Right
+    Default: 0
+    Description: How the item will pop out of the block.
     Name: Spawn Direction
     Required: false
     Type: enum
@@ -31,7 +31,7 @@ Args:
       3: Right
 ClassName: BlockQuestion
 ClassNameFull: BlockQuestion
-Description: Question block.
+Description: Question Block.
 DescriptionAdditional: 'Contained item depends on object name. Possible suffixes: Coin, Coin10, CoinRandom10, CoinInfinity, PopCoin, PopCoin3, PopCoin5, PopCoin5High, PopCoin10, PopCoinRandom5, OneUp, OneUpFast, KinokoSuper, KinokoSuperFast, FireFlower, FireFlowerForce, SuperLeaf, SuperLeafForce, SuperLeafNormal, SuperLeafSpecial, BoomerangFlower, BoomerangFlowerForce, SuperStar, Poison, PoisonFast, PatapataWing, AssistItem, Propeller, KickKoura'
 Name: Question Block
 RailRequired: false

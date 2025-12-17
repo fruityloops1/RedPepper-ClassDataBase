@@ -19,7 +19,7 @@ Args:
   Arg2:
     Default: -1
     Description: 
-    Name: 
+    Name: Shadow Size
     Required: false
     Type: int
 ClassName: CoinRedStarter

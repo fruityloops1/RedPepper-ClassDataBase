@@ -1,7 +1,7 @@
 Args:
   Arg0:
     Default: -1
-    Description: 1 Follow plaform
+    Description: Follow the platform it is on.
     Name: Follow Plaform
     Required: false
     Type: bool

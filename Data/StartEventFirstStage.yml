@@ -1,9 +1,24 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg2:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: StartEventFirstStage
 ClassNameFull: StartEventFirstStage
-Description: null
-DescriptionAdditional: null
 Name: First Stage Start Event
 RailRequired: false
-Switches: null
 Type: StartEventObj

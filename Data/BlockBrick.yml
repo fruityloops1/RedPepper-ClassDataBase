@@ -1,12 +1,12 @@
 Args:
   Arg3:
-    Default: 0
+    Default: -1
     Description: Whether or not the block is covered in snow
-    Name: Is Snowy
+    Name: Has Snow
     Required: false
     Type: bool
   Arg4:
-    Default: 0
+    Default: -1
     Description: How long the shadow should extend down
     Name: Cast Shadow Distance
     Required: false

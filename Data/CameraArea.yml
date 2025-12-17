@@ -1,9 +1,5 @@
-Args: null
 ClassName: CameraArea
 ClassNameFull: CameraArea
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Camera Area
 RailRequired: false
-Switches: null
 Type: CameraAreaObj

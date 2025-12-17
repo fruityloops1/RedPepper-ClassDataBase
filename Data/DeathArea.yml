@@ -1,9 +1,5 @@
-Args: null
 ClassName: DeathArea
 ClassNameFull: DeathArea
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Death Area
 RailRequired: false
-Switches: null
 Type: AreaObj

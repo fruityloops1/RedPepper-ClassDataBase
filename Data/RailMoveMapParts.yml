@@ -1,10 +1,28 @@
 Args:
-  Arg7:
+  Arg0:
+    Default: 1
+    Description: 
+    Name: Speed
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: Return?
+    Required: false
+    Type: int
+  Arg6:
     Default: -1
     Description: 
     Name: 
     Required: false
     Type: int
+  Arg7:
+    Default: 0
+    Description: 
+    Name: Show  Shadow
+    Required: false
+    Type: bool
 ClassName: RailMoveMapParts
 ClassNameFull: RailMoveMapParts
 Name: Rail Move Map Parts

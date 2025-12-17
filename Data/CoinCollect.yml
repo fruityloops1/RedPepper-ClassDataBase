@@ -15,6 +15,18 @@ Args:
     Name: Follow Platform
     Required: false
     Type: bool
+  Arg2:
+    Default: -1
+    Description: 
+    Name: Shadow Distance
+    Required: false
+    Type: int
+  Arg3:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
   Arg4:
     Default: -1
     Description: Rail speed
@@ -22,6 +34,12 @@ Args:
     Required: false
     Type: int
   Arg5:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg6:
     Default: -1
     Description: 
     Name: 

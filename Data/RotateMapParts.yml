@@ -1,14 +1,17 @@
 Args:
   Arg0:
     Default: -1
-    Description: 
-    Name: 
+    Description: Which way the object should rotate.
+    Name: Rotation Axis
     Required: false
-    Type: int
+    Type: enum
+    Values:
+      -1: Rotate X
+      0: Rotate Y
   Arg1:
     Default: -1
     Description: 
-    Name: 
+    Name: Rotation Speed
     Required: false
     Type: int
 ClassName: RotateMapParts
