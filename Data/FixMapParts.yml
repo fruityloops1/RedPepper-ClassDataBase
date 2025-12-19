@@ -1,10 +1,6 @@
-Args: null
 ClassName: FixMapParts
 ClassNameFull: al::FixMapParts
-Description: Object used for most non-moving terrain models
+Description: Object used for most non-moving terrain models.
 DescriptionAdditional: Plays action with same name as the object
 Name: Fixed Map Parts
 RailRequired: false
-Switches:
-  SwitchAppear: null
-  SwitchKill: null

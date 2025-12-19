@@ -1,9 +1,18 @@
 ArchiveName: Pukupuku
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: Time?
+    Required: false
+    Type: int
 ClassName: PukupukuGenerator
 ClassNameFull: PukupukuGenerator
-Description: null
-DescriptionAdditional: null
-Name: 'Cheep Cheep Generator'
+Name: Cheep Cheep Generator
 RailRequired: false
-Switches: null

@@ -7,13 +7,13 @@ Args:
     Required: false
     Type: int
   Arg1:
-    Default: 0
+    Default: -1
     Description: 
     Name: Block 1
     Required: false
     Type: enum
     Values:
-      0: No Block
+      -1: No Block
       1: Brick Block
       2: '? Block'
       3: '? Block with Super Mushroom'
@@ -22,13 +22,13 @@ Args:
       6: '? Block with 1-Up Mushroom'
       7: '? Block with Poison Mushroom'
   Arg2:
-    Default: 0
+    Default: -1
     Description: 
     Name: Block 2
     Required: false
     Type: enum
     Values:
-      0: No Block
+      -1: No Block
       1: Brick Block
       2: '? Block'
       3: '? Block with Super Mushroom'
@@ -37,13 +37,13 @@ Args:
       6: '? Block with 1-Up Mushroom'
       7: '? Block with Poison Mushroom'
   Arg3:
-    Default: 0
+    Default: -1
     Description: 
     Name: Block 3
     Required: false
     Type: enum
     Values:
-      0: No Block
+      -1: No Block
       1: Brick Block
       2: '? Block'
       3: '? Block with Super Mushroom'
@@ -52,13 +52,13 @@ Args:
       6: '? Block with 1-Up Mushroom'
       7: '? Block with Poison Mushroom'
   Arg4:
-    Default: 0
+    Default: -1
     Description: 
     Name: Block 4
     Required: false
     Type: enum
     Values:
-      0: No Block
+      -1: No Block
       1: Brick Block
       2: '? Block'
       3: '? Block with Super Mushroom'
@@ -73,6 +73,7 @@ Args:
     Required: false
     Type: enum
     Values:
+      -1: No Block
       0: No Block
       1: Brick Block
       2: '? Block'
@@ -82,13 +83,13 @@ Args:
       6: '? Block with 1-Up Mushroom'
       7: '? Block with Poison Mushroom'
   Arg6:
-    Default: 0
+    Default: -1
     Description: 
     Name: Block 6
     Required: false
     Type: enum
     Values:
-      0: No Block
+      -1: No Block
       1: Brick Block
       2: '? Block'
       3: '? Block with Super Mushroom'
@@ -97,13 +98,13 @@ Args:
       6: '? Block with 1-Up Mushroom'
       7: '? Block with Poison Mushroom'
   Arg7:
-    Default: 0
+    Default: -1
     Description: 
     Name: Block 7
     Required: false
     Type: enum
     Values:
-      0: No Block
+      -1: No Block
       1: Brick Block
       2: '? Block'
       3: '? Block with Super Mushroom'
@@ -119,5 +120,6 @@ Args:
     Type: int
 ClassName: BlockDragonGenerator
 ClassNameFull: BlockDragonGenerator
+Description: Enemy made up of blocks
 Name: Blokkablok
-RailRequired: false
+RailRequired: true

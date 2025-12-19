@@ -26,5 +26,6 @@ Args:
     Type: int
 ClassName: GororiGenerator
 ClassNameFull: GororiGenerator
+Description: Shoots spike balls out.
 Name: Spike Ball Generator
 RailRequired: false

@@ -6,8 +6,10 @@ Args:
     Required: false
     Type: enum
     Values:
-      -1: Rotate X
-      0: Rotate Y
+      -1: X
+      0: Y
+      2: Z
+      3: No Rotation
   Arg1:
     Default: -1
     Description: 

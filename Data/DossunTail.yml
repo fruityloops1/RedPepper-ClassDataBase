@@ -19,5 +19,6 @@ Args:
     Type: int
 ClassName: DossunTail
 ClassNameFull: DossunTail
+Description: Thwomp that moves on a rail.
 Name: Tail Thwomp
 RailRequired: true

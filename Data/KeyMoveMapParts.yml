@@ -1,7 +1,25 @@
 Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg2:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
   Arg3:
     Default: 0
-    Description: Move type (0 = Loop, 1 = Turn, 2 = Stop, 3 = Restart)
+    Description: Determines Move Type.
     Name: Move Type
     Required: false
     Type: enum
@@ -9,7 +27,7 @@ Args:
       0: Loop
       1: Turn
       2: Stop
-      4: Restart
+      3: Restart
   Arg6:
     Default: -1
     Description: 

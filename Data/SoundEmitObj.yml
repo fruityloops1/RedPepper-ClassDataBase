@@ -1,8 +1,10 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: SFX ID?
+    Required: false
+    Type: int
 ClassName: SoundEmitObj
 ClassNameFull: SoundEmitObj
-Description: null
-DescriptionAdditional: null
-Name: null
 RailRequired: false
-Switches: null

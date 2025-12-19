@@ -13,5 +13,6 @@ Args:
     Type: int
 ClassName: Dossun
 ClassNameFull: Dossun
+Description: Enemy that moves down.
 Name: Thwomp
 RailRequired: false

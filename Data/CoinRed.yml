@@ -1,4 +1,11 @@
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: CoinRed
-Description: Must be a child of CoinRedStarter
+Description: Must be a child of CoinRedStarter.
 Name: Red Coin
 RailRequired: false

@@ -21,6 +21,12 @@ Args:
       -1: Do Nothing
       1: Unknown
       2: Moves when Mario is on it
+  Arg3:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
   Arg4:
     Default: -1
     Description: 

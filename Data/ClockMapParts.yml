@@ -1,19 +1,22 @@
 Args:
   Arg0:
-    Default: 90.0
+    Default: 90
     Description: How many degrees to rotate
-    Name: RotateDegree
+    Name: Rotate Degree
     Required: false
+    Type: int
   Arg1:
     Default: 30
     Description: How many frames to play RotateSign animation before rotating
-    Name: RotateSignFrames
+    Name: Rotate Sign Frames
     Required: false
+    Type: int
   Arg2:
     Default: 30
     Description: how many frames to rotate
-    Name: RotateFrames
+    Name: Rotate Frames
     Required: false
+    Type: int
   Arg3:
     Default: -1
     Description: 

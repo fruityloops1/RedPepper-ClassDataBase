@@ -1,3 +1,28 @@
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg2:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg5:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg6:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: Utsubo
 ClassNameFull: Utsubo
 Name: Spike Eel

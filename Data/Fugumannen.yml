@@ -5,8 +5,14 @@ Args:
     Name: Rail Move Speed
     Required: false
     Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: Fugumannen
 ClassNameFull: Fugumannen
-Description: Underwater enemy that moves on a rail
+Description: Underwater enemy that moves on a rail.
 Name: Porcupuffer
 RailRequired: true

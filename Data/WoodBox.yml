@@ -13,11 +13,12 @@ Args:
     Type: int
   Arg5:
     Default: -1
-    Description: 
-    Name: Shadow Size?
+    Description: Modifies the shadow of the box.
+    Name: Shadow Size
     Required: false
     Type: int
 ClassName: WoodBox
 ClassNameFull: WoodBox
+Description: Wooden Box.
 Name: Wooden Crate
 RailRequired: false

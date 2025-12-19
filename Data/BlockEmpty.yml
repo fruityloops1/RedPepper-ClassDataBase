@@ -1,8 +1,11 @@
-Args: null
+Args:
+  Arg5:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: BlockEmpty
 ClassNameFull: BlockEmpty
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Empty Block
 RailRequired: false
-Switches: null

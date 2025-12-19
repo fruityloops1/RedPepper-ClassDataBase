@@ -1,8 +1,18 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: Pukupuku
 ClassNameFull: Pukupuku
-Description: null
-DescriptionAdditional: null
-Name: 'Cheep Cheep'
+Description: Underwater enemy that needs a rail.
+Name: Cheep Cheep
 RailRequired: false
-Switches: null

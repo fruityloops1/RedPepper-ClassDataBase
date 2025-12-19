@@ -1,8 +1,17 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: Allows the Player to keep their momentum after the jump.
+    Name: Keep Momentum
+    Required: false
+    Type: bool
+  Arg5:
+    Default: -1
+    Description: Adjust shadow size of the noteblock
+    Name: Shadow Size
+    Required: false
+    Type: int
 ClassName: BlockNote
 ClassNameFull: BlockNote
-Description: null
-DescriptionAdditional: null
-Name: 'Note Block'
+Name: Note Block
 RailRequired: false
-Switches: null

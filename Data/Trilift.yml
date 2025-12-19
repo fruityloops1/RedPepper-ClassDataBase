@@ -8,19 +8,19 @@ Args:
   Arg1:
     Default: -1
     Description: 
-    Name: 
+    Name: unk2
     Required: false
     Type: int
   Arg2:
     Default: -1
-    Description: 
-    Name: 
+    Description: Length of time for Lift to move to next position.
+    Name: Time
     Required: false
     Type: int
   Arg3:
     Default: -1
     Description: 
-    Name: 
+    Name: unk4
     Required: false
     Type: int
 ClassName: Trilift

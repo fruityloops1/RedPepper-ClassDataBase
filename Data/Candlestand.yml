@@ -7,6 +7,6 @@ Args:
     Type: bool
 ClassName: Candlestand
 ClassNameFull: Candlestand
-Description: Torchlight that can be lit
+Description: Torchlight that can be lit.
 Name: Candlestand
 RailRequired: false

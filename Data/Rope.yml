@@ -5,14 +5,26 @@ Args:
     Name: Start Model
     Required: false
     Type: enum
-    Values: {}
+    Values:
+      0: Gold
+      1: Metal Stand
+      2: Metal Ball
   Arg1:
     Default: 0
     Description: Sets the model for the end of the rope
     Name: End Model
     Required: false
     Type: enum
-    Values: {}
+    Values:
+      0: Gold
+      1: Metal Stand
+      2: Metal Ball
+  Arg2:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
   Arg3:
     Default: -1
     Description: Determines how big the shadow will be
@@ -23,6 +35,12 @@ Args:
     Default: -1
     Description: 
     Name: Shadow Size Width
+    Required: false
+    Type: int
+  Arg5:
+    Default: -1
+    Description: 
+    Name: 
     Required: false
     Type: int
 ClassName: Rope

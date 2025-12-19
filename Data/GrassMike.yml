@@ -33,11 +33,12 @@ Args:
     Type: int
   Arg3:
     Default: -1
-    Description: 
-    Name: 
+    Description: Adds a flower pot ring around the plant.
+    Name: Add RIng
     Required: false
-    Type: int
+    Type: bool
 ClassName: GrassMike
 ClassNameFull: GrassMike
+Description: Actor that can be touched or blown through the mic.
 Name: Dandelion
 RailRequired: false

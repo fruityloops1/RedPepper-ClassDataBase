@@ -1,8 +1,10 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: WobbleMapParts
 ClassNameFull: WobbleMapParts
-Description: null
-DescriptionAdditional: null
-Name: null
 RailRequired: false
-Switches: null

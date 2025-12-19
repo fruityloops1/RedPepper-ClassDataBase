@@ -45,7 +45,7 @@ Args:
     Type: int
   Arg7:
     Default: -1
-    Description: 1 = 1-Up, 2 = star coin, 0 = scares toad, 3 = kills toad?, 4 = Super Mushroom
+    Description: 
     Name: Object To Spawn
     Required: false
     Type: enum

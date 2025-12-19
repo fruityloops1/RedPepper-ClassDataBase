@@ -1,26 +1,26 @@
 Args:
   Arg0:
-    Default: -1
-    Description: 
-    Name: 
+    Default: 90
+    Description: The rotation the Lift will rotate from base position.
+    Name: Swing Rotation
     Required: false
     Type: int
   Arg1:
     Default: -1
     Description: 
-    Name: 
+    Name: Speed?
     Required: false
     Type: int
   Arg2:
     Default: -1
     Description: 
-    Name: 
+    Name: unk3
     Required: false
     Type: int
   Arg7:
     Default: -1
     Description: 
-    Name: 
+    Name: unk4
     Required: false
     Type: int
 ClassName: SwingLift

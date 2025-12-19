@@ -1,8 +1,16 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg2:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: BridgePukupukuBreakBridge
 ClassNameFull: BridgePukupukuBreakBridge
-Description: null
-DescriptionAdditional: null
-Name: null
 RailRequired: false
-Switches: null

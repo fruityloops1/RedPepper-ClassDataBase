@@ -25,7 +25,7 @@ Args:
     Required: false
     Type: enum
     Values:
-      1: Green
+      -1: Green
       2: Blue
       3: Yellow
       4: Pink

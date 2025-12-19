@@ -1,5 +1,6 @@
 ClassName: DeathArea
 ClassNameFull: DeathArea
+Description: Area that kills the player and actors.
 Name: Death Area
 RailRequired: false
 Type: AreaObj

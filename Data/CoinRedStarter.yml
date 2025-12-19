@@ -4,7 +4,7 @@ Args:
     Description: 
     Name: Ring Shape
     Required: false
-    Type: bool
+    Type: int
   Arg1:
     Default: -1
     Description: 
@@ -24,5 +24,6 @@ Args:
     Type: int
 ClassName: CoinRedStarter
 ClassNameFull: CoinRedStarter
+Description: The parent for Red Coins.
 Name: Red Coin Ring
 RailRequired: false

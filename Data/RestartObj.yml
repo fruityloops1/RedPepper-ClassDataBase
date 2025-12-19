@@ -7,6 +7,6 @@ Args:
     Type: int
 ClassName: RestartObj
 ClassNameFull: RestartObj
-Description: Checkpoint flag that automatically spawns player near it when he dies.
+Description: Checkpoint flag that automatically spawns player near it when the player dies.
 Name: Checkpoint Flag
 RailRequired: false

@@ -7,14 +7,20 @@ Args:
     Type: bool
   Arg4:
     Default: -1
-    Description: How long the shadow should extend down
+    Description: How long the shadow should extend down.
     Name: Cast Shadow Distance
     Required: false
     Type: int
   Arg5:
     Default: -1
-    Description: How wide the shadow should be
+    Description: How wide the shadow should be.
     Name: Shadow Size Width
+    Required: false
+    Type: int
+  Arg6:
+    Default: -1
+    Description: 
+    Name: 
     Required: false
     Type: int
 ClassName: BlockBrick

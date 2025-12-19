@@ -13,6 +13,6 @@ Args:
     Type: int
 ClassName: GroundRiserAttachment
 ClassNameFull: GroundRiserAttachment
-Description: Wheel Riser Attacher
+Description: Actor that can attach itself to another actor to spin it up.
 Name: Ground Riser Attachment
 RailRequired: false

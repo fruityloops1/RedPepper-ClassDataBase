@@ -1,10 +1,10 @@
 Args:
   Arg0:
     Default: -1
-    Description: 
-    Name: 
+    Description: Adds a flower pot ring around the plant.
+    Name: Add RIng
     Required: false
-    Type: int
+    Type: bool
   Arg1:
     Default: -1
     Description: 
@@ -13,6 +13,6 @@ Args:
     Type: int
 ClassName: Grass
 ClassNameFull: Grass
-Description: Map Part that reacts to movement and can be burned
+Description: Actor that reacts to movement and can be burned.
 Name: Foliage
 RailRequired: false

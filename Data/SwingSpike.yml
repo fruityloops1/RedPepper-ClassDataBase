@@ -1,4 +1,30 @@
+Args:
+  Arg0:
+    Default: 10
+    Description: 
+    Name: Swing Length
+    Required: false
+    Type: int
+  Arg1:
+    Default: 10
+    Description: How fast the ball moves in the air.
+    Name: Swing Speed
+    Required: false
+    Type: int
+  Arg2:
+    Default: 50
+    Description: 
+    Name: Swing Direction
+    Required: false
+    Type: int
+  Arg3:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: SwingSpike
 ClassNameFull: SwingSpike
+Description: A Spike ball that swings in the air.
 Name: Swinging Spike Ball
 RailRequired: false
