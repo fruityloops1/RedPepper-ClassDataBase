@@ -1,8 +1,17 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg3:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: BlindCloud
 ClassNameFull: BlindCloud
-Description: null
-DescriptionAdditional: null
-Name: 'BlindCloud'
+Name: BlindCloud
 RailRequired: false
-Switches: null

@@ -7,7 +7,7 @@ Args:
     Type: int
   Arg7:
     Default: -1
-    Description: 1 = Shows a button guide when standing on top
+    Description: Shows a button guide when standing on top
     Name: Show L
     Required: false
     Type: bool

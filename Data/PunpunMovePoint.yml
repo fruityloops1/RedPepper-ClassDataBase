@@ -5,7 +5,5 @@ Args:
     Name: 
     Required: false
     Type: int
-ClassName: KinokoPoison
-ClassNameFull: KinokoPoison
-Name: Poison Mushroom
+ClassName: PunpunMovePoint
 RailRequired: false

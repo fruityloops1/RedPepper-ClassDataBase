@@ -11,7 +11,7 @@ Args:
       3: "3"
   Arg1:
     Default: -1
-    Description: 1 Follow plaform
+    Description: Follow nearest actor.
     Name: Follow Platform
     Required: false
     Type: bool

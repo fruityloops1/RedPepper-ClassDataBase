@@ -25,12 +25,18 @@ Args:
       6: Boomerang Flower
       7: Stone Leaf
       8: Mushroom
+      9: Mushroom Fast
   Arg2:
-    Default: -1
-    Description: 
-    Name: 
+    Default: 0
+    Description: Determines which direction the object pops out.
+    Name: Object Rotation
     Required: false
-    Type: int
+    Type: enum
+    Values:
+      0: Front
+      1: Right
+      2: Back
+      3: Left
   Arg3:
     Default: -1
     Description: Adds a flower pot ring around the plant.

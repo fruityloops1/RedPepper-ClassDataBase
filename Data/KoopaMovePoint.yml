@@ -2,7 +2,7 @@ Args:
   Arg0:
     Default: -1
     Description: 
-    Name: Rail Move Speed
+    Name: 
     Required: false
     Type: int
   Arg1:
@@ -11,8 +11,5 @@ Args:
     Name: 
     Required: false
     Type: int
-ClassName: Pukupuku
-ClassNameFull: Pukupuku
-Description: Underwater enemy that needs a rail.
-Name: Cheep Cheep
+ClassName: KoopaMovePoint
 RailRequired: false

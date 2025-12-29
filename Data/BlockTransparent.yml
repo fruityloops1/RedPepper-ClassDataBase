@@ -1,11 +1,17 @@
 Args:
   Arg4:
     Default: -1
-    Description: 
-    Name: 
+    Description: How long the shadow should extend down.
+    Name: Cast Shadow Distance
     Required: false
     Type: int
   Arg5:
+    Default: -1
+    Description: How wide the shadow should be.
+    Name: Shadow Size Width
+    Required: false
+    Type: int
+  Arg6:
     Default: -1
     Description: 
     Name: 
@@ -13,10 +19,16 @@ Args:
     Type: int
   Arg7:
     Default: -1
-    Description: 
-    Name: 
+    Description: How the item will pop out of the block.
+    Name: Spawn Direction
     Required: false
-    Type: int
+    Type: enum
+    Values:
+      -1: Pop on Top
+      0: Front
+      1: Right
+      2: Back
+      3: Left
 ClassName: BlockTransparent
 ClassNameFull: BlockTransparent
 Description: Invisible question block.

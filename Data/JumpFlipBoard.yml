@@ -1,8 +1,12 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: Shadow Size?
+    Required: false
+    Type: int
 ClassName: JumpFlipBoard
 ClassNameFull: JumpFlipBoard
-Description: Map part that flips when player jumps
-DescriptionAdditional: null
-Name: 'Jump-Flip Panel'
+Description: Map part that flips when the player jumps.
+Name: Jump-Flip Panel
 RailRequired: false
-Switches: null

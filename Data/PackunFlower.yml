@@ -2,9 +2,9 @@ Args:
   Arg0:
     Default: -1
     Description: 
-    Name: 
+    Name: Pipe Related?
     Required: false
-    Type: int
+    Type: bool
   Arg1:
     Default: -1
     Description: 

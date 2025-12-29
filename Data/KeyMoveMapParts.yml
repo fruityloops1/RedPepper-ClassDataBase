@@ -7,14 +7,14 @@ Args:
     Type: int
   Arg1:
     Default: -1
-    Description: 
-    Name: 
+    Description: in frames, how long it takes for actor to move to its child position
+    Name: Length of Time
     Required: false
     Type: int
   Arg2:
     Default: -1
-    Description: 
-    Name: 
+    Description: In frames, how long actor should stay in position before it starts moving again.
+    Name: Stop Time
     Required: false
     Type: int
   Arg3:
@@ -28,10 +28,16 @@ Args:
       1: Turn
       2: Stop
       3: Restart
+  Arg4:
+    Default: -1
+    Description: 
+    Name: unk4
+    Required: false
+    Type: int
   Arg6:
     Default: -1
     Description: 
-    Name: 
+    Name: unk5
     Required: false
     Type: int
   Arg7:

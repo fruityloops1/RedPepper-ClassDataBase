@@ -1,4 +1,11 @@
 ArchiveName: GeneratorBoxChild
+Args:
+  Arg0:
+    Default: -1
+    Description: Order in which the face blocks will appear.
+    Name: Order
+    Required: false
+    Type: int
 ClassName: GeneratorBoxHopChild
 ClassNameFull: GeneratorBoxHopChild
 Name: Yellow Face Block

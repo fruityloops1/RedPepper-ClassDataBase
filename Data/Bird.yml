@@ -7,8 +7,8 @@ Args:
     Type: int
   Arg1:
     Default: -1
-    Description: 
-    Name: 
+    Description: Sets range that the bird will fly away.
+    Name: Range Before Flight
     Required: false
     Type: int
 ClassName: Bird

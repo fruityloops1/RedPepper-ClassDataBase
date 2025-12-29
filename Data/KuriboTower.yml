@@ -1,7 +1,8 @@
+ArchiveName: Kuribo
 Args:
   Arg0:
     Default: 1
-    Description: 
+    Description: Amount of Goombas that will stack.
     Name: No. of Goombas
     Required: false
     Type: int

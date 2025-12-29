@@ -20,7 +20,7 @@ Args:
     Type: int
   Arg3:
     Default: -1
-    Description: Used for Bullet Bill to shoot out as level is loaded
+    Description: Shoot out as level is loaded
     Name: Shoot Out Instantly
     Required: false
     Type: bool

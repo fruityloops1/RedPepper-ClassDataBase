@@ -1,5 +1,17 @@
 Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
   Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg2:
     Default: -1
     Description: 
     Name: 
@@ -16,6 +28,18 @@ Args:
       1: Turn
       2: Stop
       3: Restart
+  Arg5:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg6:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
   Arg7:
     Default: -1
     Description: Hides shadow if false

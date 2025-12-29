@@ -19,13 +19,14 @@ Args:
     Required: false
     Type: int
   Arg3:
-    Default: 1
+    Default: -1
     Description: Starting color of biddybud
     Name: Color
     Required: false
     Type: enum
     Values:
-      -1: Green
+      0: Red
+      1: Green
       2: Blue
       3: Yellow
       4: Pink

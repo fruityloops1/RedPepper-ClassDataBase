@@ -1,8 +1,4 @@
-Args: null
 ClassName: VisibleSwitchMapParts
 ClassNameFull: VisibleSwitchMapParts
-Description: null
-DescriptionAdditional: null
-Name: null
+Description: Allows actor to go invisible.
 RailRequired: false
-Switches: null

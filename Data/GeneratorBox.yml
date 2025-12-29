@@ -1,4 +1,23 @@
 ArchiveName: GeneratorBox
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg4:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: GeneratorBox
 ClassNameFull: GeneratorBox
 RailRequired: false

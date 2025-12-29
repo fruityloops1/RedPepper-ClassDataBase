@@ -1,30 +1,28 @@
 Args:
   Arg0:
     Default: -1
+    Name: Color
+    Required: false
     Type: enum
     Values:
-        -1 : 'Red with blue vest'
-        1 : 'Red with red vest'
-        2 : 'Blue'
-        3 : 'Yellow'
-        4 : 'Green'
-        5 : 'Purple'
-    Name: 'Color'
-    Required: false
+      -1: Red with blue vest
+      1: Red with red vest
+      2: Blue
+      3: Yellow
+      4: Green
+      5: Purple
   Arg1:
     Default: -1
-    Type: bool
-    Name: 'Is Jumping'
+    Description: Makes Toad start jumping.
+    Name: Can Jump
     Required: false
+    Type: bool
   Arg5:
     Default: -1
-    Type: bool
-    Name: 'Use Propeller'
+    Name: Use Propeller
     Required: false
+    Type: bool
 ClassName: Kinopio
 ClassNameFull: Kinopio
-Description: null
-DescriptionAdditional: null
-Name: 'Toad'
+Name: Toad
 RailRequired: false
-Switches: null

@@ -5,6 +5,12 @@ Args:
     Name: Play SMB Fanfare
     Required: false
     Type: bool
+  Arg2:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: PoleGoal
 ClassNameFull: PoleGoal
 Name: Goal Pole

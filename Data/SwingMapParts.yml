@@ -1,4 +1,22 @@
 Args:
+  Arg0:
+    Default: -1
+    Description: How much the actor should rotate?
+    Name: Rotation?
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: How fast or slow the actor should move.
+    Name: Speed
+    Required: false
+    Type: int
+  Arg2:
+    Default: -1
+    Description: How much delay should be added.
+    Name: Delay
+    Required: false
+    Type: int
   Arg7:
     Default: -1
     Description: 

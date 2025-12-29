@@ -1,14 +1,14 @@
 Args:
   Arg3:
     Default: -1
-    Description: Places snow on top of block.
-    Name: Has Snow
+    Description: Adds snow on top of the block.
+    Name: Add Snow
     Required: false
     Type: bool
   Arg4:
     Default: -1
     Description: Size of the shadow that casts down
-    Name: Cast Shadow Size
+    Name: Cast Shadow Distance
     Required: false
     Type: int
   Arg5:
@@ -19,7 +19,7 @@ Args:
     Type: int
   Arg7:
     Default: 0
-    Description: -1 Pop on top, 0, 1, 2, 3 -> Front, Left, Back, Right
+    Description: How the item will pop out of the block.
     Name: Spawn Direction
     Required: false
     Type: enum

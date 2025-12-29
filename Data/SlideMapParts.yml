@@ -1,13 +1,17 @@
 Args:
   Arg0:
-    Default: -1
-    Description: 
+    Default: 0
+    Description: Depending on rotation, these values could be different.
     Name: Direction
     Required: false
-    Type: int
+    Type: enum
+    Values:
+      0: X
+      1: Y
+      2: Z
   Arg1:
     Default: -1
-    Description: 
+    Description: How far the object should travel.
     Name: Distance Travelled
     Required: false
     Type: int

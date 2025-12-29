@@ -1,7 +1,7 @@
 Args:
   Arg0:
     Default: -1
-    Description: 0 = true
+    Description: 
     Name: Permanent Flame
     Required: false
     Type: enum

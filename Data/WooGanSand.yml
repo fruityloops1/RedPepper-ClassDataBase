@@ -1,4 +1,5 @@
 ClassName: WooGanSand
 ClassNameFull: WooGanSand
+Description: An enemy that attacks by risng up from sand.
 Name: Sandmaargh
 RailRequired: false

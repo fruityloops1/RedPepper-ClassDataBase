@@ -1,8 +1,24 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg2:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: LavaConveyer
 ClassNameFull: LavaConveyer
-Description: 'Lava platform that follows a given rail'
-DescriptionAdditional: null
-Name: 'Lava Platform'
+Description: Lava platform that follows a given rail
+Name: Lava Platform
 RailRequired: true
-Switches: null

@@ -1,4 +1,10 @@
 Args:
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
   Arg2:
     Default: -1
     Description: 

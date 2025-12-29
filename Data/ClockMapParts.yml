@@ -1,7 +1,7 @@
 Args:
   Arg0:
     Default: 90
-    Description: How many degrees to rotate
+    Description: How many degrees to rotate every loop.
     Name: Rotate Degree
     Required: false
     Type: int
@@ -13,7 +13,7 @@ Args:
     Type: int
   Arg2:
     Default: 30
-    Description: how many frames to rotate
+    Description: Total frames to rotate every loop.
     Name: Rotate Frames
     Required: false
     Type: int

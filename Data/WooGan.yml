@@ -19,5 +19,6 @@ Args:
     Type: int
 ClassName: WooGan
 ClassNameFull: WooGan
+Description: An enemy that attacks by risng up from lava.
 Name: Magmaargh
 RailRequired: false

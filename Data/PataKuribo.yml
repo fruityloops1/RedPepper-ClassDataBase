@@ -1,8 +1,5 @@
-Args: null
 ClassName: PataKuribo
 ClassNameFull: PataKuribo
-Description: null
-DescriptionAdditional: null
-Name: 'Paragoomba'
+Description: 'Goomba with wings. Requires a Rail or Child. '
+Name: Paragoomba
 RailRequired: false
-Switches: null

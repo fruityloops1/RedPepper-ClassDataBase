@@ -1,8 +1,23 @@
-Args: null
+Args:
+  Arg1:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg2:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg7:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: WarpLift
 ClassNameFull: WarpLift
-Description: null
-DescriptionAdditional: null
-Name: 'WarpLift'
+Name: Warp Platform
 RailRequired: false
-Switches: null

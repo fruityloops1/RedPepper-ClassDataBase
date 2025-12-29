@@ -2,12 +2,12 @@ Args:
   Arg0:
     Default: 2
     Description: Number of bars to spawn
-    Name: No. of bars spawning
+    Name: No. of Bars
     Required: false
     Type: int
   Arg1:
     Default: -1
-    Description: -1 Counterclockwise, 1 Clockwise
+    Description: 
     Name: Rotation Direction
     Required: false
     Type: enum
@@ -16,7 +16,7 @@ Args:
       1: Clockwise
   Arg2:
     Default: -1
-    Description: 1 Fire has shadows
+    Description: Fire has shadows
     Name: Enable Shadow
     Required: false
     Type: bool

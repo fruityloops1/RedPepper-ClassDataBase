@@ -5,6 +5,12 @@ Args:
     Name: 
     Required: false
     Type: int
+  Arg4:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: Hoppun
 ClassNameFull: Hoppun
 Description: Brick Block that tries to attack player

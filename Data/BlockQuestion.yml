@@ -1,8 +1,8 @@
 Args:
   Arg3:
     Default: -1
-    Description: Places snow on top of block.
-    Name: Has Snow
+    Description: Adds snow on top of the block.
+    Name: Add Snow
     Required: false
     Type: bool
   Arg4:
@@ -26,9 +26,9 @@ Args:
     Values:
       -1: Pop on Top
       0: Front
-      1: Left
+      1: Right
       2: Back
-      3: Right
+      3: Left
 ClassName: BlockQuestion
 ClassNameFull: BlockQuestion
 Description: Question Block.

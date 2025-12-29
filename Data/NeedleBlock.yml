@@ -8,25 +8,25 @@ Args:
   Arg1:
     Default: -1
     Description: 
-    Name: 
+    Name: unk
     Required: false
     Type: int
   Arg2:
     Default: -1
-    Description: 
-    Name: 
+    Description: Follow nearest actor.
+    Name: Follow Platform
     Required: false
-    Type: int
+    Type: bool
   Arg4:
     Default: -1
     Description: 
-    Name: 
+    Name: Shadow Size?
     Required: false
     Type: int
   Arg5:
     Default: -1
     Description: 
-    Name: 
+    Name: unk3
     Required: false
     Type: int
 ClassName: NeedleBlock

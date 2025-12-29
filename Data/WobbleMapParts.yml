@@ -1,10 +1,11 @@
 Args:
   Arg0:
-    Default: -1
-    Description: 
-    Name: 
+    Default: 10
+    Description: How many degrees should the platform tilt.
+    Name: Tilt Rotation
     Required: false
     Type: int
 ClassName: WobbleMapParts
 ClassNameFull: WobbleMapParts
+Name: Tilt Map Parts
 RailRequired: false

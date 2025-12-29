@@ -8,8 +8,8 @@ Args:
     Type: int
   Arg3:
     Default: -1
-    Description: Whether or not the block is covered in snow
-    Name: Has Snow
+    Description: Adds snow on top of the block.
+    Name: Add Snow
     Required: false
     Type: bool
   Arg4:
@@ -22,6 +22,12 @@ Args:
     Default: -1
     Description: How wide the shadow should be.
     Name: Shadow Size Width
+    Required: false
+    Type: int
+  Arg6:
+    Default: -1
+    Description: 
+    Name: 
     Required: false
     Type: int
 ClassName: BlockBrickItem
