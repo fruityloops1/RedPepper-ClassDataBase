@@ -1,9 +1,5 @@
-Args: null
 ClassName: PlayerRestrictedPlane
 ClassNameFull: PlayerRestrictedPlane
-Description: null
-DescriptionAdditional: null
-Name: 'PlayerRestrictedPlane'
+Name: Player Restricted Plane
 RailRequired: false
-Switches: null
 Type: AreaObj

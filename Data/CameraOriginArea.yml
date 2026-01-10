@@ -1,9 +1,5 @@
-Args: null
 ClassName: CameraOriginArea
 ClassNameFull: CameraOriginArea
-Description: null
-DescriptionAdditional: null
-Name: 'CameraOriginArea'
+Name: Camera Origin Area
 RailRequired: false
-Switches: null
 Type: CameraAreaObj

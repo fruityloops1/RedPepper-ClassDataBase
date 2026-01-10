@@ -13,7 +13,7 @@ Args:
     Type: int
   Arg2:
     Default: -1
-    Description: Makes Bob-Omb not try to explode if the Player is near it.
+    Description: Makes Bob-Omb not explode if the Player is near it.
     Name: Don't Notice Player
     Required: false
     Type: bool

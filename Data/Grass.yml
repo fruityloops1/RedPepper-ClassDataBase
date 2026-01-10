@@ -2,7 +2,7 @@ Args:
   Arg0:
     Default: -1
     Description: Adds a flower pot ring around the plant.
-    Name: Add RIng
+    Name: Add Ring
     Required: false
     Type: bool
   Arg1:

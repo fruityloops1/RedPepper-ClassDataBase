@@ -1,8 +1,4 @@
-Args: null
 ClassName: EffectObjReEmit
 ClassNameFull: EffectObjReEmit
-Description: null
-DescriptionAdditional: null
-Name: 'EffectObjReEmit'
+Name: Effect Obj ReEmit
 RailRequired: false
-Switches: null

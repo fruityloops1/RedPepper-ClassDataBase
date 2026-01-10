@@ -1,8 +1,4 @@
-Args: null
 ClassName: EffectObjFollowCamera
 ClassNameFull: EffectObjFollowCamera
-Description: null
-DescriptionAdditional: null
-Name: 'EffectObjFollowCamera'
+Name: Effect Obj Follow Camera
 RailRequired: false
-Switches: null

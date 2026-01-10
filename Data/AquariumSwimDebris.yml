@@ -1,9 +1,5 @@
-Args: null
 ClassName: AquariumSwimDebris
 ClassNameFull: AquariumSwimDebris
 Description: Object that uses ObjectData/AquariumSwimDebris.szs
-DescriptionAdditional: null
-Name: AquariumSwimDebris
+Name: Aquarium Swim Debris
 RailRequired: false
-Switches:
-  SwitchAppear: null

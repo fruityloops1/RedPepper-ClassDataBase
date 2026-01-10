@@ -7,5 +7,5 @@ Args:
     Type: int
 ClassName: MarinePlant
 ClassNameFull: MarinePlant
-Name: MarinePlant
+Name: Marine Plant
 RailRequired: false

@@ -1,8 +1,4 @@
-Args: null
 ClassName: NeedleFloor
 ClassNameFull: NeedleFloor
-Description: null
-DescriptionAdditional: null
-Name: 'NeedleFloor'
+Name: Spike Floor
 RailRequired: false
-Switches: null

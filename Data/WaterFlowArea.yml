@@ -1,9 +1,5 @@
-Args: null
 ClassName: WaterFlowArea
 ClassNameFull: WaterFlowArea
-Description: null
-DescriptionAdditional: null
-Name: 'WaterFlowArea'
+Name: Water Flow Area
 RailRequired: false
-Switches: null
 Type: AreaObj

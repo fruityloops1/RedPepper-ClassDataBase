@@ -8,5 +8,5 @@ Args:
 ClassName: CandlestandObserver
 ClassNameFull: CandlestandObserver
 Description: This object works as a parent of CandlesStand objects, and turns SwitchA ON
-Name: CandlestandObserver
+Name: Candlestand Observer
 RailRequired: false

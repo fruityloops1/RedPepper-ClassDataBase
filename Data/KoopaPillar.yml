@@ -13,5 +13,10 @@ Args:
     Type: int
 ClassName: KoopaPillar
 ClassNameFull: KoopaPillar
+Description: Pillar used in Bowser Battles. Can be destroyed in multiple ways.
 Name: Bowser Pillar
 RailRequired: false
+Switches:
+  SwitchDeadOn:
+    Description: Triggers when pillar is destroyed.
+    Type: Write

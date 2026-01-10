@@ -1,9 +1,5 @@
-Args: null
 ClassName: KinopioHouseExitArea
 ClassNameFull: KinopioHouseExitArea
-Description: null
-DescriptionAdditional: null
-Name: 'KinopioHouseExitArea'
+Name: Toad House Exit Area
 RailRequired: false
-Switches: null
 Type: AreaObj

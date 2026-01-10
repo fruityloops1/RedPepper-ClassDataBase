@@ -1,9 +1,5 @@
-Args: null
 ClassName: PlayerWidenStickXSnapArea
 ClassNameFull: PlayerWidenStickXSnapArea
-Description: null
-DescriptionAdditional: null
-Name: 'PlayerWidenStickXSnapArea'
+Name: Player Widen Stick X Snap Area
 RailRequired: false
-Switches: null
 Type: AreaObj

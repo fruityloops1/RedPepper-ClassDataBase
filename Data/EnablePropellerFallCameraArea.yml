@@ -1,9 +1,5 @@
-Args: null
 ClassName: EnablePropellerFallCameraArea
 ClassNameFull: EnablePropellerFallCameraArea
-Description: null
-DescriptionAdditional: null
-Name: 'EnablePropellerFallCameraArea'
+Name: Enable Propeller Fall Camera Area
 RailRequired: false
-Switches: null
 Type: CameraAreaObj

@@ -1,9 +1,5 @@
-Args: null
 ClassName: CameraWaveArea
 ClassNameFull: CameraWaveArea
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Camera Wave Area
 RailRequired: false
-Switches: null
 Type: AreaObj

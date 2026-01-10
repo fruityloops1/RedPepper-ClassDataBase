@@ -13,6 +13,6 @@ Args:
     Type: int
 ClassName: SoundEmitArea
 ClassNameFull: SoundEmitArea
-Name: SoundEmitArea
+Name: Sound Emit Area
 RailRequired: false
 Type: AreaObj

@@ -1,8 +1,4 @@
-Args: null
 ClassName: EffectObjStream
 ClassNameFull: EffectObjStream
-Description: null
-DescriptionAdditional: null
-Name: 'EffectObjStream'
+Name: Effect Obj Stream
 RailRequired: false
-Switches: null

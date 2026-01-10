@@ -1,9 +1,5 @@
-Args: null
 ClassName: PresentMessageArea
 ClassNameFull: PresentMessageArea
-Description: null
-DescriptionAdditional: null
-Name: 'PresentMessageArea'
+Name: Present Message Area
 RailRequired: false
-Switches: null
 Type: AreaObj

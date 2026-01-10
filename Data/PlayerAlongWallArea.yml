@@ -1,9 +1,5 @@
-Args: null
 ClassName: PlayerAlongWallArea
 ClassNameFull: PlayerAlongWallArea
-Description: null
-DescriptionAdditional: null
-Name: 'PlayerAlongWallArea'
+Name: Player Along Wall Area
 RailRequired: false
-Switches: null
 Type: AreaObj

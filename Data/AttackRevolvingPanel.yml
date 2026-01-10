@@ -1,9 +1,6 @@
-Args: null
 ClassName: AttackRevolvingPanel
 ClassNameFull: al::AttackRevolvingPanel
-Description: Object that starts spinning when ground pounded on or hit from below
-  (like the rotating blocks from Super Mario World)
+Description: Object that starts spinning when ground pounded on or hit from below (like the rotating blocks from Super Mario World)
 DescriptionAdditional: Unused
-Name: AttackRevolvingPanel
+Name: Attack Revolving Panel
 RailRequired: false
-Switches: null

@@ -1,8 +1,4 @@
-Args: null
 ClassName: EffectObjSensor
 ClassNameFull: EffectObjSensor
-Description: null
-DescriptionAdditional: null
-Name: 'EffectObjSensor'
+Name: Effect Obj Sensor
 RailRequired: false
-Switches: null
