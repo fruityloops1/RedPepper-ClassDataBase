@@ -1,9 +1,5 @@
-Args: null
 ClassName: SwitchOnArea
 ClassNameFull: SwitchOnArea
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Switch On Area
 RailRequired: false
-Switches: null
 Type: AreaObj

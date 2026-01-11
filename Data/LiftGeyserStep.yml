@@ -31,4 +31,5 @@ Args:
     Type: int
 ClassName: LiftGeyserStep
 ClassNameFull: LiftGeyserStep
+Name: Seasaw Geyser Step
 RailRequired: false

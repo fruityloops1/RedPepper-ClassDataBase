@@ -1,9 +1,5 @@
-Args: null
 ClassName: DemoSceneSwitch
 ClassNameFull: DemoSceneSwitch
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Cutscene Scene Switch
 RailRequired: false
-Switches: null
 Type: Demo

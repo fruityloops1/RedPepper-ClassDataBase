@@ -25,7 +25,7 @@ Args:
       6: Boomerang Flower
       7: Stone Leaf
       8: Mushroom
-      9: Mushroom Fast
+      9: Fast Mushroom
   Arg2:
     Default: 0
     Description: Determines which direction the object pops out.

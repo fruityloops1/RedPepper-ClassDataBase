@@ -1,8 +1,4 @@
-Args: null
 ClassName: FrameOutChecker
 ClassNameFull: FrameOutChecker
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Frame Out Checker
 RailRequired: false
-Switches: null

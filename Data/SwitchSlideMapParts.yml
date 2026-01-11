@@ -25,4 +25,5 @@ Args:
     Type: int
 ClassName: SwitchSlideMapParts
 ClassNameFull: SwitchSlideMapParts
+Name: Switch Slide Map Parts
 RailRequired: false

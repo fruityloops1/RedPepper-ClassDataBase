@@ -1,8 +1,4 @@
-Args: null
 ClassName: KoopaSwitch
 ClassNameFull: KoopaSwitch
-Description: null
-DescriptionAdditional: null
-Name: 'KoopaSwitch'
+Name: Bowser Switch
 RailRequired: false
-Switches: null

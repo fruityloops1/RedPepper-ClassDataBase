@@ -1,4 +1,5 @@
 ClassName: VisibleSwitchMapParts
 ClassNameFull: VisibleSwitchMapParts
 Description: Allows actor to go invisible.
+Name: Visible Switch Map Parts
 RailRequired: false

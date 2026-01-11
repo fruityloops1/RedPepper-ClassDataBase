@@ -1,9 +1,5 @@
-Args: null
 ClassName: DemoPlayer
 ClassNameFull: DemoPlayer
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Cutscene Player
 RailRequired: false
-Switches: null
 Type: Demo

@@ -1,9 +1,5 @@
-Args: null
 ClassName: DemoSceneGoalPole
 ClassNameFull: DemoSceneGoalPole
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Cutscene Goal Pole
 RailRequired: false
-Switches: null
 Type: Demo

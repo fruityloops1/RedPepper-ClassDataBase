@@ -1,9 +1,5 @@
-Args: null
 ClassName: StickSnapOffArea
 ClassNameFull: StickSnapOffArea
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Stick Snap Off Area
 RailRequired: false
-Switches: null
 Type: AreaObj

@@ -6,4 +6,5 @@ Args:
     Required: false
     Type: int
 ClassName: PunpunMovePoint
+Name: Pom Pom Move Point
 RailRequired: false

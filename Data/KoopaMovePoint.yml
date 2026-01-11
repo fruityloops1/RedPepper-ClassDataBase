@@ -12,4 +12,5 @@ Args:
     Required: false
     Type: int
 ClassName: KoopaMovePoint
+Name: Bowser Move Point
 RailRequired: false

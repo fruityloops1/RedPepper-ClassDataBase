@@ -1,9 +1,5 @@
-Args: null
 ClassName: StickFixArea
 ClassNameFull: StickFixArea
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Stick Fix Area
 RailRequired: false
-Switches: null
 Type: AreaObj

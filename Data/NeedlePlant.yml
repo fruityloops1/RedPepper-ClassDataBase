@@ -8,5 +8,5 @@ Args:
 ClassName: NeedlePlant
 ClassNameFull: NeedlePlant
 Description: These are prickly flowers that can be destroyed by fireball.
-Name: Thorny Flower
+Name: Spiky Flower
 RailRequired: false

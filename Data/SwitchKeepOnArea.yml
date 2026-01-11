@@ -1,9 +1,5 @@
-Args: null
 ClassName: SwitchKeepOnArea
 ClassNameFull: SwitchKeepOnArea
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Switch Keep On Area
 RailRequired: false
-Switches: null
 Type: AreaObj

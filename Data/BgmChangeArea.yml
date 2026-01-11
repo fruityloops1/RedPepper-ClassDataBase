@@ -13,5 +13,6 @@ Args:
     Type: int
 ClassName: BgmChangeArea
 ClassNameFull: BgmChangeArea
+Name: BGM Change Area
 RailRequired: false
 Type: AreaObj

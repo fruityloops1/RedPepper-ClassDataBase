@@ -1,9 +1,5 @@
-Args: null
 ClassName: DemoActor
 ClassNameFull: DemoActor
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Cutscene Actor
 RailRequired: false
-Switches: null
 Type: Demo

@@ -1,9 +1,5 @@
-Args: null
 ClassName: FogAreaCameraPos
 ClassNameFull: FogAreaCameraPos
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Fog Area Camera Pos
 RailRequired: false
-Switches: null
 Type: AreaObj

@@ -25,5 +25,6 @@ Args:
     Type: int
 ClassName: DemoCamera
 ClassNameFull: DemoCamera
+Name: Cutscene Camera
 RailRequired: false
 Type: Demo

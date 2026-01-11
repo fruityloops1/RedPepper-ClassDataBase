@@ -1,8 +1,4 @@
-Args: null
 ClassName: DemoStarter
 ClassNameFull: DemoStarter
-Description: null
-DescriptionAdditional: null
-Name: 'DemoStarter'
+Name: Cutscene Starter
 RailRequired: false
-Switches: null

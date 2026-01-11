@@ -26,4 +26,5 @@ Args:
 ClassName: WaterFlowCube
 ClassNameFull: WaterFlowCube
 Description: Pushes the player in water
+Name: Water Flow Cube
 RailRequired: false

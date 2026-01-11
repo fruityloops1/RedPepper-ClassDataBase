@@ -7,4 +7,5 @@ Args:
     Type: int
 ClassName: SoundEmitObj
 ClassNameFull: SoundEmitObj
+Name: Sound Emit Obj
 RailRequired: false

@@ -1,9 +1,5 @@
-Args: null
 ClassName: Guide3DArea
 ClassNameFull: Guide3DArea
-Description: null
-DescriptionAdditional: null
-Name: 'Guide3DArea'
+Name: Guide 3D Area
 RailRequired: false
-Switches: null
 Type: AreaObj

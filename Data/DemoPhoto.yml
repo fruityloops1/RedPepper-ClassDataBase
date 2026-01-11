@@ -1,9 +1,5 @@
-Args: null
 ClassName: DemoPhoto
 ClassNameFull: DemoPhoto
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Cutscene Photo
 RailRequired: false
-Switches: null
 Type: Demo

@@ -13,4 +13,5 @@ Args:
     Type: int
 ClassName: BridgePukupukuBreakBridge
 ClassNameFull: BridgePukupukuBreakBridge
+Name: Cheep Cheep Break Bridge
 RailRequired: false
