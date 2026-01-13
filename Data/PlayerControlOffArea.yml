@@ -1,5 +1,6 @@
 ClassName: PlayerControlOffArea
-ClassNameFull: PlayerControlOffArea
+ClassNameFull: Disable Player Input Area
+Description: Area that disables all player input, including camera rotation with the bottom screen buttons.
 Name: Player Control Off Area
 RailRequired: false
 Type: AreaObj

@@ -1,9 +1,6 @@
-Args: null
 ClassName: StartEventLuigiPrison
 ClassNameFull: StartEventLuigiPrison
-Description: null
-DescriptionAdditional: null
+Description: A start event showing Luigi trapped, yelling for Mario to rescue him. Only shows up if the level hasn't been cleared yet.
 Name: Luigi Prison Start Event
 RailRequired: false
-Switches: null
 Type: StartEventObj

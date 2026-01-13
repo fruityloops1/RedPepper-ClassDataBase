@@ -7,6 +7,10 @@ Args:
     Type: bool
 ClassName: CandlestandObserver
 ClassNameFull: CandlestandObserver
-Description: This object works as a parent of CandlesStand objects, and turns SwitchA ON
+Description: This object works as a parent of Candlestand objects. Sets SwitchA ON when all children are lit.
 Name: Candlestand Observer
 RailRequired: false
+Switches:
+  SwitchA:
+    Description: ON when all Candlestand children are lit. 
+    Type: Write

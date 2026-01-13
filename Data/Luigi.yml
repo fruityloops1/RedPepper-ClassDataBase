@@ -1,8 +1,28 @@
-Args: null
+Args:
+  Arg0:
+    Default: -1
+    Description: Animation to use
+    Name: State
+    Required: false
+    Type: enum
+    Values:
+      -1: Afraid
+      1: Jumping
 ClassName: Luigi
 ClassNameFull: Luigi
-Description: null
-DescriptionAdditional: null
-Name: 'Luigi'
+Description: An NPC found in the first castle of the special worlds. Can be used in any level, but it will only spawn if it hasn't been cleared yet.
+Name: Luigi
 RailRequired: false
-Switches: null
+Switches:
+  SwitchA:
+    Description: Same as Telescope SwitchA
+    Type: Read
+  SwitchAppear:
+    Description: Needs SwitchKeepOnArea
+    Type: Read
+  SwitchB:
+    Description: Same as TelescopeTarget SwitchB
+    Type: Read
+  SwitchDeadOn:
+    Description: Activated when the stage has been cleared
+    Type: Write

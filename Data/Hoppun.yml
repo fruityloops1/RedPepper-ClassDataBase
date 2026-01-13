@@ -1,18 +1,31 @@
 Args:
   Arg0:
     Default: -1
-    Description: 
-    Name: 
+    Description: Item to spawn after dying 
+    Name: Item
     Required: false
-    Type: int
+    Type: enum
+    Values:
+      -1: Coins
+      1: Mushroom
+      2: Fire Flower
+      3: Super Leaf
+      4: One-Up
+      5: Poison Mushroom
   Arg4:
     Default: -1
     Description: 
     Name: 
     Required: false
-    Type: int
+    Type: bool
+  Arg5:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: bool
 ClassName: Hoppun
 ClassNameFull: Hoppun
-Description: Brick Block that tries to attack player
+Description: Brick Block that tries to attack the player
 Name: Fake Brick Block
 RailRequired: false

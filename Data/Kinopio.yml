@@ -1,6 +1,7 @@
 Args:
   Arg0:
     Default: -1
+    Description: Body and clothes color
     Name: Color
     Required: false
     Type: enum
@@ -13,12 +14,17 @@ Args:
       5: Purple
   Arg1:
     Default: -1
-    Description: Makes Toad start jumping.
-    Name: Can Jump
+    Description: Animation to use
+    Name: State
     Required: false
-    Type: bool
+    Type: enum
+    Values:
+      -1: Normal
+      1: Jumping
+      2: Scared
   Arg5:
     Default: -1
+    Description: Whether the toad is wearing a propeller box or not
     Name: Use Propeller
     Required: false
     Type: bool

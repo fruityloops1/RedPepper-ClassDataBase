@@ -1,5 +1,9 @@
 ClassName: SwitchKeepOnArea
 ClassNameFull: SwitchKeepOnArea
-Name: Switch Keep On Area
+Name: Switch Keep ON Area
 RailRequired: false
 Type: AreaObj
+Switches:
+  SwitchA:
+    Description: Keeps the given switch ON while inside the area
+    Type: Write

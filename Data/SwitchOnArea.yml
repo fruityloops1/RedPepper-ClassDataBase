@@ -1,5 +1,9 @@
 ClassName: SwitchOnArea
 ClassNameFull: SwitchOnArea
-Name: Switch On Area
+Name: Switch ON Area
 RailRequired: false
 Type: AreaObj
+Switches:
+  SwitchA:
+    Description: Sets the given switch ON when entering the area
+    Type: Write
