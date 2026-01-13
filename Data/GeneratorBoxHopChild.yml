@@ -1,7 +1,7 @@
 ArchiveName: GeneratorBoxChild
 Args:
   Arg0:
-    Default: -1
+    Default: 0
     Description: Order in which the face blocks will appear.
     Name: Order
     Required: false

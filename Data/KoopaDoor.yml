@@ -1,8 +1,4 @@
-Args: null
 ClassName: KoopaDoor
 ClassNameFull: KoopaDoor
-Description: null
-DescriptionAdditional: null
-Name: 'KoopaDoor'
+Name: Bowser Door
 RailRequired: false
-Switches: null

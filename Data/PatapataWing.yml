@@ -1,5 +1,5 @@
 ClassName: PatapataWing
 ClassNameFull: PatapataWing
 Description: Object that spawns from BlockHelp if the player dies repeatedly (10 times) in the same unbeaten level. When used it teleports the player to the flagpole.
-Name: Patapata Wing
+Name: P-Wing
 RailRequired: false

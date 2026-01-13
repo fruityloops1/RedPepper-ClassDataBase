@@ -2,12 +2,12 @@ Args:
   Arg3:
     Default: -1
     Description: Adds snow on top of the block.
-    Name: Add Snow
+    Name: Has Snow
     Required: false
     Type: bool
   Arg4:
     Default: -1
-    Description: 
+    Description: Distance that the block will travel.
     Name: Distance
     Required: false
     Type: int

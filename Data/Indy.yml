@@ -1,4 +1,5 @@
 ClassName: Indy
 ClassNameFull: Indy
+Description: Giant mole that walks around using a rail.
 Name: Morty Mole
-RailRequired: false
+RailRequired: true

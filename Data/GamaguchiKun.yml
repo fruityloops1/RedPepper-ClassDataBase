@@ -1,10 +1,17 @@
 Args:
   Arg0:
-    Default: -1
-    Description: 
-    Name: Spawn?
+    Default: 0
+    Description: Spawns an item. Broken and Unused?
+    Name: Item
     Required: false
-    Type: int
+    Type: enum
+    Values:
+      0: Coins
+      1: Mushroom
+      2: Fire Flower
+      3: Super Leaf
+      4: 1-Up
+      5: Poison Mushroom
 ClassName: GamaguchiKun
 ClassNameFull: GamaguchiKun
 Description: Enemy that runs away from the player and drops coins when hit.
