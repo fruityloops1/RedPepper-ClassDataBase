@@ -19,6 +19,7 @@ Args:
     Type: int
 ClassName: StartEventFirstStage
 ClassNameFull: StartEventFirstStage
+Description: Used in 1-1.
 Name: First Stage Start Event
 RailRequired: false
 Type: StartEventObj

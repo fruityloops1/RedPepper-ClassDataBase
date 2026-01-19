@@ -7,5 +7,5 @@ Args:
     Type: int
 ClassName: WobbleMapParts
 ClassNameFull: WobbleMapParts
-Name: Tilt Map Parts
+Name: Tilting Object
 RailRequired: false

@@ -20,4 +20,5 @@ Args:
     Type: int
 ClassName: GeneratorBox
 ClassNameFull: GeneratorBox
+Name: Generator Box
 RailRequired: false

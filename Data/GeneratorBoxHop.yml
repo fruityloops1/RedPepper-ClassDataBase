@@ -14,4 +14,5 @@ Args:
     Type: int
 ClassName: GeneratorBoxHop
 ClassNameFull: GeneratorBoxHop
+Name: Generator Box Hop
 RailRequired: false

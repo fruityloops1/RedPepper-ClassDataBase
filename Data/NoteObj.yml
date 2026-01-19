@@ -1,8 +1,4 @@
-Args: null
 ClassName: NoteObj
 ClassNameFull: NoteObj
-Description: null
-DescriptionAdditional: null
-Name: null
+Name: Music Note
 RailRequired: false
-Switches: null

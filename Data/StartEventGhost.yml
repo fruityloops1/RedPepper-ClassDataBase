@@ -1,9 +1,6 @@
-Args: null
 ClassName: StartEventGhost
 ClassNameFull: StartEventGhost
-Description: null
-DescriptionAdditional: null
+Description: Used for Cosmic Mario levels.
 Name: Cosmic Clone Start Event
 RailRequired: false
-Switches: null
 Type: StartEventObj
