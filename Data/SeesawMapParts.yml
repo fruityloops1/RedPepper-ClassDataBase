@@ -1,8 +1,8 @@
 Args:
   Arg0:
     Default: -1
-    Description: 
-    Name: 
+    Description: Sets the max rotation for the seesaw on each side
+    Name: Max Rotation
     Required: false
     Type: int
 ClassName: SeesawMapParts
