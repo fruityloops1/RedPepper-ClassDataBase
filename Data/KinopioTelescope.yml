@@ -55,6 +55,7 @@ Args:
       2: Star Coin
       3: Kills Toad?
       4: Super Mushroom
+      5: Super Star
 ClassName: KinopioTelescope
 ClassNameFull: KinopioTelescope
 Description: Toad can be used as a child of a telescope, on their own and on a rail. They can also spawn multiple objects and change color / bandana color (Raccoon variation)
