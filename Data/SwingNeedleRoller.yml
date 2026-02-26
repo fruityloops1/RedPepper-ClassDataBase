@@ -17,9 +17,21 @@ Args:
     Name: Delay
     Required: false
     Type: int
+  Arg5:
+    Default: -1
+    Description: How much space there is between the chains that hold the bar.
+    Name: Width between chains
+    Required: false
+    Type: int
   Arg6:
     Default: -1
     Description: How low the bar will be in game units, max is 500? anything lower in value will make the bar act like it's touching the ground. 
+    Name: Restricted Length
+    Required: false
+    Type: int
+  Arg7:
+    Default: -1
+    Description: How low the ball will be in game units. Takes priority over Arg6 (Restricted Lenght).
     Name: Length
     Required: false
     Type: int
