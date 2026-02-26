@@ -1,13 +1,13 @@
 Args:
   Arg0:
     Default: -1
-    Description: Negative number means swings in other direction
-    Name: Distance
+    Description: Negative numbers will swing in the opposite direction
+    Name: Max Swing Angle
     Required: false
     Type: int
   Arg1:
     Default: -1
-    Description: 
+    Description: How long it takes the bar to do a full swing.
     Name: Swing Time
     Required: false
     Type: int
@@ -19,12 +19,12 @@ Args:
     Type: int
   Arg6:
     Default: -1
-    Description: 
-    Name: 
+    Description: How low the bar will be in game units, max is 500? anything lower in value will make the bar act like it's touching the ground. 
+    Name: Length
     Required: false
     Type: int
 ClassName: SwingNeedleRoller
 ClassNameFull: SwingNeedleRoller
-Description: Spike bar that that spins around the air.
+Description: Spike bar that swings back and forth in the air. If it reaches the ground during its swinging it'll move horizontally. 
 Name: Swinging Spike Bar
 RailRequired: false
