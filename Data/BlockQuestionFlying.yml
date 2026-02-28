@@ -1,8 +1,8 @@
 Args:
   Arg0:
     Default: -1
-    Description: 
-    Name: 
+    Description: The speed of this object if it has a rail 
+    Name:  Rail Speed
     Required: false
     Type: int
   Arg1:
@@ -19,14 +19,14 @@ Args:
     Type: int
   Arg3:
     Default: -1
-    Description: 
-    Name: 
+    Description: Adds snow on top of the block.
+    Name: Add Snow
     Required: false
-    Type: int
+    Type: bool
   Arg4:
     Default: -1
-    Description: 
-    Name: 
+    Description: Size of the shadow that casts down
+    Name: Cast Shadow Distance
     Required: false
     Type: int
   Arg7:
