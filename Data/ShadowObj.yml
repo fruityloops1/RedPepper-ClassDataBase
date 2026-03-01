@@ -12,19 +12,19 @@ Args:
       3: Cylinder
       4: Cone
   Arg1:
-    Default: -1
+    Default: 200
     Description: 
     Name: X Size
     Required: false
     Type: int
   Arg2:
-    Default: -1
+    Default: 50
     Description: 
     Name: Y Size
     Required: false
     Type: int
   Arg3:
-    Default: -1
+    Default: 200
     Description: 
     Name: Z Size
     Required: false
