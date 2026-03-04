@@ -1,4 +1,6 @@
 ClassName: PhotoAlbum
 ClassNameFull: PhotoAlbum
+Description: "Photo album found in world 3's toad house, only works properly in toad house levels (KinopioHouseScene)\r\n. If placed as an ObjInfo it will play the opening animation and softlock the game"
 Name: Photo Album
 RailRequired: false
+Type: GoalObj
