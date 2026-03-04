@@ -1,0 +1,6 @@
+ClassName: GoalDoor
+ClassNameFull: GoalDoor
+Description: A warp door that teleports the player out of the level, only works in toad house levels (KinopioHouseScene)
+Name: Gameover House exit door
+RailRequired: false
+Type: GoalObj
