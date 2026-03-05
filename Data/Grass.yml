@@ -1,16 +1,16 @@
 Args:
   Arg0:
     Default: -1
-    Description: Adds a flower pot ring around the plant.
-    Name: Add Ring
+    Description: Adds a pot at the bottom of the plant.
+    Name: Add Pot
     Required: false
     Type: bool
   Arg1:
     Default: -1
-    Description: 
-    Name: 
+    Description: Rotates the plant randomly around the Y axis. 
+    Name: Random rotation
     Required: false
-    Type: int
+    Type: bool
 ClassName: Grass
 ClassNameFull: Grass
 Description: Actor that reacts to movement and can be burned.

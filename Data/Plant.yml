@@ -1,6 +1,6 @@
 Args:
   Arg0:
-    Default: -1
+    Default: 0
     Description: Chooses colour of the petals.
     Name: Color
     Required: false
@@ -11,8 +11,8 @@ Args:
       2: Yellow
   Arg1:
     Default: -1
-    Description: Adds a plant ring at the bottom of the plant.
-    Name: Add Ring
+    Description: Adds a pot at the bottom of the plant.
+    Name: Add Pot
     Required: false
     Type: bool
 ClassName: Plant
