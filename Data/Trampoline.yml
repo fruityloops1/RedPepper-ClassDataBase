@@ -24,19 +24,19 @@ Args:
   Arg3:
     Default: -1
     Description: 
-    Name: 
+    Name: Shadow Height
     Required: false
     Type: int
   Arg4:
     Default: -1
-    Description: 
-    Name: 
+    Description: Maintains horizontal speed after jumping
+    Name: Maintain Speed
     Required: false
-    Type: int
+    Type: bool
   Arg7:
     Default: -1
-    Description: 
-    Name: 
+    Description: Time to wait before the trampoline moves on the rail
+    Name: Rail Delay
     Required: false
     Type: int
 ClassName: Trampoline
