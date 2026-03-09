@@ -15,6 +15,15 @@ Args:
     Name: Add Pot
     Required: false
     Type: bool
+  Arg2:
+    Default: -1
+    Description: Spawns a dirt patch after breaking the plant
+    Name: Spawn Dirt
+    Required: false
+    Type: enum
+    Values:
+      -1: Enabled
+      0: Disabled
 ClassName: Plant
 ClassNameFull: Plant
 Description: A plant like object that can be destroyed with a ground pound or rolling.
