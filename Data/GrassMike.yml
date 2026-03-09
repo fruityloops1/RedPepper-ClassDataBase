@@ -39,8 +39,8 @@ Args:
       3: Left
   Arg3:
     Default: -1
-    Description: Adds a flower pot ring around the plant.
-    Name: Add RIng
+    Description: Adds a pot at the bottom of the plant.
+    Name: Add Pot
     Required: false
     Type: bool
 ClassName: GrassMike
