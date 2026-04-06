@@ -1,4 +1,9 @@
 ClassName: KickStoneStrong
 ClassNameFull: KickStoneStrong
+Description: A stone that is buried in the ground and that can be kicked.
 Name: Kick Stone Strong
 RailRequired: false
+Switches:
+  SwitchA:
+    Description: When kicked, sets the switch to ON
+    Type: Write

@@ -21,3 +21,7 @@ ClassName: CoinRailGenerator
 ClassNameFull: CoinRailGenerator
 Name: CoinRailGenerator
 RailRequired: false
+Switches:
+  SwitchA:
+    Description: Starts its behaviour when this switch is ON
+    Type: Read

@@ -15,3 +15,7 @@ ClassName: PackunFlower
 ClassNameFull: PackunFlower
 Name: Piranha Plant
 RailRequired: false
+Switches:
+  SwitchAppear:
+    Description: Spawns when the switch is ON
+    Type: Read

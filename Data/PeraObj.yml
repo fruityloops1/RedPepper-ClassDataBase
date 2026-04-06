@@ -19,5 +19,10 @@ Args:
     Type: bool
 ClassName: PeraObj
 ClassNameFull: PeraObj
+Description: Object that can be broken by multiple attacks and interactions. Leaves behind wood chips afterwards. Can trigger SwitchA.
 Name: Wooden Cutout Object
 RailRequired: false
+Switches:
+  SwitchA:
+    Description: When broken, sets the switch ON
+    Type: Write

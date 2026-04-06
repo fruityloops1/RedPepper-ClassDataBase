@@ -7,5 +7,10 @@ Args:
     Type: int
 ClassName: KickStone
 ClassNameFull: KickStone
+Description: A stone that is buried in the ground and that can be kicked.
 Name: Kickable Stone
 RailRequired: false
+Switches:
+  SwitchA:
+    Description: When kicked, sets the switch to ON
+    Type: Write
