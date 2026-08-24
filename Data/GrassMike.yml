@@ -11,8 +11,8 @@ Args:
       2: Red
   Arg1:
     Default: -1
-    Description: Object to spawn when the dandelion is blown away
-    Name: Object to Spawn
+    Description: Spawns an iten when the dandelion is blown away.
+    Name: Item to Spawn
     Required: false
     Type: enum
     Values:
@@ -28,8 +28,8 @@ Args:
       9: Fast Mushroom
   Arg2:
     Default: 0
-    Description: Determines which direction the object pops out.
-    Name: Object Rotation
+    Description: Determines which direction the item pops out.
+    Name: Item Rotation
     Required: false
     Type: enum
     Values:

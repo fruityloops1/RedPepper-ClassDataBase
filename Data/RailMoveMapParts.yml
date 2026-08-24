@@ -1,7 +1,7 @@
 Args:
   Arg0:
     Default: 1
-    Description: 
+    Description: How fast the actor moves across the rail.
     Name: Speed
     Required: false
     Type: int
@@ -24,14 +24,11 @@ Args:
     Required: false
     Type: int
   Arg7:
-    Default: 1
-    Description: 
-    Name: Show  Shadow
+    Default: 0
+    Description: Enables the shadow when set to true.
+    Name: Show Shadow
     Required: false
-    Type: enum
-    Values:
-      -1: Off
-      1: On
+    Type: bool
 ClassName: RailMoveMapParts
 ClassNameFull: RailMoveMapParts
 Name: Rail Move Map Parts

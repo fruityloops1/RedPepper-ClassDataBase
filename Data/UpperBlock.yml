@@ -2,7 +2,7 @@ Args:
   Arg3:
     Default: -1
     Description: Adds snow on top of the block.
-    Name: Has Snow
+    Name: Enables Snow
     Required: false
     Type: bool
   Arg4:

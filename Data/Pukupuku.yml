@@ -15,4 +15,4 @@ ClassName: Pukupuku
 ClassNameFull: Pukupuku
 Description: Underwater enemy that needs a rail.
 Name: Cheep Cheep
-RailRequired: false
+RailRequired: true

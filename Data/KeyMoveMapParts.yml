@@ -42,7 +42,7 @@ Args:
     Type: int
   Arg7:
     Default: -1
-    Description: Hides shadow if false
+    Description: Enables shadow when turned on.
     Name: Show Shadow
     Required: false
     Type: bool

@@ -1,7 +1,7 @@
 Args:
   Arg0:
     Default: 1
-    Description: 
+    Description: How far the dots should be.
     Name: Space between Dots
     Required: false
     Type: int

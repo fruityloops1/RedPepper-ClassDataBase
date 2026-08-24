@@ -8,13 +8,13 @@ Args:
     Type: int
   Arg1:
     Default: 1
-    Description: How far Bullet Bill will travel
+    Description: How far Bullet Bill will travel before it explodes.
     Name: Distance Travelled
     Required: false
     Type: int
   Arg2:
     Default: 1
-    Description: How fast Bullet Bill will travel
+    Description: How fast Bullet Bill will travel.
     Name: Speed
     Required: false
     Type: int

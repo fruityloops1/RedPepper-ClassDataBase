@@ -1,7 +1,7 @@
 Args:
   Arg0:
     Default: 2
-    Description: Number of bars to spawn
+    Description: Number of fire bars to spawn
     Name: No. of Bars
     Required: false
     Type: int
@@ -16,7 +16,7 @@ Args:
       1: Clockwise
   Arg2:
     Default: -1
-    Description: Fire has shadows
+    Description: Makes the fireballs have shadows.
     Name: Enable Shadow
     Required: false
     Type: bool

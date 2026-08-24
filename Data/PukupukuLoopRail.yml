@@ -8,4 +8,4 @@ Args:
 ClassName: PukupukuLoopRail
 ClassNameFull: PukupukuLoopRail
 Name: Cheep Cheep Rail
-RailRequired: false
+RailRequired: true

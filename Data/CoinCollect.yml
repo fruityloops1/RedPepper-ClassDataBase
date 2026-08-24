@@ -29,7 +29,7 @@ Args:
     Type: int
   Arg4:
     Default: -1
-    Description: Rail speed
+    Description: How fast Star Medal moves on a rail.
     Name: Rail Speed
     Required: false
     Type: int

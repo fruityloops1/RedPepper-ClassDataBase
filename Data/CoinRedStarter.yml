@@ -1,7 +1,7 @@
 Args:
   Arg0:
     Default: -1
-    Description: 
+    Description: Sets shadow shape of the ring.
     Name: Ring Shape
     Required: false
     Type: int

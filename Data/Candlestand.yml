@@ -1,7 +1,7 @@
 Args:
   Arg0:
     Default: -1
-    Description: Adds fire on the stand
+    Description: Adds fire onto the stand.
     Name: Add Fire
     Required: false
     Type: bool

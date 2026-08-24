@@ -19,7 +19,7 @@ Args:
     Type: int
   Arg3:
     Default: -1
-    Description: 
+    Description: How long Geyser waits before rising again.
     Name: Wait Time
     Required: false
     Type: int

@@ -1,8 +1,8 @@
 Args:
   Arg0:
-    Default: 0
+    Default: -1
     Description: 
-    Name: Disable Shadow
+    Name: Enable Shadow
     Required: false
     Type: bool
 ClassName: TrampleSwitch

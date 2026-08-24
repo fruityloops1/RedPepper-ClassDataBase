@@ -2,7 +2,7 @@ ArchiveName: Tenten
 Args:
   Arg0:
     Default: 1
-    Description: 
+    Description: Amount of Biddybuds to spawn.
     Name: Amount
     Required: false
     Type: int
@@ -14,13 +14,13 @@ Args:
     Type: int
   Arg2:
     Default: 1
-    Description: How fast they walk
+    Description: How fast they walk.
     Name: Speed
     Required: false
     Type: int
   Arg3:
     Default: -1
-    Description: Starting color of biddybud
+    Description: Starting color of Biddybud
     Name: Color
     Required: false
     Type: enum

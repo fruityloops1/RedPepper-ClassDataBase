@@ -1,8 +1,8 @@
 Args:
   Arg0:
-    Default: 0
+    Default: -1
     Description: 
-    Name: Item
+    Name: Item To Spawn
     Required: false
     Type: enum
     Values:

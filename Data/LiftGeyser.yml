@@ -7,13 +7,13 @@ Args:
     Type: int
   Arg1:
     Default: -1
-    Description: How long geyser stays up
+    Description: How long Geyser stays up.
     Name: Time Up
     Required: false
     Type: int
   Arg2:
     Default: -1
-    Description: How long geyser stays down
+    Description: How long Geyser stays down.
     Name: Time Down
     Required: false
     Type: int

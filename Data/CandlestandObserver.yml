@@ -1,7 +1,7 @@
 Args:
   Arg0:
     Default: -1
-    Description: 0 Plays the zelda puzzle solved jingle after all enemies are defeated
+    Description: Plays the Zelda puzzle solved jingle after all enemies are defeated.
     Name: Play Zelda SFX
     Required: false
     Type: bool
@@ -12,5 +12,5 @@ Name: Candlestand Observer
 RailRequired: false
 Switches:
   SwitchA:
-    Description: ON when all Candlestand children are lit. 
+    Description: ON when all Candlestand children are lit.
     Type: Write

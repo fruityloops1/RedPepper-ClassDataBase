@@ -1,8 +1,8 @@
 Args:
   Arg0:
     Default: -1
-    Description: Item to spawn after dying 
-    Name: Item
+    Description: Item to spawn after dying.
+    Name: Item To Spawn
     Required: false
     Type: enum
     Values:

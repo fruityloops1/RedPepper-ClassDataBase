@@ -1,7 +1,7 @@
 Args:
   Arg0:
     Default: -1
-    Description: Body and clothes color
+    Description: Determines body and clothes color.
     Name: Color
     Required: false
     Type: enum
@@ -24,7 +24,7 @@ Args:
       2: Scared
   Arg5:
     Default: -1
-    Description: Whether the toad is wearing a propeller box or not
+    Description: Whether the toad is wearing a propeller box or not.
     Name: Use Propeller
     Required: false
     Type: bool

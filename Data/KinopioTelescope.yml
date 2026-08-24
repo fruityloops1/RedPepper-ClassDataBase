@@ -2,7 +2,7 @@ ArchiveName: Kinopio
 Args:
   Arg0:
     Default: -1
-    Description: 
+    Description: Determines body and clothes color.
     Name: Color
     Required: false
     Type: enum
@@ -34,6 +34,7 @@ Args:
     Type: int
   Arg5:
     Default: -1
+    Description: Whether the toad is wearing a propeller box or not.
     Name: Use Propeller
     Required: false
     Type: bool
@@ -44,9 +45,9 @@ Args:
     Required: false
     Type: int
   Arg7:
-    Default: -1
+    Default: 1
     Description: 
-    Name: Object To Spawn
+    Name: Item To Spawn
     Required: false
     Type: enum
     Values:

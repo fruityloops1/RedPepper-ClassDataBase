@@ -13,7 +13,7 @@ Args:
     Type: int
   Arg2:
     Default: -1
-    Description: Sets the max distance to cast a shadow on
+    Description: Sets the max distance to cast a shadow on.
     Name: Shadow Distance
     Required: false
     Type: int

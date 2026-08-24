@@ -27,13 +27,13 @@ Args:
     Type: int
   Arg3:
     Default: -1
-    Description: Determines how big the shadow will be
+    Description: Determines how big the shadow will be.
     Name: Shadow Size Height
     Required: false
     Type: int
   Arg4:
     Default: -1
-    Description: 
+    Description: Determines how wide the shadow will be.
     Name: Shadow Size Width
     Required: false
     Type: int

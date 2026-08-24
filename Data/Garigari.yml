@@ -5,9 +5,10 @@ Args:
     Required: false
   Arg1:
     Default: -1
-    Description: Unsure
+    Description: Unsure?
     Name: Speed
     Required: false
+    Type: int
   Arg2:
     Default: 0
     Description: Unknown

@@ -8,7 +8,7 @@ Args:
   Arg7:
     Default: -1
     Description: Makes the feet not cast a shadow
-    Name: Hide Feet Shadow
+    Name: Hide Shadow
     Required: false
     Type: bool
 ClassName: Kabehei
