@@ -14,9 +14,9 @@ Args:
   Arg2:
     Default: -1
     Description: 
-    Name: 
+    Name: Rail?
     Required: false
-    Type: int
+    Type: bool
 ClassName: WooGan
 ClassNameFull: WooGan
 Description: An enemy that attacks by risng up from lava.

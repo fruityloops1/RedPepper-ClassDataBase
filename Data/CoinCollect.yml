@@ -38,7 +38,7 @@ Args:
     Description: 
     Name: 
     Required: false
-    Type: int
+    Type: bool
   Arg6:
     Default: -1
     Description: 

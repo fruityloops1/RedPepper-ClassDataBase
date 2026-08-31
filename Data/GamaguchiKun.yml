@@ -1,7 +1,7 @@
 Args:
   Arg0:
     Default: 0
-    Description: Spawns an item. Broken and Unused?
+    Description: Broken and Unused?
     Name: Item
     Required: false
     Type: enum

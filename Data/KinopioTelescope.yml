@@ -21,17 +21,24 @@ Args:
   Arg3:
     Default: -1
     Description: Only used if toad spawns a starcoin?
-    Max: 3
-    Min: -1
-    Name: Medal ID
+    Name: Medal ID?
     Required: false
-    Type: int
+    Type: enum
+    Values:
+      1: "1"
+      2: "2"
+      3: "3"
   Arg4:
     Default: -1
-    Description: 
-    Name: SFX?
+    Description: Toad plays a SFX when looked at?
+    Name: SFX
     Required: false
-    Type: int
+    Type: enum
+    Values:
+      -1: None
+      1: '"Hey"'
+      2: '"Hey"2'
+      3: '"Hey"3'
   Arg5:
     Default: -1
     Description: Whether the toad is wearing a propeller box or not.
@@ -62,3 +69,7 @@ ClassNameFull: KinopioTelescope
 Description: Toad can be used as a child of a telescope, on their own and on a rail. They can also spawn multiple objects and change color / bandana color (Raccoon variation)
 Name: Binoculars Toad
 RailRequired: false
+Switches:
+  SwitchB:
+    Description: 
+    Type: Write
