@@ -1,7 +1,7 @@
 Args:
   Arg0:
     Default: -1
-    Description: Determines body and clothes color.
+    Description: Body and clothes color
     Name: Color
     Required: false
     Type: enum
@@ -22,12 +22,30 @@ Args:
       -1: Normal
       1: Jumping
       2: Scared
+  Arg2:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
+  Arg3:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
   Arg5:
     Default: -1
-    Description: Whether the toad is wearing a propeller box or not.
+    Description: Whether the toad is wearing a propeller box or not
     Name: Use Propeller
     Required: false
     Type: bool
+  Arg7:
+    Default: -1
+    Description: 
+    Name: 
+    Required: false
+    Type: int
 ClassName: Kinopio
 ClassNameFull: Kinopio
 Name: Toad

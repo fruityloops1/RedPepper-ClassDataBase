@@ -1,22 +1,17 @@
 Args:
   Arg0:
     Default: -1
-    Description: 
+    Description: -1 makes the flame permanent.
     Name: Permanent Flame
     Required: false
-    Type: enum
-    Values:
-      -1: Off
-      0: On
+    Type: int
   Arg1:
     Default: 100
-    Description: 
     Name: Flame Length
     Required: false
     Type: int
   Arg2:
     Default: -1
-    Description: 
     Name: Flame Duration
     Required: false
     Type: int

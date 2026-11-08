@@ -1,8 +1,8 @@
 Args:
   Arg0:
     Default: -1
-    Description: Controls how fast Seagulls move.
-    Name: Speed
+    Description: 
+    Name: 
     Required: false
     Type: int
   Arg1:

@@ -1,13 +1,14 @@
 Args:
   Arg0:
     Default: 0
-    Description: ID that enables actor to render when inside this area.
+    Description: View group ID
     Name: ViewId
-    Required: false
-    Type: int
+    Required: true
 ClassName: ViewCtrlArea
 ClassNameFull: ViewCtrlArea
 Description: When entered, objects linked to ViewId are forced to unclip (appear)
-Name: View Control Area
+DescriptionAdditional: null
+Name: 'View Control Area'
 RailRequired: false
+Switches: null
 Type: AreaObj

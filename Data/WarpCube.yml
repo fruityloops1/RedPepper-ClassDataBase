@@ -1,14 +1,16 @@
 Args:
   Arg0:
     Default: -1
-    Description: 
-    Name: 
+    Description: SFX that can play a correct or incorrect sound.
+    Name: Play SFX
     Required: false
-    Type: int
+    Type: enum
+    Values:
+      -1: None
+      1: Incorrect
+      2: Correct
   Arg1:
     Default: -1
-    Description: 
-    Name: 
     Required: false
     Type: int
 ClassName: WarpCube

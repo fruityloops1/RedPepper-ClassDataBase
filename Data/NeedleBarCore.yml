@@ -2,18 +2,18 @@ Args:
   Arg0:
     Default: 1
     Description: Amount of Spike Balls
-    Name: No. of Spike Balls
+    Name: Amount
     Required: false
     Type: int
   Arg1:
     Default: 1
     Description: 
-    Name: No. of Chains
+    Name: Chain Amount
     Required: false
     Type: int
   Arg2:
     Default: 1
-    Description: How fast the spike bars rotate.
+    Description: 
     Name: Speed
     Required: false
     Type: int

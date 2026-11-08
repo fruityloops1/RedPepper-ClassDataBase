@@ -1,7 +1,6 @@
 Args:
   Arg0:
     Default: -1
-    Description: 
     Name: Item Order?
     Required: false
     Type: int
@@ -14,7 +13,7 @@ Args:
   Arg6:
     Default: -1
     Description: Changes spawn direction?
-    Name: unk2
+    Name: unk
     Required: false
     Type: int
   Arg7:
